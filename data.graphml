@@ -6,46 +6,33 @@
   <key for="port" id="d2" yfiles.type="portgeometry"/>
   <key for="port" id="d3" yfiles.type="portuserdata"/>
 
-  <key id="" attr.name="name.full" attr.type="string" for="node"/> <!-- full name of entity -->
-  <key id="" attr.name="name.short" attr.type="string" for="node"/> <!-- most common shortening of entity's name -->
-  <key id="" attr.name="name.synonym" attr.type="string" for="node"/> <!-- alternative names the entity might be known under -->
-  <key id="" attr.name="description" attr.type="string" for="node"/> 
-  <key id="" attr.name="url" attr.type="string" for="node"/> <!-- their main website -->
-  <key id="" attr.name="tasks" attr.type="string" for="node"/> <!-- list of tasks assigned to the entity -->
-  <key id="" attr.name="level" attr.type="string" for="node"/> <!-- municipal, county, state, federation, transnational, international -->
-  <key id="" attr.name="org" attr.type="string" for="node"/> <!-- none, bureau, agency, military, company, association -->
-  <key id="" attr.name="jurisdiction" attr.type="string" for="node"/> <!-- what (country's?) laws does the entity abide to? -->
-  <key id="" attr.name="employees.total" attr.type="long" for="node"/> <!-- how many are working there? -->
-  <key id="" attr.name="employees.cyber" attr.type="long" for="node"/> <!-- how many are working on cyber/IT topics? -->
-  <key id="" attr.name="employees.overhead" attr.type="long" for="node"/> <!-- how many are there just to keep the show running? -->
-  <key id="" attr.name="founded" attr.type="string" for="node"/> <!-- ISO-date the entity was founded -->
-  <key id="" attr.name="budget" attr.type="long" for="node"/> <!-- latest known funding in EUR equivalents -->
-  <key id="" attr.name="publication" attr.type="string" for="node"/> <!-- list of publication type and recurrence. TODO: define separate type for this? -->
+  <key for="node" id="d4" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d5" yfiles.type="resources"/>
+  <key id="d6" attr.name="name.full" attr.type="string" for="node"/> <!-- full name of entity -->
+  <key id="d7" attr.name="name.short" attr.type="string" for="node"/> <!-- most common shortening of entity's name -->
+  <key id="d8" attr.name="name.synonym" attr.type="string" for="node"/> <!-- alternative names the entity might be known under -->
+  <key id="d9" attr.name="description" attr.type="string" for="node"/> 
+  <key id="d10" attr.name="url" attr.type="string" for="node"/> <!-- their main website -->
+  <key id="d11" attr.name="tasks" attr.type="string" for="node"/> <!-- list of tasks assigned to the entity -->
+  <key id="d12" attr.name="level" attr.type="string" for="node"/> <!-- municipal, county, state, federation, transnational, international -->
+  <key id="d13" attr.name="org" attr.type="string" for="node"/> <!-- none, bureau, agency, military, company, association -->
+  <key id="d14" attr.name="jurisdiction" attr.type="string" for="node"/> <!-- what (country's?) laws does the entity abide to? -->
+  <key id="d15" attr.name="employees.total" attr.type="long" for="node"/> <!-- how many are working there? -->
+  <key id="d16" attr.name="employees.cyber" attr.type="long" for="node"/> <!-- how many are working on cyber/IT topics? -->
+  <key id="d17" attr.name="employees.overhead" attr.type="long" for="node"/> <!-- how many are there just to keep the show running? -->
+  <key id="d18" attr.name="founded" attr.type="string" for="node"/> <!-- ISO-date the entity was founded -->
+  <key id="d19" attr.name="budget" attr.type="long" for="node"/> <!-- latest known funding in EUR equivalents -->
+  <key id="d20" attr.name="publication" attr.type="string" for="node"/> <!-- list of publication type and recurrence. TODO: define separate type for this? -->
 
-  <key id="" attr.name="oversight.tech" attr.type="string" for="edge"/> <!-- fachaufsicht -->
-  <key id="" attr.name="oversight.legal" attr.type="string" for="edge"/> <!-- rechtsaufsicht -->
-  <key id="" attr.name="directs" attr.type="string" for="edge"/> <!-- weisungsbefugnis ggü... -->
-  <key id="" attr.name="member" attr.type="string" for="edge"/> <!-- mitglied in/bei... -->
-  <key id="" attr.name="shareholder" attr.type="float" for="edge"/> <!-- gesellschafter von... / data: [0.0 1.0] relative number of shares controlled  -->
-  <key id="" attr.name="complements" attr.type="string" for="edge"/> <!-- ergänzt... -->
-  <key id="" attr.name="communicate" attr.type="string" for="edge"/> <!-- tauscht sich aus mit... -->
-  <key id="" attr.name="provides" attr.type="string" for="edge"/> <!-- stellt (zb. präsidenten, ...)... -->
-  <key id="" attr.name="finances" attr.type="string" for="edge"/> <!-- finanziert... -->
+  <key for="edge" id="d21" yfiles.type="edgegraphics"/>
+  <key id="d22" attr.name="oversight.tech" attr.type="string" for="edge"/> <!-- fachaufsicht -->
+  <key id="d23" attr.name="oversight.legal" attr.type="string" for="edge"/> <!-- rechtsaufsicht -->
+  <key id="d24" attr.name="directs" attr.type="string" for="edge"/> <!-- weisungsbefugnis ggü... -->
+  <key id="d25" attr.name="member" attr.type="string" for="edge"/> <!-- mitglied in/bei... -->
+  <key id="d26" attr.name="shareholder" attr.type="float" for="edge"/> <!-- gesellschafter von... / data: [0.0 1.0] relative number of shares controlled  -->
+  <key id="d27" attr.name="complements" attr.type="string" for="edge"/> <!-- ergänzt... -->
+  <key id="d28" attr.name="communicate" attr.type="string" for="edge"/> <!-- tauscht sich aus mit... -->
+  <key id="d29" attr.name="provides" attr.type="string" for="edge"/> <!-- stellt (zb. präsidenten, ...)... -->
+  <key id="d30" attr.name="finances" attr.type="string" for="edge"/> <!-- finanziert... -->
 
-  <key attr.name="url" attr.type="string" for="node"/>
-  <key attr.name="description" attr.type="string" for="node" id="d5"/>
-  <key attr.name="type" attr.type="string" for="node" id="d5"/>
-  <key attr.name="level" attr.type="string" for="node" id="d5"/>
-  <key attr.name="shortname" attr.type="string" for="node" id="d5"/>
-  <key for="node" id="d6" yfiles.type="nodegraphics"/>
-  <key for="graphml" id="d7" yfiles.type="resources"/>
-  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
-  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
-  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
-  <graph edgedefault="directed" id="G">
-    <data key="d0"/>
-  </graph>
-  <data key="d7">
-    <y:Resources/>
-  </data>
 </graphml>
