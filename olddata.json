@@ -1,0 +1,1162 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "size": 18,
+      "color": "darkgrey",
+      "name": "Cyber-SR",
+      "fullname": "Cyber-Sicherheitsrat ",
+      "url": "https://www.cybersicherheitsrat.de/",
+      "description": "Der nationale Cyber-Sicherheitsrat (Cyber-SR) wurde 2011 im Zuge der Cyber-Sicherheitsstrategie eingerichtet, mit dem Ziel als strategischer Ratgeber der Bundesregierung langfristige Handlungsnotwendigkeiten und Trends der Cyber-Sicherheit zu identifizieren und entsprechende Impulse anzuregen. Er bringt Vertreter der Bundesebene, der Länder und aus der Wirtschaft zusammen.",
+      "occupation": " Im Cyber-SR sind BMI, BKAmt, AA, BMVg, BMWi, BMJV, BMF, BMBF und BMVI vertreten."
+    },
+    {
+      "id": 2,
+      "size": 18,
+      "color": "grey",
+      "name": "BMG",
+      "fullname": "Bundesministerium für Gesundheit",
+      "url": "https://www.bundesgesundheitsministerium.de/",
+      "description": "Das Bundesministerium für Gesundheit (BMG) ist vor allem für die Leistungsfähigkeit der Gesetzlichen Krankenversicherung sowie der Pflegeversicherung verantwortlich. Mit dem E-Health-Gesetz soll eine digitale Infrastruktur mit höchsten Sicherheitsstandards im Gesundheitswesen geschaffen werden.",
+      "occupation": " Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauftragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist."
+    },
+    {
+      "id": 3,
+      "size": 18,
+      "color": "grey",
+      "name": "AA",
+      "fullname": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/",
+      "description": "Das Auswärtige Amt (AA) setzt sich im Rahmen seiner Cyber-Außenpolitik für internationale Cyber-Sicherheit, universelle Menschenrechte im digitalen Raum, sowie die Nutzung wirtschaftlicher Chancen durch die Digitalisierung ein. Dafür wurde 2011 der Koordinierungsstab für Cyber-Außenpolitik im Auswärtigen Amt geschaffen. ",
+      "occupation": "Das AA ist im Cyber-SR vertreten. Es strebt die Gründung des Deutschen Instituts für Internet Sicherheit (DIIS) an und stellt im Wechsel mit dem BMVg die Leitung der BAKS."
+    },
+    {
+      "id": 4,
+      "size": 18,
+      "color": "grey",
+      "name": "BMVI",
+      "fullname": "Bundesministerium für Verkehr und digitale Infrastruktur",
+      "url": "https://www.bmvi.de/DE/Home/home.html",
+      "description": "Das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) ist für die Verkehrsinfrastruktur, -planung, -sicherheit sowie die digitale Infrastruktur verantwortlich. Aufgrund der sich daraus ergebenden Verantwortung für die zivile Notfallvorsorge bzw. Gefahrenabwehr, entwickelt das BMVI seine Krisenszenarien auch hinsichtlich möglicher Cyber-Angriffe auf digitale Infrastrukturen weiter.",
+      "occupation": "Das BMVI ist im Cyber-SR vertreten."
+    },
+    {
+      "id": 5,
+      "size": 18,
+      "color": "grey",
+      "name": "BMI",
+      "fullname": "Bundesministerium des Innern, für Bau und Heimat",
+      "url": "https://www.bmi.bund.de/DE/startseite/startseite-node.html",
+      "description": "Das Bundesministerium des Innern, für Bau und Heimat (BMI) ist u. a. für die Sicherheit im Cyber-Raum zuständig. Die vom BMI vorgelegte “Cyber-Sicherheitsstrategie für Deutschland 2016” wurde im November 2016 vom Kabinett verabschiedet und bildet den ressortübergreifenden, strategischen Rahmen der Bundesregierung. Das BMI koordiniert die Umsetzung der Cyber-Sicherheitsstrategie durch den Bundesbeauftragten für Informationstechnik, der auch Vorsitzender des Cyber-Sicherheitsrates ist. ",
+      "occupation": "Das BMI ist im Cyber-SR vertreten. Seinem Geschäftsbereich sind BPol, BKA, BSI, BfV und BBK zugeordnet. Auf ein Erlass des BMI hin, wurde 2017 ZITiS gegründet. Das BMI ist in den Initiativen UP KRITIS, DsiN (Beirat), sowie der AfCS vertreten. ADIC soll unter Federführung des BMVG eingerichtet werden."
+    },
+    {
+      "id": 6,
+      "size": 18,
+      "color": "grey",
+      "name": "BMJV",
+      "fullname": "Bundesministerium der Justiz und für Verbraucherschutz",
+      "url": "https://www.bmjv.de/DE/Startseite/Startseite_node.html",
+      "description": "Das Bundesministerium der Justiz und für Verbraucherschutz (BMJV) ist vor allem ein Gesetzgebungsministerium, das auch andere Bundesministerien bei ihren Rechtsetzungsvorhaben unterstützt. Innerhalb der Bundesregie-rung ist es für die wirtschaftliche Verbraucherpolitik zuständig. In diesem Rahmen beschäftigt es sich u. a. mit Themen wie dem Schutz von Bürgern und Onlinehändlern vor Cyber-Kriminalität oder Onlinemobbing. ",
+      "occupation": "Das BMJV ist im Cyber-SR vertreten."
+    },
+    {
+      "id": 7,
+      "size": 18,
+      "color": "grey",
+      "name": "BMVg",
+      "fullname": "Bundesministerium der Verteidigung",
+      "url": "https://www.bmvg.de/de",
+      "description": "Das Bundesministerium der Verteidigung (BMVg) ist für die militärische Verteidigung Deutschlands und somit auch für die Verteidigung Deutschlands im Cyber-Raum verantwortlich. Dafür setzt das BMVg auf nationale und internationale Kooperationen und Partnerschaften, zum Beispiel mit dem Cyber Innovation Hub oder dem Cooperative Cyber Defense Centre of Excellence der NATO. Im Ministerium ist die Abteilung Cyber- und Informationstechnik (CIT) für den Bereich Cyber-Verteidigung federführend zuständig. ",
+      "occupation": "Das BMVg ist im Cyber-SR vertreten.Ihm ist die Bw nachgeordnet und die BAKS gehört zu seinem Geschäftsbereich. ADIC soll unter Federführung des BMVg eingerichtet werden."
+    },
+    {
+      "id": 8,
+      "size": 18,
+      "color": "grey",
+      "name": "BKAmt",
+      "fullname": "Bundeskanzeramt",
+      "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt",
+      "description": "Das Bundeskanzleramt (BKAmt) unterstützt den/ die Bundeskanzler:in bei ihrer inhaltlichen Arbeit. Dazu unterhält es durch seine “Spiegelreferate” engen Kontakt zu den Bundesministerien. Mit Themen der Cyber-Sicherheit kommt es u. a. bei der Dienst- und Fachaufsicht des BND und der Finanzierung der SWP in Berührung.",
+      "occupation": "Das BKAmt ist im Cyber-SR vertreten und ihm ist der BND nachgeordnet. Aus seinem Haushalt wird die institutionelle Zuwendung an die SWP gezahlt."
+    },
+    {
+      "id": 9,
+      "size": 18,
+      "color": "grey",
+      "name": "BMBF",
+      "fullname": "Bundesministerium für Bildung und Forschung",
+      "url": "https://www.bmbf.de/",
+      "description": "Das Bundesministerium für Bildung und Forschung (BMBF) finanziert als Teil der Digitalen Agenda drei Kompetenzzentren für IT-Sicherheitsforschung. Mit dem CISPA (Saarbrücken), CRISP (Darmstadt) und KASTEL (Karlsruhe) soll die deutsche Forschungskapazität im Bereich der Cyber-Sicherheit nachhaltig erhöht werden.",
+      "occupation": "Das BMBF ist im Cyber-SR vertreten und fördert die Kompetenzzentren für IT-Sicherheit."
+    },
+    {
+      "id": 10,
+      "size": 18,
+      "color": "grey",
+      "name": "BMWi",
+      "fullname": "Bundesministeriums für Wirtschaft und Energie",
+      "url": "https://www.bmwi.de/Navigation/DE/Home/home.html",
+      "description": "Das Bundesministerium für Wirtschaft und Energie (BMWi) hat es sich zum Ziel gesetzt für Wirtschaft, Gesellschaft und Staat den Zugang zu einer sicheren und vertrauenswürdigen IT zu schaffen, damit diese von der Digitalisierung bestmöglich profitieren können. Das BMWi setzt sich dabei vor allem für IT-Sicherheit in der Industrie 4.0 ein. ",
+      "occupation": "Das BMWi ist im Cyber-SR vertreten. Es hat die Initiative IT-Sicherheit in der Wirtschaft und Trusted Cloud ins Leben gerufen. Es ist im Beirat von DsiN vertreten; die BNetzA gehört zum Geschäftsbereich."
+    },
+    {
+      "id": 11,
+      "size": 18,
+      "color": "grey",
+      "name": "BMZ",
+      "fullname": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "url": "http://www.bmz.de/de/index.html",
+      "description": "Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) ist für die Entwicklungszusammenarbeit der Bundesregierung verantwortlich. Dabei entwickelt das BMZ auch gesicherte IT-Lösungen für Partnerländer und unterstützt Cyber Capacity Building durch Bildungsprogramme vor Ort.",
+      "occupation": "Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer der beiden Gesellschafter."
+    },
+    {
+      "id": 12,
+      "size": 18,
+      "color": "grey",
+      "name": "BMF",
+      "fullname": "Bundesministerium der Finanzen",
+      "url": "https://www.bundesfinanzministerium.de/Web/DE/Home/home.html",
+      "description": "Das Bundesfinanzministerium (BMF) ist vorrangig für die Steuer-, Haushalts- und Europäische Finanzpolitik zuständig. Es entwickelt zum Beispiel gemeinsam mit nationalen und internationalen Partnern Mindeststandards für die Cyber-Sicherheit in der Finanzdienstleistungsbranche. ",
+      "occupation": "Das BMF ist im Cyber-SR vertreten. Ihm nachgeordnet ist das ZKA und es hat außerdem die Rechts- und Fachaufsicht über die BaFin. BMZ und BMF sind Gesellschafter der GIZ."
+    },
+    {
+      "id": 13,
+      "size": 18,
+      "color": "pink",
+      "name": "DIIS",
+      "fullname": "Deutschen Instituts für Internet Sicherheit",
+      "url": "",
+      "description": "In der Cyber-Sicherheitsstrategie für Deutschland 2016 wurde die Gründung eines Deutschen Instituts für Cyber-Sicherheit (DIIS) angekündigt. Das Institut soll unterschiedliche Akteure einbeziehen, um an Cyber-Sicherheitsthemen mit Bezug zu internationaler Stabilität und Krisenprävention zu arbeiten. Dabei soll es Regierungen als internationaler Ansprechpartner zur Verfügung stehen. ",
+      "occupation": "Das DIIS soll vom AA gegründet werden."
+    },
+    {
+      "id": 14,
+      "size": 18,
+      "color": "orange",
+      "name": "Bpol",
+      "fullname": "Bundespolizei",
+      "url": "https://www.bundespolizei.de/Web/DE/_Home/home_node.html",
+      "description": "Die Bundespolizei (BPol) übernimmt Aufgaben im Bereich des Grenzschutz, der Luftsicherheit, Bahnpolizei und Kriminalitätsbekämpfung. Da illegale Aktivitäten immer stärker auch im Internet oder mithilfe von Informationstechnik ausgeübt werden, bekämpft die BPol zunehmend auch Internet-Kriminalität. ",
+      "occupation": "Die BPol gehört zum Geschäftsbereich des BMI. Sie ist im Cyber-AZ vertreten und greift auf die Expertise von ZITiS zurück. Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt."
+    },
+    {
+      "id": 15,
+      "size": 18,
+      "color": "orange",
+      "name": "BKA",
+      "fullname": "Bundeskriminalamt",
+      "url": "https://www.bka.de/DE/Home/home_node.html",
+      "description": "Das Bundeskriminalamt (BKA) hat als Zentralstelle der deutschen Polizei sein Aufgabenfeld der nationalen Verbrechensbekämpfung auch auf den Cyber-Raum ausgeweitet. Es klärt Straftaten im Cyber-Raum auf, ermittelt und versucht Cyber-Kriminalität vorzubeugen. ",
+      "occupation": "Das BKA gehört zum Geschäftsbereich des BMI. Es ist im Cyber-AZ, sowie im G4C und der Initiative Wirtschaftsschutz vertreten. Es ist im DsiN Beirat und greift auf die Expertise von ZITiS zurück."
+    },
+    {
+      "id": 16,
+      "size": 18,
+      "color": "orange",
+      "name": "BfV",
+      "fullname": "Bundesamt für Verfassungsschutz",
+      "url": "https://www.verfassungsschutz.de/",
+      "description": "Das Bundesamt für Verfassungsschutz (BfV) untersucht wie neue technische Möglichkeiten beispielsweise von Extremisten, Terroristen oder ausländischen Nachrichtendiensten genutzt werden, um in Deutschland Spionage, politische Desinformation oder Computersabotage zu betreiben. Das BfV versucht Cyber-Angriffe auf staatliche und private Einrichtungen abzuwehren und aufzuklären. ",
+      "occupation": "Das BfV gehört zum Geschäftsbereich des BMI. Es ist im Cyber-AZ und der Initiative Wirtschaftsschutz vertreten und greift auf die Expertise von ZITiS zurück."
+    },
+    {
+      "id": 17,
+      "size": 18,
+      "color": "orange",
+      "name": "BBK",
+      "fullname": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+      "url": "https://www.bbk.bund.de/DE/Home/home_node.html",
+      "description": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) übernimmt eine wichtige Funktion im Gesamtkonzept der nationalen Sicherheitsarchitektur. In diesem Rahmen beschäftigt es sich zunehmend auch mit den Risiken von Cyber-Angriffen auf kritische Infrastrukturen. Das BBK ist im Cyber-AZ vertreten und sein Personal besetzt das Gemeinsame Melde- und Lagezentrum (GMLZ). ",
+      "occupation": "Die BBK gehört zum Geschäftsbereich des BMI und ist im GMLZ, UP KRITIS und Cyber-AZ vertreten."
+    },
+    {
+      "id": 18,
+      "size": 18,
+      "color": "orange",
+      "name": "Bw",
+      "fullname": "Verwaltungs-CERT-Verbund",
+      "url": "https://www.bundeswehr.de/portal/a/bwde/start",
+      "description": "Die Bundeswehr (Bw) ist u. a. für die Landes- und Bündnisverteidigung verantwortlich. Um dieser Aufgabe im digitalen Zeitalter gerecht zu werden, wurde im April 2017 der neue militärische Organisationsbereich Cyber- und Informationsraum (CIR) aufgestellt. Neben Heer, Luftwaffe und Marine ist die neue Organisation ganzheitlich für die Verteidigung des Cyber- und Informationsraums verantwortlich. ",
+      "occupation": "Die Bw gehört zum Geschäftsbereich des BMVg. Sie bildet Teile ihres Personals an der UniBw aus und ist im Cyber-AZ, sowie im CERT-Verbund vertreten."
+    },
+    {
+      "id": 19,
+      "size": 18,
+      "color": "orange",
+      "name": "BND",
+      "fullname": "Bundesnachrichtendienst",
+      "url": "Bundesnachrichtendienst",
+      "description": "Der Bundesnachrichtendienst (BND) ist der Auslandsnachrichtendienst der Bundesrepublik Deutschland und handelt im Auftrag der Bundesregierung. Im Ausland erfasst er Angriffe, die der Cyber-Spionage oder -Sabotage in Deutschland dienen sollen und warnt betroffene Akteure im Inland entsprechend vor, damit Abwehrmechanismen eingeleitet werden können. Bekannt ist dieser Teil seiner Arbeit auch unter dem Akronym SSCD - SIGINT Support to Cyber Defense. ",
+      "occupation": "Der BND gehört zum Geschäftsbereich des BKAmt. Er ist an der Initiative Wirtschaftsschutz beteiligt und im Cyber-AZ vertreten. Sein Personal wird u.a. an der UniBw ausgebildet."
+    },
+    {
+      "id": 20,
+      "size": 18,
+      "color": "orange",
+      "name": "BfDI",
+      "fullname": "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+      "url": "https://www.bfdi.bund.de/DE/Home/home_node.html",
+      "description": "Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) berät und kontrolliert die Daten- und Informationsverarbeitung der öffentlichen Stellen des Bundes, sowie nicht-öffentlicher Stellen. Sie ist in der Ausübung ihres Amtes unabhängig und unterliegt nur der parlamentarischen Kontrolle durch den Bundestag. ",
+      "occupation": "Die BfDI ist im Beirat der DsiN vertreten."
+    },
+    {
+      "id": 21,
+      "size": 18,
+      "color": "orange",
+      "name": "BNetzA",
+      "fullname": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
+      "url": "https://www.bundesnetzagentur.de/cln_111/DE/Home/home_node.html",
+      "description": "Die Bundesnetzagentur (BNetzA) ist vorrangig für Regulierungs- und Wettbewerbsfragen in den Bereichen Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zuständig. Da die Bedeutung von Cyber-Sicherheit in diesen Bereichen zunehmend an Bedeutung gewinnt, kümmert sich die BNetzA auch um IT-Sicherheitsanforderungen in den entsprechenden Sektoren. ",
+      "occupation": "Die BNetzA gehört zum Geschäftsbereich des BMWi. Gemeinsam mit dem BSI hat sie den IT-Sicherheitskatalog herausgebracht zu dessen Umsetzung alle Betreiber von Gas- und Stromnetzen verpflichtet sind."
+    },
+    {
+      "id": 22,
+      "size": 18,
+      "color": "orange",
+      "name": "ZKA",
+      "fullname": "Zollkriminalamt",
+      "url": "http://www.zoll.de",
+      "description": "Das Zollkriminalamt (ZKA) gehört zum Geschäftsbereich des BMF und ist für die Prävention und Aufklärung von mittlerer, schwerer und organisierter Zollkriminalität verantwortlich. Dabei koordiniert das ZKA die Ermittlungen der einzelnen Zollfahndungsämter und kann in besonderen Fällen auch eigene Ermittlungen aufnehmen. Dies erstreckt sich auch auf den Cyber-Raum. ",
+      "occupation": "Das ZKA ist dem BMF nachgeordnet und ist im Cyber-AZ vertreten."
+    },
+    {
+      "id": 23,
+      "size": 18,
+      "color": "orange",
+      "name": "BaFin",
+      "fullname": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "url": "https://www.bafin.de/DE/Startseite/startseite_node.html",
+      "description": "Die Aufgabe der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist es ein funktionsfähiges, integres und stabiles Finanzsystem in Deutschland zu gewährleisten. Im Bereich der Wirtschaftskriminalität sieht die BaFin für Versicherer, Finanzdienstleister und Banken eine zunehmende Gefahr durch Cyber-Kriminalität. ",
+      "occupation": "Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten."
+    },
+    {
+      "id": 24,
+      "size": 18,
+      "color": "pink",
+      "name": "ADIC",
+      "fullname": "Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien",
+      "url": "https://www.bmvg.de/de/aktuelles/technologiesouveraenitaet-erlangen-die-neue-cyberagentur-27996",
+      "description": "Die Einrichtung der Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien (ADIC) wurde im Koalitionsvertrag 2018 beschlossen. Sie soll unter der Federführung des BMI und BMVg sowie mithilfe eines IT-Sicherheitsfonds, die “technologische Innovationsführerschaft” im Bereich der sicherheitsrelevanten Schlüsseltechnologien gewährleisten. ",
+      "occupation": "Die ADIC soll sich unter Federführung des BMI und BMVg eingerichtet werden."
+    },
+    {
+      "id": 25,
+      "size": 18,
+      "color": "green",
+      "name": "ZITiS",
+      "fullname": "Zentrale Stelle für Informationstechnik im Sicherheitsbereich",
+      "url": "https://www.zitis.bund.de/DE/Home/home_node.html",
+      "description": "Die Zentrale Stelle für Informationstechnik im Sicherheitsbereich (ZITiS) entwickelt, forscht, unterstützt und berät die deutschen Sicherheitsbehörden in den folgenden Bereichen: Digitale Forensik, Telekommunikations- überwachung, Krypto- und Big-Data-Analyse. Darüber hinaus arbeitet ZITiS auch zu technischen Fragen im Bereich der Kriminalitätsbekämpfung, Gefahren- und Spionageabwehr. ",
+      "occupation": "ZITiS wurde vom BMI gegründet. Sie versorgt BKA, BfV und BPol mit ihrer Expertise. Sie ist auf dem Campus der UniBw angesiedelt und befindet sich so auch in geographischer Nähe zu CODE."
+    },
+    {
+      "id": 26,
+      "size": 18,
+      "color": "green",
+      "name": "BAKS",
+      "fullname": "Bundesakademie für Sicherheitspolitik",
+      "url": "https://www.baks.bund.de/",
+      "description": "Die Bundesakademie für Sicherheitspolitik (BAKS) ist die zentrale Weiterbildungsstätte des Bundes für Sicherheitspolitik. In unterschiedlichen Veranstaltungsformaten, wie z. B. dem “Berliner Forum zur Cyber-Sicherheit”, setzt sie sich mit den sicherheitspolitischen Herausforderungen im digitalen Raum auseinander. ",
+      "occupation": "Die BAKS gehört zum Geschäftsbereich des BMVg. Präsident und Vizepräsident kommen abwechselnd aus BMVg und AA"
+    },
+    {
+      "id": 27,
+      "size": 18,
+      "color": "green",
+      "name": "UniBw",
+      "fullname": "Universität der Bundeswehr",
+      "url": "https://www.unibw.de/home",
+      "description": "Die Universität der Bundeswehr München (UniBw) bildet Offiziere und Offiziersanwärter wissenschaftlich aus. Die Studiengänge umfassen aktuell Informatik, Cyber-Sicherheit, Mathematical Engineering und Wirtschaftsinformatik. ",
+      "occupation": "Die UniBw bildet Bw Personal wissenschaftlich aus und beheimatet CODE als fakultätsübergreifendes Forschungszentrum."
+    },
+    {
+      "id": 28,
+      "size": 18,
+      "color": "green",
+      "name": "SWP",
+      "fullname": "Stiftung Wissenschaft und Politik",
+      "url": "https://www.swp-berlin.org/",
+      "description": "Die Stiftung Wissenschaft und Politik (SWP) berät Bundestag und Bundesregierung, sowie internationale Organisationen zu außen- und sicherheitspolitischen Fragen und ist dabei politisch unabhängig. Ihre Forschung umfasst auch Digitalisierungs- und Cyber-Sicherheitsthemen. ",
+      "occupation": "Die SWP erhält ihre institutionelle Zuwendung vom BKAmt."
+    },
+    {
+      "id": 29,
+      "size": 18,
+      "color": "green",
+      "name": "DsiN",
+      "fullname": "Deutschland Sicher im Netz",
+      "url": "https://www.sicher-im-netz.de/",
+      "description": "Deutschland sicher im Netz e.V. (DsiN) wurde im Rahmen des 1. Nationalen IT-Gipfels gegründet, um die Bevölkerung, sowie kleine und mittlere Betriebe über IT-Sicherheit aufzuklären. In Kooperation mit seinen Mitgliedern und Partnern betreibt DsiN verschiedene Initiativen und Projekte, um konkrete Hilfestellungen für IT-Sicherheit zu leisten.",
+      "occupation": "Das BMI, BMWi, BSI, BKA und BfDI sind im DsiN Beirat vertreten. DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft."
+    },
+    {
+      "id": 30,
+      "size": 18,
+      "color": "green",
+      "name": "GIZ",
+      "fullname": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+      "url": "https://www.giz.de/",
+      "description": "Die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) hilft der Bundesregierung bei der Realisierung ihrer Ziele zur internationalen Entwicklungszusammenarbeit. Sie unterstützt die Förderung von Informations- und Kommunikationstechnologien und plant in Zukunft auch Cyber-Sicherheit als Element der traditionellen Entwicklungszusammenarbeit aufzunehmen. ",
+      "occupation": "BMZ und BMF sind Gesellschafter der GIZ."
+    },
+    {
+      "id": 31,
+      "size": 18,
+      "color": "pink",
+      "name": "Telematikinfrastruktur",
+      "fullname": "Kassenärztliche Bundesvereinigung - Telematikinfrastruktur: Datenautobahn für das Gesundheitswesen",
+      "url": "www.kbv.de/html/telematikinfrastruktur.php",
+      "description": "",
+      "occupation": ""
+    },
+    {
+      "id": 32,
+      "size": 18,
+      "color": "pink",
+      "name": "G4C",
+      "fullname": "German Competence Centre against Cyber Crime e.V.",
+      "url": "www.g4c-ev.org",
+      "description": "Das German Competence Centre against Cyber Crime (G4C) ist ein Verein, der unterschiedliche Akteure in einer strategischen Allianz gegen Cyber-Kriminalität zusammenbringt. Durch einen täglichen Informationsaustausch zwischen den behördlichen Kooperationspartnern und den Mitgliedern, können diese geeignete Schutzmaßnahmen entwickeln. ",
+      "occupation": "Das G4C kooperiert mit dem BKA und dem BSI."
+    },
+    {
+      "id": 33,
+      "size": 18,
+      "color": "steelblue",
+      "name": "UP KRITIS",
+      "fullname": "Umsetzungsplan KRITIS, öffentlich-private Kooperation zwischen Betreibern Kritischer Infrastrukturen",
+      "url": "https://www.kritis.bund.de/SubSites/Kritis/DE/Aktivitaeten/Nationales/UPK/upk_node.html",
+      "description": "Der Umsetzungsplan Kritische Infrastrukturen (UP KRITIS) hat die Aufgabe, die Versorgung durch Kritische Infrastrukturen zu erhalten. Dafür dient UP KRITIS als öffentlich-private Kooperation zwischen staatlichen Stellen, Betreibern Kritischer Infrastrukturen und ihren Verbänden. Da Informations- und Kommunikationstechnik einen immer größerer Bestandteil von Kritischen Infrastrukturen darstellt, kommt ihrem Schutz eine zentrale Rolle zu. ",
+      "occupation": "Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK."
+    },
+    {
+      "id": 34,
+      "size": 18,
+      "color": "steelblue",
+      "name": "Initiative Wirtschaftsschutz",
+      "fullname": "",
+      "url": "https://www.wirtschaftsschutz.info",
+      "description": "Die Initiative Wirtschaftsschutz hat das Ziel den Schutz wichtiger Unternehmenswerte der deutschen Wirtschaft zu verbessern. Das BMI koordiniert die Zusammenarbeit von staatlichen Stellen und Wirtschaftsverbänden. Die Initiative bietet ein umfangreiches Schutzkonzept aus Maßnahmen, Handlungsempfehlungen und Seminaren. ",
+      "occupation": "Die Initiative Wirtschaftsschutz arbeitet auf staatlicher Seite mit dem BND, BfV, BKA und dem BSI zusammen"
+    },
+    {
+      "id": 35,
+      "size": 18,
+      "color": "steelblue",
+      "name": "GMLZ",
+      "fullname": "Gemeinsames Melde- und Lagezentrum von Bund und Ländern",
+      "url": "https://www.bbk.bund.de/DE/AufgabenundAusstattung/Krisenmanagement/GMLZ/GMLZ_einstieg.html",
+      "description": "Das Gemeinsame Melde- und Lagezentrum (GMLZ) hat die Aufgabe für Bund, Länder und Fachbehörden ein einheitliches Lagebild für den Bevölkerungsschutz abzubilden. Dafür verfolgt und bewertet es rund um die Uhr relevante Geschehnisse im In- und Ausland und berichtet im täglichen Lagebericht oder gezielten Lagemeldungen. ",
+      "occupation": "Das GMLZ übernimmt nachts die Aufgaben des LZ. Das BBK ist im GMLZ vertreten."
+    },
+    {
+      "id": 36,
+      "size": 18,
+      "color": "steelblue",
+      "name": "CODE",
+      "fullname": "Forschungsinstitut Cyber Defence (CODE) Universität der Bundeswehr München",
+      "url": "https://www.unibw.de/code-events",
+      "description": "Das Forschungsinstitut Cyber Defence (CODE) an der Universität der Bundeswehr wurde vom BMVg mit dem Ziel gegründet, innovative technische Neuerungen für Bundeswehr und Bund zum Schutz von Daten, Software und Systemen zu verwirklichen. Darüber hinaus ist das interdisziplinäre, unabhängige Forschungsinstitut an die wissenschaftliche Aus-, Fort- und Weiterbildung der Universität der Bundeswehr angebunden. Hier baut es ein intersektorales Cyber-Cluster auf. ",
+      "occupation": "CODE ist das Forschungszentrum Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird. Es befindet sich im selben Gebäude wie ZITiS."
+    },
+    {
+      "id": 37,
+      "size": 18,
+      "color": "steelblue",
+      "name": "Kompetenz- & Forschungszentren für IT-Sicherheit",
+      "fullname": "",
+      "url": "https://kompetenz-it-sicherheit.de/?doing_wp_cron=1543788919.5848970413208007812500",
+      "description": "Die drei Kompetenz- und Forschungszentren für IT-Sicherheit in Saarbrücken, Darmstadt und Karlsruhe sind Bestandteil der Digitalen Agenda des BMBF. Mit der Gründung der drei Forschungszentren hat die Bundesregierung die Forschung und Entwicklung im Bereich Cyber-Sicherheit und Schutz der Privatsphäre maßgeblich ausgeweitet. ",
+      "occupation": "Die drei Kompetenz- und Forschungszentren für IT-Sicherheit werden durch das BMBF gefördert."
+    },
+    {
+      "id": 38,
+      "size": 18,
+      "color": "steelblue",
+      "name": "IT-Sicherheitskatalog",
+      "fullname": "IT-Sicherheitskatalog für Betreiber von Strom- und Gasnetzen / Energieanlagen",
+      "url": "https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/IT_Sicherheit/IT_Sicherheit.html",
+      "description": "Der IT-Sicherheitskatalog wurde gemeinsam von der BNetzA und dem BSI herausgebracht. Er verpflichtet alle Betreiber von Gas- und Stromnetzen dazu ein angemessenes Sicherheitsniveau ihrer Telekommunikations- und EDV-Systeme zu garantieren. ",
+      "occupation": "Beim IT-Sicherheitskatalog kooperieren BNetzA und BSI."
+    },
+    {
+      "id": 39,
+      "size": 18,
+      "color": "steelblue",
+      "name": "Initiative IT-Sicherheit i.d. Wirtschaft",
+      "fullname": "",
+      "url": "http://www.it-sicherheit-in-der-wirtschaft.de/IT-Sicherheit/Navigation/task-force.html",
+      "description": "Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi für kleine und mittlere Unternehmen. Eine Vielzahl von Aktivitäten werden von der Initiative gebündelt. Die Mitglieder des Steuerkreises sind IT-Experten aus Verwaltung, Wissenschaft und Wirtschaft und beraten die Initiative IT-Sicherheit in der Wirtschaft bei der Umsetzung ihrer Projekte. ",
+      "occupation": " Die Initiative IT-Sicherheit in der Wirtschaft, ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben."
+    },
+    {
+      "id": 40,
+      "size": 18,
+      "color": "steelblue",
+      "name": "Trusted Cloud",
+      "fullname": "Kompetenznetzwerk Trusted Cloud",
+      "url": "https://www.trusted-cloud.de/de/projekt",
+      "description": "Das Kompetenznetzwerk Trusted Cloud (Trusted Cloud) ist aus dem gleichnamigen Programm des BMWi entstanden, welches ein Gütesiegel für Cloud Services entwickelt und etabliert hat. Trusted Cloud dient als neutrale und branchenübergreifende Plattform für den Austausch zwischen Cloud-Anbietern und Anwendern. ",
+      "occupation": "Trusted Cloud wurde durch das BMWi ins Leben gerufen."
+    },
+    {
+      "id": 41,
+      "size": 18,
+      "color": "steelblue",
+      "name": "CERT-Verbund",
+      "fullname": "",
+      "url": "https://www.cert-verbund.de/",
+      "description": "Der CERT-Verbund ist eine Allianz deutscher Sicherheits- und Computer-Notfallteams, die sich in Unternehmens-, Kommerziellen-, Akademischen- und Verwaltungs-CERTs auf Bundes- und Länderebene zusammengeschlossen haben. ",
+      "occupation": "Im CERT-Verbund sind u.a. die Bw und das BSI (mit dem CERT-Bund) vertreten."
+    },
+    {
+      "id": 42,
+      "size": 42,
+      "color": "red",
+      "name": "BSI",
+      "fullname": "Bundesamt für Sicherheit in der Informationstechnik",
+      "url": "https://www.bsi.bund.de/DE/Home/home_node.html",
+      "description": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat die Aufgabe die Sicherheit in der Informationstechnik des Bundes zu stärken. Als Behörde mit höchster technischer Expertise fördert es darüber hinaus die Informations- und Cyber-Sicherheit in Verwaltung, Wirtschaft und Gesellschaft durch zahlreiche Aktivitäten, Kooperationen und Initiativen. Um sich regional noch stärker zu vernetzen, baut das BSI aktuell deutschlandweit Verbindungsbüros auf. ",
+      "occupation": "Das BSI gehört zum Geschäftsbereich des BMI. In ihm beherbergt sind u.a. Cyber-AZ, AfCS, LZ, CERT-Bund und das Bürger-CERT. CERT: Computer Emergency Response Team des Bundes, (CERT-Bund) und Bürger-CERT"
+    },
+    {
+      "id": 43,
+      "size": 18,
+      "color": "pink",
+      "name": "ZAC",
+      "fullname": "Zentrale Ansprechstellen Cybercrime der Polizeien der Länder und des Bundes für die Wirtschaft",
+      "url": "https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac.html",
+      "description": "Die Zentralen Ansprechstellen Cybercrime der Polizeien der Länder und des Bundes für die Wirtschaft (ZAC) stehen Unternehmen präventiv und reaktiv im Falle von Internetstraftaten zur Verfügung. In jedem Bundesland ermitteln speziell ausgebildete Polizeibeamte gemeinsam mit IT-Spezialisten. ",
+      "occupation": "Die ZAC sind u.a. bei der BPol angesiedelt."
+    },
+    {
+      "id": 44,
+      "size": 18,
+      "color": "pink",
+      "name": "Cybercrime-Zentren",
+      "fullname": "Cybercrime-Akteure in den Bundesländern, u. a. Hessen 3C und ZCB (Bayern)",
+      "url": "",
+      "description": "13 der 16 Bundesländer haben inzwischen Cybercrime-Zentren aufgebaut, die für die Bekämpfung und Aufklärung von Cyber-Kriminalität zuständig sind. Die Cybercrime-Zentren sind organisatorisch überwiegend im Polizeibereich der entsprechenden Landeskriminalämter oder bei den Staatsanwaltschaften aufgehangen. ",
+      "occupation": "Die Cybercrime-Zentren kooperieren mit den entsprechenden Länder-CERTs."
+    },
+    {
+      "id": 45,
+      "size": 18,
+      "color": "pink",
+      "name": "VCV",
+      "fullname": "Verwaltungs-CERT-Verbund",
+      "url": "",
+      "description": "Der Verwaltungs-CERT-Verbund (VCV) ist eine Plattform zum gegenseitigen Informationsaustausch zwischen dem CERT Bund und den vorhandenen Länder-CERTs. So soll die IT-Krisenprävention und -reaktion gestärkt und die IT-Sicherheit in der öffentlichen Verwaltung verbessert werden. ",
+      "occupation": "Am VCV beteiligt sind das BSI, Länder CERTs, sowie das LSI."
+    },
+    {
+      "id": 46,
+      "size": 18,
+      "color": "pink",
+      "name": "BSI Verbindungsbüros",
+      "fullname": "",
+      "url": "",
+      "description": "Um sich regional noch stärker zu vernetzen, baut das BSI aktuell deutschlandweit Verbindungsbüros auf.",
+      "occupation": ""
+    },
+    {
+      "id": 47,
+      "size": 18,
+      "color": "pink",
+      "name": "Länder CERTs",
+      "fullname": "",
+      "url": "",
+      "description": "Die Länder-CERTs sind die Computer Emergency Response Teams der einzelnen Bundesländer. Im Rahmen des Verwaltungs-CERT-Verbunds (VCV) kooperieren Bund und Länder beim Aufbau und Betrieb der Länder-CERTs. ",
+      "occupation": "Die Länder-CERTs kooperieren mit dem CERT-Bund im BSI."
+    },
+    {
+      "id": 48,
+      "size": 18,
+      "color": "pink",
+      "name": "LSI",
+      "fullname": "Landesamt für Sicherheit in der \nInformationstechnik Bayern",
+      "url": "",
+      "description": "Das Landesamt für Sicherheit in der Informationstechnik Bayern (LSI) hat sich mit seiner Gründung im Dezember 2017 den Schutz staatlicher IT-Infrastrukturen zur Aufgabe gemacht. Es soll Kommunen und Bürger beratend unterstützen. ",
+      "occupation": "Das LSI ist Mitglied im VCV, beheimatet das Bayern-CERT und kooperiert mit dem BSI."
+    },
+    {
+      "id": 49,
+      "size": 18,
+      "color": "yellow",
+      "name": "BAMAD",
+      "fullname": "Bundesamts für den Militärischen Abschirmdienst",
+      "url": "https://mad.bundeswehr.de/",
+      "description": "Das Bundesamt für den Militärischen Abschirmdienst (BAMAD) ist eine Bundesoberbehörde und der militärische Nachrichtendienst des Bundes. Im Rahmen von 2017 durchgeführten Umstrukturierungsmaßnahmen wurde der Militärische Abschirmdienst (MAD) als BAMAD direkt dem Bundesministerium der Verteidigung unterstellt. Zu den Aufgaben des dritten und kleinsten Nachrichtendienstes, neben dem Bundesnachrichtendienst (BND) und dem Bundesamt für Verfassungsschutz (BfV), zählen Extremismus- sowie Terrorismusabwehr sowie die Bekämpfung von (Cyber-) Spionage und Sabotage in der Bundeswehr.",
+      "occupation": "Das BAMAD gehört zum Geschäftsbereich des BMVg und ist im Cyber-AZ vertreten."
+    },
+    {
+      "id": 50,
+      "size": 18,
+      "color": "yellow",
+      "name": "BAAINBw",
+      "fullname": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+      "url": "https://www.baainbw.de/",
+      "description": "Hauptaufgabe des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) ist die Ausstattung des deutschen Militärs. Dies erfolgt sowohl durch Gerätschaften als auch durch IT-Systeme. /n Die Systeme werden teilweise vom BAAINBw eigenständig entwickelt, getestet und betrieben und in anderen Fällen in Auftrag gegeben. Es trägt somit Mitverantwortung dafür, die Bundeswehr bestmöglich vor Cyberangriffen zu schützen.",
+      "occupation": "Das BAAINBw gehört zum Geschäftsbereich des BMVg. Es versorgt die Bw mit Ausrüstung und ist im Steuerungsboard des CIH vertreten."
+    },
+    {
+      "id": 51,
+      "size": 18,
+      "color": "orange",
+      "name": "ITZ Bund",
+      "fullname": "Informationstechnikzentrum Bund",
+      "url": "https://www.itzbund.de/",
+      "description": "Das ITZBund ist IT-Dienstleister der Bundesverwaltung. Es ist 2016, als Teil einer Gesamtstrategie mit dem Ziel einer konzentrierten Bündelung der IT-Kapazitäten des Bundes, aus drei Vorgängerbehörden gegründet worden: der Bundesstelle für Informationstechnik (BIT), der dem Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) nachgeordneten Bundesanstalt für IT-Dienstleistungen (DLZ-IT BMVI) und dem Zentrum für Informationsverarbeitung und Informationstechnik (ZIVIT). Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen und soll unter anderem auch den Schutz vor Cyberangriffen verbessern.",
+      "occupation": "Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen."
+    },
+    {
+      "id": 52,
+      "size": 18,
+      "color": "green",
+      "name": "BWI",
+      "fullname": "Bundesweite IT-Systemhaus GmbH",
+      "url": "https://www.bwi.de/",
+      "description": "Die BWI ist eine Gesellschaft des Bundes und sowohl IT-Dienstleister der Bundeswehr als auch ein IT-Dienstleistungszentrum des Bundes. Im Rahmen des Herkules-Großprojektes wurde die Bundeswehr-IT durch die BWI umfassend modernisiert. An der Gesellschaft und dem Großprojekt waren auch IBM und Siemens beteiligt. Ende des Jahres 2016 endeten jedoch sowohl das Projekt Herkules als auch die Beteiligung der beiden Firmen und die BWI wurde zu einer reinen Bundesgesellschaft. Schwerpunkte der Arbeit sind das Betreiben und Modernisieren von nichtmilitärischen Informationsund Kommunikationstechniken der Bundeswehr und die Unterstützung in den Bereichen Logistik und Administration. Die BWI ist unter anderem auch für das Software-Management und die IT-Sicherheit der von ihr betriebenen IT-Infrastruktur verantwortlich.",
+      "occupation": "Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund."
+    },
+    {
+      "id": 53,
+      "size": 18,
+      "color": "steelblue",
+      "name": "Cyber Security Cluster Bonn",
+      "fullname": "Cyber Security Cluster Bonn e.V.",
+      "url": "https://cyber-security-cluster.eu/",
+      "description": "Der Cyber Security Cluster Bonn e.V. ist ein Zusammenschluss von verschiedenen, in der Bonner Region ansässigen Institutionen, unter anderem dem BSI, dem Kommando Cyber- und Informationsraum der Bundeswehr, der Hochschule Bonn-Rein-Sieg und dem Fraunhofer-Institut. Auch die Deutsche Telekom, die Industrie- und Handelskammer, die Stadtverwaltung und Vertreter der Bonner Wirtschaft sind Mitglieder. Ziel ist es, die geographische Nähe zu nutzen, um die Zusammenarbeit zu intensivieren und sowohl Fachkräfte anzuziehen als auch gemeinsam an konkreten Projekten im Bereich der Cybersicherheit zu arbeiten. ",
+      "occupation": "Das BSI und das Kommando Cyber- und Informationsraum der Bundeswehr sind Mitglieder im Cyber Security Cluster Bonn e.V."
+    },
+    {
+      "id": 54,
+      "size": 18,
+      "color": "blue",
+      "name": "ITSMIG",
+      "fullname": "IT Security made in Germany ",
+      "url": "https://www.teletrust.de/it-security-made-in-germany/",
+      "description": "Das Vertrauenszeichen “IT Security made in Germany” wurde 2005 gemeinsam durch das BMI, das BMWi sowie Vertreter der deutschen IT-Sicherheitswirtschaft ins Leben gerufen. Seit 2011 wird der Verein in Form der TeleTrusT-Arbeitsgruppe “ITSMIG” fortgeführt. Ziel ist es, die gemeinsame Außendarstellung der organisierten deutschen IT-Sicherheitswirtschaft zu koordinieren und die Zusammenarbeit zu verbessern. ",
+      "occupation": "Bei der Etablierung von ITSMIG haben das BMI und das BMWi unterstützt. Beide Ministerien sind im Beirat der Arbeitsgruppe vertreten."
+    }
+  ],
+  "links": [
+    {
+      "index": 1,
+      "source": 1,
+      "target": 3,
+      "type": "controls"
+    },
+    {
+      "index": 2,
+      "source": 1,
+      "target": 4,
+      "type": "controls"
+
+    },
+    {
+      "index": 3,
+      "source": 1,
+      "target": 5,
+      "type": "controls"
+
+    },
+    {
+      "index": 4,
+      "source": 1,
+      "target": 6,
+      "type": "controls"
+
+    },
+    {
+      "index": 5,
+      "source": 1,
+      "target": 7,
+      "type": "controls"
+
+    },
+    {
+      "index": 6,
+      "source": 1,
+      "target": 8,
+      "type": "controls"
+
+    },
+    {
+      "index": 7,
+      "source": 1,
+      "target": 9,
+      "type": "controls"
+
+    },
+    {
+      "index": 8,
+      "source": 1,
+      "target": 10,
+      "type": "controls"
+
+    },
+    {
+      "index": 9,
+      "source": 1,
+      "target": 12,
+      "type": "controls"
+
+    },
+    {
+      "index": 10,
+      "source": 2,
+      "target": 31,
+      "type": "controls"
+
+    },
+    {
+      "index": 11,
+      "source": 3,
+      "target": 26,
+      "type": "controls"
+
+    },
+    {
+      "index": 12,
+      "source": 3,
+      "target": 13,
+      "type": "controls"
+
+    },
+    {
+      "index": 13,
+      "source": 5,
+      "target": 14,
+      "type": "controls"
+
+    },
+    {
+      "index": 14,
+      "source": 5,
+      "target": 15,
+      "type": "controls"
+
+    },
+    {
+      "index": 15,
+      "source": 5,
+      "target": 16,
+      "type": "controls"
+
+    },
+    {
+      "index": 16,
+      "source": 5,
+      "target": 17,
+      "type": "controls"
+
+    },
+    {
+      "index": 17,
+      "source": 5,
+      "target": 24,
+      "type": "controls"
+
+    },
+    {
+      "index": 18,
+      "source": 5,
+      "target": 25,
+      "type": "controls"
+
+    },
+    {
+      "index": 19,
+      "source": 5,
+      "target": 33,
+      "type": "controls"
+
+    },
+    {
+      "index": 20,
+      "source": 5,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 21,
+      "source": 5,
+      "target": 29,
+      "type": "controls"
+
+    },
+    {
+      "index": 22,
+      "source": 7,
+      "target": 18,
+      "type": "controls"
+
+    },
+    {
+      "index": 23,
+      "source": 7,
+      "target": 36,
+      "type": "controls"
+
+    },
+    {
+      "index": 24,
+      "source": 7,
+      "target": 24,
+      "type": "controls"
+
+    },
+    {
+      "index": 25,
+      "source": 7,
+      "target": 26,
+      "type": "controls"
+
+    },
+    {
+      "index": 26,
+      "source": 8,
+      "target": 19,
+      "type": "controls"
+
+    },
+    {
+      "index": 27,
+      "source": 8,
+      "target": 28,
+      "type": "controls"
+
+    },
+    {
+      "index": 28,
+      "source": 9,
+      "target": 37,
+      "type": "controls"
+
+    },
+    {
+      "index": 29,
+      "source": 10,
+      "target": 39,
+      "type": "controls"
+
+    },
+    {
+      "index": 30,
+      "source": 10,
+      "target": 21,
+      "type": "controls"
+
+    },
+    {
+      "index": 31,
+      "source": 10,
+      "target": 29,
+      "type": "controls"
+
+    },
+    {
+      "index": 32,
+      "source": 10,
+      "target": 40,
+      "type": "controls"
+
+    },
+    {
+      "index": 33,
+      "source": 11,
+      "target": 30,
+      "type": "controls"
+
+    },
+    {
+      "index": 34,
+      "source": 12,
+      "target": 30,
+      "type": "controls"
+
+    },
+    {
+      "index": 35,
+      "source": 12,
+      "target": 22,
+      "type": "controls"
+
+    },
+    {
+      "index": 36,
+      "source": 12,
+      "target": 23,
+      "type": "controls"
+
+    },
+    {
+      "index": 37,
+      "source": 14,
+      "target": 43,
+      "type": "controls"
+
+    },
+    {
+      "index": 38,
+      "source": 14,
+      "target": 25,
+      "type": "controls"
+
+    },
+    {
+      "index": 39,
+      "source": 14,
+      "target": 42,
+      "FIELD7": "NCAZ",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 40,
+      "source": 15,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 41,
+      "source": 15,
+      "target": 32,
+      "type": "controls"
+
+    },
+    {
+      "index": 42,
+      "source": 15,
+      "target": 25,
+      "type": "controls"
+
+    },
+    {
+      "index": 43,
+      "source": 15,
+      "target": 34,
+      "type": "controls"
+
+    },
+    {
+      "index": 44,
+      "source": 15,
+      "target": 29,
+      "type": "controls"
+
+    },
+    {
+      "index": 45,
+      "source": 16,
+      "target": 26,
+      "type": "controls"
+
+    },
+    {
+      "index": 46,
+      "source": 16,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 47,
+      "source": 16,
+      "target": 34,
+      "type": "controls"
+
+    },
+    {
+      "index": 48,
+      "source": 17,
+      "target": 35,
+      "type": "controls"
+
+    },
+    {
+      "index": 49,
+      "source": 17,
+      "target": 42,
+      "FIELD7": "NCAZ",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 50,
+      "source": 17,
+      "target": 33,
+      "type": "controls"
+
+    },
+    {
+      "index": 51,
+      "source": 18,
+      "target": 27,
+      "type": "controls"
+
+    },
+    {
+      "index": 52,
+      "source": 18,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 53,
+      "source": 18,
+      "target": 41,
+      "type": "controls"
+
+    },
+    {
+      "index": 54,
+      "source": 18,
+      "target": 36,
+      "type": "controls"
+
+    },
+    {
+      "index": 55,
+      "source": 19,
+      "target": 42,
+      "FIELD7": "NCAZ",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 56,
+      "source": 19,
+      "target": 34,
+      "type": "controls"
+
+    },
+    {
+      "index": 57,
+      "source": 19,
+      "target": 27,
+      "type": "controls"
+
+    },
+    {
+      "index": 58,
+      "source": 20,
+      "target": 29,
+      "type": "controls"
+
+    },
+    {
+      "index": 60,
+      "source": 22,
+      "target": 42,
+      "FIELD7": "NCAZ",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 61,
+      "source": 23,
+      "target": 42,
+      "FIELD7": "NCAZ",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 62,
+      "source": 25,
+      "target": 36,
+      "type": "controls"
+
+    },
+    {
+      "index": 63,
+      "source": 27,
+      "target": 36,
+      "type": "controls"
+
+    },
+    {
+      "index": 64,
+      "source": 29,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 65,
+      "source": 29,
+      "target": 39,
+      "type": "controls"
+
+    },
+    {
+      "index": 66,
+      "source": 31,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 67,
+      "source": 32,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 68,
+      "source": 33,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 69,
+      "source": 34,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 70,
+      "source": 35,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 72,
+      "source": 41,
+      "target": 42,
+      "FIELD7": "CERT",
+      "FIELD8": "",
+      "type": "controls"
+
+    },
+    {
+      "index": 73,
+      "source": 42,
+      "target": 45,
+      "FIELD7": "",
+      "FIELD8": "Am VCV beteiligt sind das BSI, Länder CERTs, sowie das LSI.",
+      "type": "controls"
+
+    },
+    {
+      "index": 74,
+      "source": 42,
+      "target": 46,
+      "type": "controls"
+
+    },
+    {
+      "index": 75,
+      "source": 42,
+      "target": 47,
+      "type": "controls"
+
+    },
+    {
+      "index": 76,
+      "source": 42,
+      "target": 48,
+      "type": "controls"
+
+    },
+    {
+      "index": 77,
+      "source": 44,
+      "target": 47,
+      "type": "controls"
+
+    },
+    {
+      "index": 78,
+      "source": 45,
+      "target": 48,
+      "FIELD7": "",
+      "FIELD8": "Am VCV beteiligt sind das BSI, Länder CERTs, sowie das LSI.",
+      "type": "controls"
+
+    },
+    {
+      "index": 79,
+      "source": 47,
+      "target": 48,
+      "type": "controls"
+
+    },
+    {
+      "index": 80,
+      "source": 7,
+      "target": 49,
+      "type": "controls"
+
+    },
+    {
+      "index": 81,
+      "source": 7,
+      "target": 50,
+      "type": "controls"
+    },
+    {
+      "index": 82,
+      "source": 50,
+      "target": 18,
+      "type": "controls"
+
+    },
+    {
+      "index": 83,
+      "source": 12,
+      "target": 51,
+      "type": "controls"
+
+    },
+    {
+      "index": 84,
+      "source": 18,
+      "target": 52,
+      "type": "controls"
+
+    },
+    {
+      "index": 85,
+      "source": 18,
+      "target": 53,
+      "type": "controls"
+
+    },
+    {
+      "index": 86,
+      "source": 53,
+      "target": 42,
+      "type": "controls"
+
+    },
+    {
+      "index": 87,
+      "source": 5,
+      "target": 54,
+      "type": "controls"
+
+    },
+    {
+      "index": 89,
+      "source": 10,
+      "target": 54,
+      "type": "controls"
+
+    }
+  ]
+}
