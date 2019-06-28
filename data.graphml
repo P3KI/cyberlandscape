@@ -36,36 +36,1570 @@
   <key for="edge" id="d32" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
-    <node id="n0">
-      <data key="d4"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik	]]></data>
-      <data key="d5"><![CDATA[BSI	]]></data>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"><![CDATA[federal]]></data>
-      <data key="d9"/>
-      <data key="d10"><![CDATA[de]]></data>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"><![CDATA[https://bsi.bund.de]]></data>
-      <data key="d18"><![CDATA[Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat die Aufgabe die Sicherheit in der Informationstechnik des Bundes zu stärken. Als Behörde mit höchster technischer Expertise fördert es darüber hinaus die Informations- und Cyber-Sicherheit in Verwaltung, Wirtschaft und Gesellschaft durch zahlreiche Aktivitäten, Kooperationen und Initiativen. Um sich regional noch stärker zu vernetzen, baut das BSI aktuell deutschlandweit Verbindungsbüros auf.
 
-Das BSI gehört zum Geschäftsbereich des BMI. In ihm beherbergt sind u.a. Cyber-AZ, AfCS, LZ, CERT-Bund und das Bürger-CERT. CERT: Computer Emergency Response Team des Bundes, (CERT-Bund) und Bürger-CERT]]></data>
+    <node id="n1">
+      <data key="d4"><![CDATA[Cyber-Sicherheitsrat]]></data>
+      <data key="d5"><![CDATA[Cyber-SR]]></data>
+      <data key="d17"><![CDATA[https://www.cybersicherheitsrat.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der nationale Cyber-Sicherheitsrat (Cyber-SR) wurde 2011 im Zuge der Cyber-Sicherheitsstrategie eingerichtet, mit dem Ziel als strategischer Ratgeber der Bundesregierung langfristige Handlungsnotwendigkeiten und Trends der Cyber-Sicherheit zu identifizieren und entsprechende Impulse anzuregen. Er bringt Vertreter der Bundesebene, der Länder und aus der Wirtschaft zusammen.
+
+          Im Cyber-SR sind BMI, BKAmt, AA, BMVg, BMWi, BMJV, BMF, BMBF und BMVI vertreten.
+        ]]>
+      </data>
       <data key="d19">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="461.0" y="348.0"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="23.388671875" x="3.3056640625" y="6.015625">BSI<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="rectangle"/>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Cyber-SR]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
+
+    <node id="n2">
+      <data key="d4"><![CDATA[Bundesministerium für Gesundheit]]></data>
+      <data key="d5"><![CDATA[BMG]]></data>
+      <data key="d17"><![CDATA[https://www.bundesgesundheitsministerium.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium für Gesundheit (BMG) ist vor allem für die Leistungsfähigkeit der Gesetzlichen Krankenversicherung sowie der Pflegeversicherung verantwortlich. Mit dem E-Health-Gesetz soll eine digitale Infrastruktur mit höchsten Sicherheitsstandards im Gesundheitswesen geschaffen werden.
+
+          Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauftragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMG]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n3">
+      <data key="d4"><![CDATA[Auswärtiges Amt]]></data>
+      <data key="d5"><![CDATA[AA]]></data>
+      <data key="d17"><![CDATA[https://www.auswaertiges-amt.de/de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Auswärtige Amt (AA) setzt sich im Rahmen seiner Cyber-Außenpolitik für internationale Cyber-Sicherheit, universelle Menschenrechte im digitalen Raum, sowie die Nutzung wirtschaftlicher Chancen durch die Digitalisierung ein. Dafür wurde 2011 der Koordinierungsstab für Cyber-Außenpolitik im Auswärtigen Amt geschaffen.
+
+          Das AA ist im Cyber-SR vertreten. Es strebt die Gründung des Deutschen Instituts für Internet Sicherheit (DIIS) an und stellt im Wechsel mit dem BMVg die Leitung der BAKS.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[AA]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n4">
+      <data key="d4"><![CDATA[Bundesministerium für Verkehr und digitale Infrastruktur]]></data>
+      <data key="d5"><![CDATA[BMVI]]></data>
+      <data key="d17"><![CDATA[https://www.bmvi.de/DE/Home/home.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) ist für die Verkehrsinfrastruktur, -planung, -sicherheit sowie die digitale Infrastruktur verantwortlich. Aufgrund der sich daraus ergebenden Verantwortung für die zivile Notfallvorsorge bzw. Gefahrenabwehr, entwickelt das BMVI seine Krisenszenarien auch hinsichtlich möglicher Cyber-Angriffe auf digitale Infrastrukturen weiter.
+
+          Das BMVI ist im Cyber-SR vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMVI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n5">
+      <data key="d4"><![CDATA[Bundesministerium des Innern, für Bau und Heimat]]></data>
+      <data key="d5"><![CDATA[BMI]]></data>
+      <data key="d17"><![CDATA[https://www.bmi.bund.de/DE/startseite/startseite-node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium des Innern, für Bau und Heimat (BMI) ist u. a. für die Sicherheit im Cyber-Raum zuständig. Die vom BMI vorgelegte “Cyber-Sicherheitsstrategie für Deutschland 2016” wurde im November 2016 vom Kabinett verabschiedet und bildet den ressortübergreifenden, strategischen Rahmen der Bundesregierung. Das BMI koordiniert die Umsetzung der Cyber-Sicherheitsstrategie durch den Bundesbeauftragten für Informationstechnik, der auch Vorsitzender des Cyber-Sicherheitsrates ist.
+
+          Das BMI ist im Cyber-SR vertreten. Seinem Geschäftsbereich sind BPol, BKA, BSI, BfV und BBK zugeordnet. Auf ein Erlass des BMI hin, wurde 2017 ZITiS gegründet. Das BMI ist in den Initiativen UP KRITIS, DsiN (Beirat), sowie der AfCS vertreten. ADIC soll unter Federführung des BMVG eingerichtet werden.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n6">
+      <data key="d4"><![CDATA[Bundesministerium der Justiz und für Verbraucherschutz]]></data>
+      <data key="d5"><![CDATA[BMJV]]></data>
+      <data key="d17"><![CDATA[https://www.bmjv.de/DE/Startseite/Startseite_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium der Justiz und für Verbraucherschutz (BMJV) ist vor allem ein Gesetzgebungsministerium, das auch andere Bundesministerien bei ihren Rechtsetzungsvorhaben unterstützt. Innerhalb der Bundesregie-rung ist es für die wirtschaftliche Verbraucherpolitik zuständig. In diesem Rahmen beschäftigt es sich u. a. mit Themen wie dem Schutz von Bürgern und Onlinehändlern vor Cyber-Kriminalität oder Onlinemobbing.
+
+          Das BMJV ist im Cyber-SR vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMJV]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n7">
+      <data key="d4"><![CDATA[Bundesministerium der Verteidigung]]></data>
+      <data key="d5"><![CDATA[BMVg]]></data>
+      <data key="d17"><![CDATA[https://www.bmvg.de/de]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium der Verteidigung (BMVg) ist für die militärische Verteidigung Deutschlands und somit auch für die Verteidigung Deutschlands im Cyber-Raum verantwortlich. Dafür setzt das BMVg auf nationale und internationale Kooperationen und Partnerschaften, zum Beispiel mit dem Cyber Innovation Hub oder dem Cooperative Cyber Defense Centre of Excellence der NATO. Im Ministerium ist die Abteilung Cyber- und Informationstechnik (CIT) für den Bereich Cyber-Verteidigung federführend zuständig.
+
+          Das BMVg ist im Cyber-SR vertreten.Ihm ist die Bw nachgeordnet und die BAKS gehört zu seinem Geschäftsbereich. ADIC soll unter Federführung des BMVg eingerichtet werden.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMVg]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n8">
+      <data key="d4"><![CDATA[Bundeskanzeramt]]></data>
+      <data key="d5"><![CDATA[BKAmt]]></data>
+      <data key="d17"><![CDATA[https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundeskanzleramt (BKAmt) unterstützt den/ die Bundeskanzler:in bei ihrer inhaltlichen Arbeit. Dazu unterhält es durch seine “Spiegelreferate” engen Kontakt zu den Bundesministerien. Mit Themen der Cyber-Sicherheit kommt es u. a. bei der Dienst- und Fachaufsicht des BND und der Finanzierung der SWP in Berührung.
+
+          Das BKAmt ist im Cyber-SR vertreten und ihm ist der BND nachgeordnet. Aus seinem Haushalt wird die institutionelle Zuwendung an die SWP gezahlt.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BKAmt]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n9">
+      <data key="d4"><![CDATA[Bundesministerium für Bildung und Forschung]]></data>
+      <data key="d5"><![CDATA[BMBF]]></data>
+      <data key="d17"><![CDATA[https://www.bmbf.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium für Bildung und Forschung (BMBF) finanziert als Teil der Digitalen Agenda drei Kompetenzzentren für IT-Sicherheitsforschung. Mit dem CISPA (Saarbrücken), CRISP (Darmstadt) und KASTEL (Karlsruhe) soll die deutsche Forschungskapazität im Bereich der Cyber-Sicherheit nachhaltig erhöht werden.
+
+          Das BMBF ist im Cyber-SR vertreten und fördert die Kompetenzzentren für IT-Sicherheit.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMBF]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n10">
+      <data key="d4"><![CDATA[Bundesministeriums für Wirtschaft und Energie]]></data>
+      <data key="d5"><![CDATA[BMWi]]></data>
+      <data key="d17"><![CDATA[https://www.bmwi.de/Navigation/DE/Home/home.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium für Wirtschaft und Energie (BMWi) hat es sich zum Ziel gesetzt für Wirtschaft, Gesellschaft und Staat den Zugang zu einer sicheren und vertrauenswürdigen IT zu schaffen, damit diese von der Digitalisierung bestmöglich profitieren können. Das BMWi setzt sich dabei vor allem für IT-Sicherheit in der Industrie 4.0 ein.
+
+          Das BMWi ist im Cyber-SR vertreten. Es hat die Initiative IT-Sicherheit in der Wirtschaft und Trusted Cloud ins Leben gerufen. Es ist im Beirat von DsiN vertreten; die BNetzA gehört zum Geschäftsbereich.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMWi]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n11">
+      <data key="d4"><![CDATA[Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung]]></data>
+      <data key="d5"><![CDATA[BMZ]]></data>
+      <data key="d17"><![CDATA[http://www.bmz.de/de/index.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) ist für die Entwicklungszusammenarbeit der Bundesregierung verantwortlich. Dabei entwickelt das BMZ auch gesicherte IT-Lösungen für Partnerländer und unterstützt Cyber Capacity Building durch Bildungsprogramme vor Ort.
+
+          Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer der beiden Gesellschafter.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMZ]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n12">
+      <data key="d4"><![CDATA[Bundesministerium der Finanzen]]></data>
+      <data key="d5"><![CDATA[BMF]]></data>
+      <data key="d17"><![CDATA[https://www.bundesfinanzministerium.de/Web/DE/Home/home.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesfinanzministerium (BMF) ist vorrangig für die Steuer-, Haushalts- und Europäische Finanzpolitik zuständig. Es entwickelt zum Beispiel gemeinsam mit nationalen und internationalen Partnern Mindeststandards für die Cyber-Sicherheit in der Finanzdienstleistungsbranche.
+
+          Das BMF ist im Cyber-SR vertreten. Ihm nachgeordnet ist das ZKA und es hat außerdem die Rechts- und Fachaufsicht über die BaFin. BMZ und BMF sind Gesellschafter der GIZ.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BMF]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n13">
+      <data key="d4"><![CDATA[Deutschen Instituts für Internet Sicherheit]]></data>
+      <data key="d5"><![CDATA[DIIS]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          In der Cyber-Sicherheitsstrategie für Deutschland 2016 wurde die Gründung eines Deutschen Instituts für Cyber-Sicherheit (DIIS) angekündigt. Das Institut soll unterschiedliche Akteure einbeziehen, um an Cyber-Sicherheitsthemen mit Bezug zu internationaler Stabilität und Krisenprävention zu arbeiten. Dabei soll es Regierungen als internationaler Ansprechpartner zur Verfügung stehen.
+
+          Das DIIS soll vom AA gegründet werden.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[DIIS]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n14">
+      <data key="d4"><![CDATA[Bundespolizei]]></data>
+      <data key="d5"><![CDATA[Bpol]]></data>
+      <data key="d17"><![CDATA[https://www.bundespolizei.de/Web/DE/_Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Bundespolizei (BPol) übernimmt Aufgaben im Bereich des Grenzschutz, der Luftsicherheit, Bahnpolizei und Kriminalitätsbekämpfung. Da illegale Aktivitäten immer stärker auch im Internet oder mithilfe von Informationstechnik ausgeübt werden, bekämpft die BPol zunehmend auch Internet-Kriminalität.
+
+          Die BPol gehört zum Geschäftsbereich des BMI. Sie ist im Cyber-AZ vertreten und greift auf die Expertise von ZITiS zurück. Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Bpol]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n15">
+      <data key="d4"><![CDATA[Bundeskriminalamt]]></data>
+      <data key="d5"><![CDATA[BKA]]></data>
+      <data key="d17"><![CDATA[https://www.bka.de/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundeskriminalamt (BKA) hat als Zentralstelle der deutschen Polizei sein Aufgabenfeld der nationalen Verbrechensbekämpfung auch auf den Cyber-Raum ausgeweitet. Es klärt Straftaten im Cyber-Raum auf, ermittelt und versucht Cyber-Kriminalität vorzubeugen.
+
+          Das BKA gehört zum Geschäftsbereich des BMI. Es ist im Cyber-AZ, sowie im G4C und der Initiative Wirtschaftsschutz vertreten. Es ist im DsiN Beirat und greift auf die Expertise von ZITiS zurück.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BKA]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n16">
+      <data key="d4"><![CDATA[Bundesamt für Verfassungsschutz]]></data>
+      <data key="d5"><![CDATA[BfV]]></data>
+      <data key="d17"><![CDATA[https://www.verfassungsschutz.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesamt für Verfassungsschutz (BfV) untersucht wie neue technische Möglichkeiten beispielsweise von Extremisten, Terroristen oder ausländischen Nachrichtendiensten genutzt werden, um in Deutschland Spionage, politische Desinformation oder Computersabotage zu betreiben. Das BfV versucht Cyber-Angriffe auf staatliche und private Einrichtungen abzuwehren und aufzuklären.
+
+          Das BfV gehört zum Geschäftsbereich des BMI. Es ist im Cyber-AZ und der Initiative Wirtschaftsschutz vertreten und greift auf die Expertise von ZITiS zurück.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BfV]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n17">
+      <data key="d4"><![CDATA[Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe]]></data>
+      <data key="d5"><![CDATA[BBK]]></data>
+      <data key="d17"><![CDATA[https://www.bbk.bund.de/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) übernimmt eine wichtige Funktion im Gesamtkonzept der nationalen Sicherheitsarchitektur. In diesem Rahmen beschäftigt es sich zunehmend auch mit den Risiken von Cyber-Angriffen auf kritische Infrastrukturen. Das BBK ist im Cyber-AZ vertreten und sein Personal besetzt das Gemeinsame Melde- und Lagezentrum (GMLZ).
+
+          Die BBK gehört zum Geschäftsbereich des BMI und ist im GMLZ, UP KRITIS und Cyber-AZ vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BBK]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n18">
+      <data key="d4"><![CDATA[Verwaltungs-CERT-Verbund]]></data>
+      <data key="d5"><![CDATA[Bw]]></data>
+      <data key="d17"><![CDATA[https://www.bundeswehr.de/portal/a/bwde/start]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Bundeswehr (Bw) ist u. a. für die Landes- und Bündnisverteidigung verantwortlich. Um dieser Aufgabe im digitalen Zeitalter gerecht zu werden, wurde im April 2017 der neue militärische Organisationsbereich Cyber- und Informationsraum (CIR) aufgestellt. Neben Heer, Luftwaffe und Marine ist die neue Organisation ganzheitlich für die Verteidigung des Cyber- und Informationsraums verantwortlich.
+
+          Die Bw gehört zum Geschäftsbereich des BMVg. Sie bildet Teile ihres Personals an der UniBw aus und ist im Cyber-AZ, sowie im CERT-Verbund vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Bw]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n19">
+      <data key="d4"><![CDATA[Bundesnachrichtendienst]]></data>
+      <data key="d5"><![CDATA[BND]]></data>
+      <data key="d17"><![CDATA[Bundesnachrichtendienst]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der Bundesnachrichtendienst (BND) ist der Auslandsnachrichtendienst der Bundesrepublik Deutschland und handelt im Auftrag der Bundesregierung. Im Ausland erfasst er Angriffe, die der Cyber-Spionage oder -Sabotage in Deutschland dienen sollen und warnt betroffene Akteure im Inland entsprechend vor, damit Abwehrmechanismen eingeleitet werden können. Bekannt ist dieser Teil seiner Arbeit auch unter dem Akronym SSCD - SIGINT Support to Cyber Defense.
+
+          Der BND gehört zum Geschäftsbereich des BKAmt. Er ist an der Initiative Wirtschaftsschutz beteiligt und im Cyber-AZ vertreten. Sein Personal wird u.a. an der UniBw ausgebildet.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BND]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n20">
+      <data key="d4"><![CDATA[Bundesbeauftragte für den Datenschutz und die Informationsfreiheit]]></data>
+      <data key="d5"><![CDATA[BfDI]]></data>
+      <data key="d17"><![CDATA[https://www.bfdi.bund.de/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) berät und kontrolliert die Daten- und Informationsverarbeitung der öffentlichen Stellen des Bundes, sowie nicht-öffentlicher Stellen. Sie ist in der Ausübung ihres Amtes unabhängig und unterliegt nur der parlamentarischen Kontrolle durch den Bundestag.
+
+          Die BfDI ist im Beirat der DsiN vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BfDI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n21">
+      <data key="d4"><![CDATA[Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen]]></data>
+      <data key="d5"><![CDATA[BNetzA]]></data>
+      <data key="d17"><![CDATA[https://www.bundesnetzagentur.de/cln_111/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Bundesnetzagentur (BNetzA) ist vorrangig für Regulierungs- und Wettbewerbsfragen in den Bereichen Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zuständig. Da die Bedeutung von Cyber-Sicherheit in diesen Bereichen zunehmend an Bedeutung gewinnt, kümmert sich die BNetzA auch um IT-Sicherheitsanforderungen in den entsprechenden Sektoren.
+
+          Die BNetzA gehört zum Geschäftsbereich des BMWi. Gemeinsam mit dem BSI hat sie den IT-Sicherheitskatalog herausgebracht zu dessen Umsetzung alle Betreiber von Gas- und Stromnetzen verpflichtet sind.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BNetzA]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n22">
+      <data key="d4"><![CDATA[Zollkriminalamt]]></data>
+      <data key="d5"><![CDATA[ZKA]]></data>
+      <data key="d17"><![CDATA[http://www.zoll.de]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Zollkriminalamt (ZKA) gehört zum Geschäftsbereich des BMF und ist für die Prävention und Aufklärung von mittlerer, schwerer und organisierter Zollkriminalität verantwortlich. Dabei koordiniert das ZKA die Ermittlungen der einzelnen Zollfahndungsämter und kann in besonderen Fällen auch eigene Ermittlungen aufnehmen. Dies erstreckt sich auch auf den Cyber-Raum.
+
+          Das ZKA ist dem BMF nachgeordnet und ist im Cyber-AZ vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ZKA]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n23">
+      <data key="d4"><![CDATA[Bundesanstalt für Finanzdienstleistungsaufsicht]]></data>
+      <data key="d5"><![CDATA[BaFin]]></data>
+      <data key="d17"><![CDATA[https://www.bafin.de/DE/Startseite/startseite_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Aufgabe der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ist es ein funktionsfähiges, integres und stabiles Finanzsystem in Deutschland zu gewährleisten. Im Bereich der Wirtschaftskriminalität sieht die BaFin für Versicherer, Finanzdienstleister und Banken eine zunehmende Gefahr durch Cyber-Kriminalität.
+
+          Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BaFin]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n24">
+      <data key="d4"><![CDATA[Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien]]></data>
+      <data key="d5"><![CDATA[ADIC]]></data>
+      <data key="d17"><![CDATA[https://www.bmvg.de/de/aktuelles/technologiesouveraenitaet-erlangen-die-neue-cyberagentur-27996]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Einrichtung der Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien (ADIC) wurde im Koalitionsvertrag 2018 beschlossen. Sie soll unter der Federführung des BMI und BMVg sowie mithilfe eines IT-Sicherheitsfonds, die “technologische Innovationsführerschaft” im Bereich der sicherheitsrelevanten Schlüsseltechnologien gewährleisten.
+
+          Die ADIC soll sich unter Federführung des BMI und BMVg eingerichtet werden.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ADIC]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n25">
+      <data key="d4"><![CDATA[Zentrale Stelle für Informationstechnik im Sicherheitsbereich]]></data>
+      <data key="d5"><![CDATA[ZITiS]]></data>
+      <data key="d17"><![CDATA[https://www.zitis.bund.de/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Zentrale Stelle für Informationstechnik im Sicherheitsbereich (ZITiS) entwickelt, forscht, unterstützt und berät die deutschen Sicherheitsbehörden in den folgenden Bereichen: Digitale Forensik, Telekommunikations- überwachung, Krypto- und Big-Data-Analyse. Darüber hinaus arbeitet ZITiS auch zu technischen Fragen im Bereich der Kriminalitätsbekämpfung, Gefahren- und Spionageabwehr.
+
+          ZITiS wurde vom BMI gegründet. Sie versorgt BKA, BfV und BPol mit ihrer Expertise. Sie ist auf dem Campus der UniBw angesiedelt und befindet sich so auch in geographischer Nähe zu CODE.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ZITiS]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n26">
+      <data key="d4"><![CDATA[Bundesakademie für Sicherheitspolitik]]></data>
+      <data key="d5"><![CDATA[BAKS]]></data>
+      <data key="d17"><![CDATA[https://www.baks.bund.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Bundesakademie für Sicherheitspolitik (BAKS) ist die zentrale Weiterbildungsstätte des Bundes für Sicherheitspolitik. In unterschiedlichen Veranstaltungsformaten, wie z. B. dem “Berliner Forum zur Cyber-Sicherheit”, setzt sie sich mit den sicherheitspolitischen Herausforderungen im digitalen Raum auseinander.
+
+          Die BAKS gehört zum Geschäftsbereich des BMVg. Präsident und Vizepräsident kommen abwechselnd aus BMVg und AA
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BAKS]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n27">
+      <data key="d4"><![CDATA[Universität der Bundeswehr]]></data>
+      <data key="d5"><![CDATA[UniBw]]></data>
+      <data key="d17"><![CDATA[https://www.unibw.de/home]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Universität der Bundeswehr München (UniBw) bildet Offiziere und Offiziersanwärter wissenschaftlich aus. Die Studiengänge umfassen aktuell Informatik, Cyber-Sicherheit, Mathematical Engineering und Wirtschaftsinformatik.
+
+          Die UniBw bildet Bw Personal wissenschaftlich aus und beheimatet CODE als fakultätsübergreifendes Forschungszentrum.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[UniBw]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n28">
+      <data key="d4"><![CDATA[Stiftung Wissenschaft und Politik]]></data>
+      <data key="d5"><![CDATA[SWP]]></data>
+      <data key="d17"><![CDATA[https://www.swp-berlin.org/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Stiftung Wissenschaft und Politik (SWP) berät Bundestag und Bundesregierung, sowie internationale Organisationen zu außen- und sicherheitspolitischen Fragen und ist dabei politisch unabhängig. Ihre Forschung umfasst auch Digitalisierungs- und Cyber-Sicherheitsthemen.
+
+          Die SWP erhält ihre institutionelle Zuwendung vom BKAmt.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[SWP]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n29">
+      <data key="d4"><![CDATA[Deutschland Sicher im Netz]]></data>
+      <data key="d5"><![CDATA[DsiN]]></data>
+      <data key="d17"><![CDATA[https://www.sicher-im-netz.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Deutschland sicher im Netz e.V. (DsiN) wurde im Rahmen des 1. Nationalen IT-Gipfels gegründet, um die Bevölkerung, sowie kleine und mittlere Betriebe über IT-Sicherheit aufzuklären. In Kooperation mit seinen Mitgliedern und Partnern betreibt DsiN verschiedene Initiativen und Projekte, um konkrete Hilfestellungen für IT-Sicherheit zu leisten.
+
+          Das BMI, BMWi, BSI, BKA und BfDI sind im DsiN Beirat vertreten. DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[DsiN]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n30">
+      <data key="d4"><![CDATA[Deutsche Gesellschaft für Internationale Zusammenarbeit]]></data>
+      <data key="d5"><![CDATA[GIZ]]></data>
+      <data key="d17"><![CDATA[https://www.giz.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) hilft der Bundesregierung bei der Realisierung ihrer Ziele zur internationalen Entwicklungszusammenarbeit. Sie unterstützt die Förderung von Informations- und Kommunikationstechnologien und plant in Zukunft auch Cyber-Sicherheit als Element der traditionellen Entwicklungszusammenarbeit aufzunehmen.
+
+          BMZ und BMF sind Gesellschafter der GIZ.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[GIZ]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n31">
+      <data key="d4"><![CDATA[Kassenärztliche Bundesvereinigung - Telematikinfrastruktur: Datenautobahn für das Gesundheitswesen]]></data>
+      <data key="d5"><![CDATA[Telematikinfrastruktur]]></data>
+      <data key="d17"><![CDATA[www.kbv.de/html/telematikinfrastruktur.php]]></data>
+      <data key="d18">
+        <![CDATA[
+          
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Telematikinfrastruktur]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n32">
+      <data key="d4"><![CDATA[German Competence Centre against Cyber Crime e.V.]]></data>
+      <data key="d5"><![CDATA[G4C]]></data>
+      <data key="d17"><![CDATA[www.g4c-ev.org]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das German Competence Centre against Cyber Crime (G4C) ist ein Verein, der unterschiedliche Akteure in einer strategischen Allianz gegen Cyber-Kriminalität zusammenbringt. Durch einen täglichen Informationsaustausch zwischen den behördlichen Kooperationspartnern und den Mitgliedern, können diese geeignete Schutzmaßnahmen entwickeln.
+
+          Das G4C kooperiert mit dem BKA und dem BSI.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[G4C]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n33">
+      <data key="d4"><![CDATA[Umsetzungsplan KRITIS, öffentlich-private Kooperation zwischen Betreibern Kritischer Infrastrukturen]]></data>
+      <data key="d5"><![CDATA[UP KRITIS]]></data>
+      <data key="d17"><![CDATA[https://www.kritis.bund.de/SubSites/Kritis/DE/Aktivitaeten/Nationales/UPK/upk_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der Umsetzungsplan Kritische Infrastrukturen (UP KRITIS) hat die Aufgabe, die Versorgung durch Kritische Infrastrukturen zu erhalten. Dafür dient UP KRITIS als öffentlich-private Kooperation zwischen staatlichen Stellen, Betreibern Kritischer Infrastrukturen und ihren Verbänden. Da Informations- und Kommunikationstechnik einen immer größerer Bestandteil von Kritischen Infrastrukturen darstellt, kommt ihrem Schutz eine zentrale Rolle zu.
+
+          Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[UP KRITIS]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n34">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[Initiative Wirtschaftsschutz]]></data>
+      <data key="d17"><![CDATA[https://www.wirtschaftsschutz.info]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Initiative Wirtschaftsschutz hat das Ziel den Schutz wichtiger Unternehmenswerte der deutschen Wirtschaft zu verbessern. Das BMI koordiniert die Zusammenarbeit von staatlichen Stellen und Wirtschaftsverbänden. Die Initiative bietet ein umfangreiches Schutzkonzept aus Maßnahmen, Handlungsempfehlungen und Seminaren.
+
+          Die Initiative Wirtschaftsschutz arbeitet auf staatlicher Seite mit dem BND, BfV, BKA und dem BSI zusammen
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Initiative Wirtschaftsschutz]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n35">
+      <data key="d4"><![CDATA[Gemeinsames Melde- und Lagezentrum von Bund und Ländern]]></data>
+      <data key="d5"><![CDATA[GMLZ]]></data>
+      <data key="d17"><![CDATA[https://www.bbk.bund.de/DE/AufgabenundAusstattung/Krisenmanagement/GMLZ/GMLZ_einstieg.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Gemeinsame Melde- und Lagezentrum (GMLZ) hat die Aufgabe für Bund, Länder und Fachbehörden ein einheitliches Lagebild für den Bevölkerungsschutz abzubilden. Dafür verfolgt und bewertet es rund um die Uhr relevante Geschehnisse im In- und Ausland und berichtet im täglichen Lagebericht oder gezielten Lagemeldungen.
+
+          Das GMLZ übernimmt nachts die Aufgaben des LZ. Das BBK ist im GMLZ vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[GMLZ]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n36">
+      <data key="d4"><![CDATA[Forschungsinstitut Cyber Defence (CODE) Universität der Bundeswehr München]]></data>
+      <data key="d5"><![CDATA[CODE]]></data>
+      <data key="d17"><![CDATA[https://www.unibw.de/code-events]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Forschungsinstitut Cyber Defence (CODE) an der Universität der Bundeswehr wurde vom BMVg mit dem Ziel gegründet, innovative technische Neuerungen für Bundeswehr und Bund zum Schutz von Daten, Software und Systemen zu verwirklichen. Darüber hinaus ist das interdisziplinäre, unabhängige Forschungsinstitut an die wissenschaftliche Aus-, Fort- und Weiterbildung der Universität der Bundeswehr angebunden. Hier baut es ein intersektorales Cyber-Cluster auf.
+
+          CODE ist das Forschungszentrum Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird. Es befindet sich im selben Gebäude wie ZITiS.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[CODE]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n37">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[Kompetenz- & Forschungszentren für IT-Sicherheit]]></data>
+      <data key="d17"><![CDATA[https://kompetenz-it-sicherheit.de/?doing_wp_cron=1543788919.5848970413208007812500]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die drei Kompetenz- und Forschungszentren für IT-Sicherheit in Saarbrücken, Darmstadt und Karlsruhe sind Bestandteil der Digitalen Agenda des BMBF. Mit der Gründung der drei Forschungszentren hat die Bundesregierung die Forschung und Entwicklung im Bereich Cyber-Sicherheit und Schutz der Privatsphäre maßgeblich ausgeweitet.
+
+          Die drei Kompetenz- und Forschungszentren für IT-Sicherheit werden durch das BMBF gefördert.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Kompetenz- & Forschungszentren für IT-Sicherheit]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n38">
+      <data key="d4"><![CDATA[IT-Sicherheitskatalog für Betreiber von Strom- und Gasnetzen / Energieanlagen]]></data>
+      <data key="d5"><![CDATA[IT-Sicherheitskatalog]]></data>
+      <data key="d17"><![CDATA[https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/Versorgungssicherheit/IT_Sicherheit/IT_Sicherheit.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der IT-Sicherheitskatalog wurde gemeinsam von der BNetzA und dem BSI herausgebracht. Er verpflichtet alle Betreiber von Gas- und Stromnetzen dazu ein angemessenes Sicherheitsniveau ihrer Telekommunikations- und EDV-Systeme zu garantieren.
+
+          Beim IT-Sicherheitskatalog kooperieren BNetzA und BSI.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[IT-Sicherheitskatalog]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n39">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[Initiative IT-Sicherheit i.d. Wirtschaft]]></data>
+      <data key="d17"><![CDATA[http://www.it-sicherheit-in-der-wirtschaft.de/IT-Sicherheit/Navigation/task-force.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi für kleine und mittlere Unternehmen. Eine Vielzahl von Aktivitäten werden von der Initiative gebündelt. Die Mitglieder des Steuerkreises sind IT-Experten aus Verwaltung, Wissenschaft und Wirtschaft und beraten die Initiative IT-Sicherheit in der Wirtschaft bei der Umsetzung ihrer Projekte.
+
+          Die Initiative IT-Sicherheit in der Wirtschaft, ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Initiative IT-Sicherheit i.d. Wirtschaft]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n40">
+      <data key="d4"><![CDATA[Kompetenznetzwerk Trusted Cloud]]></data>
+      <data key="d5"><![CDATA[Trusted Cloud]]></data>
+      <data key="d17"><![CDATA[https://www.trusted-cloud.de/de/projekt]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Kompetenznetzwerk Trusted Cloud (Trusted Cloud) ist aus dem gleichnamigen Programm des BMWi entstanden, welches ein Gütesiegel für Cloud Services entwickelt und etabliert hat. Trusted Cloud dient als neutrale und branchenübergreifende Plattform für den Austausch zwischen Cloud-Anbietern und Anwendern.
+
+          Trusted Cloud wurde durch das BMWi ins Leben gerufen.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Trusted Cloud]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n41">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[CERT-Verbund]]></data>
+      <data key="d17"><![CDATA[https://www.cert-verbund.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der CERT-Verbund ist eine Allianz deutscher Sicherheits- und Computer-Notfallteams, die sich in Unternehmens-, Kommerziellen-, Akademischen- und Verwaltungs-CERTs auf Bundes- und Länderebene zusammengeschlossen haben.
+
+          Im CERT-Verbund sind u.a. die Bw und das BSI (mit dem CERT-Bund) vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[CERT-Verbund]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n42">
+      <data key="d4"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik]]></data>
+      <data key="d5"><![CDATA[BSI]]></data>
+      <data key="d17"><![CDATA[https://www.bsi.bund.de/DE/Home/home_node.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat die Aufgabe die Sicherheit in der Informationstechnik des Bundes zu stärken. Als Behörde mit höchster technischer Expertise fördert es darüber hinaus die Informations- und Cyber-Sicherheit in Verwaltung, Wirtschaft und Gesellschaft durch zahlreiche Aktivitäten, Kooperationen und Initiativen. Um sich regional noch stärker zu vernetzen, baut das BSI aktuell deutschlandweit Verbindungsbüros auf.
+
+          Das BSI gehört zum Geschäftsbereich des BMI. In ihm beherbergt sind u.a. Cyber-AZ, AfCS, LZ, CERT-Bund und das Bürger-CERT. CERT: Computer Emergency Response Team des Bundes, (CERT-Bund) und Bürger-CERT
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BSI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n43">
+      <data key="d4"><![CDATA[Zentrale Ansprechstellen Cybercrime der Polizeien der Länder und des Bundes für die Wirtschaft]]></data>
+      <data key="d5"><![CDATA[ZAC]]></data>
+      <data key="d17"><![CDATA[https://www.polizei.de/Polizei/DE/Einrichtungen/ZAC/zac.html]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Zentralen Ansprechstellen Cybercrime der Polizeien der Länder und des Bundes für die Wirtschaft (ZAC) stehen Unternehmen präventiv und reaktiv im Falle von Internetstraftaten zur Verfügung. In jedem Bundesland ermitteln speziell ausgebildete Polizeibeamte gemeinsam mit IT-Spezialisten.
+
+          Die ZAC sind u.a. bei der BPol angesiedelt.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ZAC]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n44">
+      <data key="d4"><![CDATA[Cybercrime-Akteure in den Bundesländern, u. a. Hessen 3C und ZCB (Bayern)]]></data>
+      <data key="d5"><![CDATA[Cybercrime-Zentren]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          13 der 16 Bundesländer haben inzwischen Cybercrime-Zentren aufgebaut, die für die Bekämpfung und Aufklärung von Cyber-Kriminalität zuständig sind. Die Cybercrime-Zentren sind organisatorisch überwiegend im Polizeibereich der entsprechenden Landeskriminalämter oder bei den Staatsanwaltschaften aufgehangen.
+
+          Die Cybercrime-Zentren kooperieren mit den entsprechenden Länder-CERTs.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Cybercrime-Zentren]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n45">
+      <data key="d4"><![CDATA[Verwaltungs-CERT-Verbund]]></data>
+      <data key="d5"><![CDATA[VCV]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der Verwaltungs-CERT-Verbund (VCV) ist eine Plattform zum gegenseitigen Informationsaustausch zwischen dem CERT Bund und den vorhandenen Länder-CERTs. So soll die IT-Krisenprävention und -reaktion gestärkt und die IT-Sicherheit in der öffentlichen Verwaltung verbessert werden.
+
+          Am VCV beteiligt sind das BSI, Länder CERTs, sowie das LSI.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[VCV]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n46">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[BSI Verbindungsbüros]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          Um sich regional noch stärker zu vernetzen, baut das BSI aktuell deutschlandweit Verbindungsbüros auf.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BSI Verbindungsbüros]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n47">
+      <data key="d4"><![CDATA[]]></data>
+      <data key="d5"><![CDATA[Länder CERTs]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die Länder-CERTs sind die Computer Emergency Response Teams der einzelnen Bundesländer. Im Rahmen des Verwaltungs-CERT-Verbunds (VCV) kooperieren Bund und Länder beim Aufbau und Betrieb der Länder-CERTs.
+
+          Die Länder-CERTs kooperieren mit dem CERT-Bund im BSI.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Länder CERTs]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n48">
+      <data key="d4"><![CDATA[Landesamt für Sicherheit in der 
+    Informationstechnik Bayern]]></data>
+      <data key="d5"><![CDATA[LSI]]></data>
+      <data key="d17"><![CDATA[]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Landesamt für Sicherheit in der Informationstechnik Bayern (LSI) hat sich mit seiner Gründung im Dezember 2017 den Schutz staatlicher IT-Infrastrukturen zur Aufgabe gemacht. Es soll Kommunen und Bürger beratend unterstützen.
+
+          Das LSI ist Mitglied im VCV, beheimatet das Bayern-CERT und kooperiert mit dem BSI.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[LSI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n49">
+      <data key="d4"><![CDATA[Bundesamts für den Militärischen Abschirmdienst]]></data>
+      <data key="d5"><![CDATA[BAMAD]]></data>
+      <data key="d17"><![CDATA[https://mad.bundeswehr.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Bundesamt für den Militärischen Abschirmdienst (BAMAD) ist eine Bundesoberbehörde und der militärische Nachrichtendienst des Bundes. Im Rahmen von 2017 durchgeführten Umstrukturierungsmaßnahmen wurde der Militärische Abschirmdienst (MAD) als BAMAD direkt dem Bundesministerium der Verteidigung unterstellt. Zu den Aufgaben des dritten und kleinsten Nachrichtendienstes, neben dem Bundesnachrichtendienst (BND) und dem Bundesamt für Verfassungsschutz (BfV), zählen Extremismus- sowie Terrorismusabwehr sowie die Bekämpfung von (Cyber-) Spionage und Sabotage in der Bundeswehr.
+
+          Das BAMAD gehört zum Geschäftsbereich des BMVg und ist im Cyber-AZ vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BAMAD]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n50">
+      <data key="d4"><![CDATA[Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr]]></data>
+      <data key="d5"><![CDATA[BAAINBw]]></data>
+      <data key="d17"><![CDATA[https://www.baainbw.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Hauptaufgabe des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) ist die Ausstattung des deutschen Militärs. Dies erfolgt sowohl durch Gerätschaften als auch durch IT-Systeme. /n Die Systeme werden teilweise vom BAAINBw eigenständig entwickelt, getestet und betrieben und in anderen Fällen in Auftrag gegeben. Es trägt somit Mitverantwortung dafür, die Bundeswehr bestmöglich vor Cyberangriffen zu schützen.
+
+          Das BAAINBw gehört zum Geschäftsbereich des BMVg. Es versorgt die Bw mit Ausrüstung und ist im Steuerungsboard des CIH vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BAAINBw]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n51">
+      <data key="d4"><![CDATA[Informationstechnikzentrum Bund]]></data>
+      <data key="d5"><![CDATA[ITZ Bund]]></data>
+      <data key="d17"><![CDATA[https://www.itzbund.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das ITZBund ist IT-Dienstleister der Bundesverwaltung. Es ist 2016, als Teil einer Gesamtstrategie mit dem Ziel einer konzentrierten Bündelung der IT-Kapazitäten des Bundes, aus drei Vorgängerbehörden gegründet worden: der Bundesstelle für Informationstechnik (BIT), der dem Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) nachgeordneten Bundesanstalt für IT-Dienstleistungen (DLZ-IT BMVI) und dem Zentrum für Informationsverarbeitung und Informationstechnik (ZIVIT). Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen und soll unter anderem auch den Schutz vor Cyberangriffen verbessern.
+
+          Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ITZ Bund]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n52">
+      <data key="d4"><![CDATA[Bundesweite IT-Systemhaus GmbH]]></data>
+      <data key="d5"><![CDATA[BWI]]></data>
+      <data key="d17"><![CDATA[https://www.bwi.de/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Die BWI ist eine Gesellschaft des Bundes und sowohl IT-Dienstleister der Bundeswehr als auch ein IT-Dienstleistungszentrum des Bundes. Im Rahmen des Herkules-Großprojektes wurde die Bundeswehr-IT durch die BWI umfassend modernisiert. An der Gesellschaft und dem Großprojekt waren auch IBM und Siemens beteiligt. Ende des Jahres 2016 endeten jedoch sowohl das Projekt Herkules als auch die Beteiligung der beiden Firmen und die BWI wurde zu einer reinen Bundesgesellschaft. Schwerpunkte der Arbeit sind das Betreiben und Modernisieren von nichtmilitärischen Informationsund Kommunikationstechniken der Bundeswehr und die Unterstützung in den Bereichen Logistik und Administration. Die BWI ist unter anderem auch für das Software-Management und die IT-Sicherheit der von ihr betriebenen IT-Infrastruktur verantwortlich.
+
+          Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[BWI]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n53">
+      <data key="d4"><![CDATA[Cyber Security Cluster Bonn e.V.]]></data>
+      <data key="d5"><![CDATA[Cyber Security Cluster Bonn]]></data>
+      <data key="d17"><![CDATA[https://cyber-security-cluster.eu/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Der Cyber Security Cluster Bonn e.V. ist ein Zusammenschluss von verschiedenen, in der Bonner Region ansässigen Institutionen, unter anderem dem BSI, dem Kommando Cyber- und Informationsraum der Bundeswehr, der Hochschule Bonn-Rein-Sieg und dem Fraunhofer-Institut. Auch die Deutsche Telekom, die Industrie- und Handelskammer, die Stadtverwaltung und Vertreter der Bonner Wirtschaft sind Mitglieder. Ziel ist es, die geographische Nähe zu nutzen, um die Zusammenarbeit zu intensivieren und sowohl Fachkräfte anzuziehen als auch gemeinsam an konkreten Projekten im Bereich der Cybersicherheit zu arbeiten.
+
+          Das BSI und das Kommando Cyber- und Informationsraum der Bundeswehr sind Mitglieder im Cyber Security Cluster Bonn e.V.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[Cyber Security Cluster Bonn]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
+    <node id="n54">
+      <data key="d4"><![CDATA[IT Security made in Germany]]></data>
+      <data key="d5"><![CDATA[ITSMIG]]></data>
+      <data key="d17"><![CDATA[https://www.teletrust.de/it-security-made-in-germany/]]></data>
+      <data key="d18">
+        <![CDATA[
+          Das Vertrauenszeichen “IT Security made in Germany” wurde 2005 gemeinsam durch das BMI, das BMWi sowie Vertreter der deutschen IT-Sicherheitswirtschaft ins Leben gerufen. Seit 2011 wird der Verein in Form der TeleTrusT-Arbeitsgruppe “ITSMIG” fortgeführt. Ziel ist es, die gemeinsame Außendarstellung der organisierten deutschen IT-Sicherheitswirtschaft zu koordinieren und die Zusammenarbeit zu verbessern.
+
+          Bei der Etablierung von ITSMIG haben das BMI und das BMWi unterstützt. Beide Ministerien sind im Beirat der Arbeitsgruppe vertreten.
+        ]]>
+      </data>
+      <data key="d19">
+        <y:ShapeNode>
+        <y:Geometry/>
+        <y:Fill color="#FFCC00" transparent="false"/>
+        <y:BorderStyle color="#000000" raised="false" type="line"/>
+        <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true"><![CDATA[ITSMIG]]>
+          <y:LabelModel>
+            <y:SmartNodeLabelModel distance="4.0"/>
+          </y:LabelModel>
+          <y:ModelParameter>
+            <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+          </y:ModelParameter>
+        </y:NodeLabel>
+        <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+
   </graph>
   <data key="d20">
     <y:Resources/>
