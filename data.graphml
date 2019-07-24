@@ -33,9 +33,10 @@
   <key attr.name="finances" attr.type="string" for="edge" id="d29"/>
   <key attr.name="educates" attr.type="string" for="edge" id="d30"/>
   <key attr.name="cooperates" attr.type="string" for="edge" id="d31"/>
-  <key attr.name="url" attr.type="string" for="edge" id="d32"/>
-  <key attr.name="description" attr.type="string" for="edge" id="d33"/>
-  <key for="edge" id="d34" yfiles.type="edgegraphics"/>
+  <key attr.name="operates" attr.type="string" for="edge" id="d32"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d33"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d34"/>
+  <key for="edge" id="d35" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <data key="d0" xml:space="preserve"/>
     <node id="n0">
@@ -203,11 +204,11 @@
       ]]></data>
       <data key="d19">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="685.6272321428573" y="71.1328125"/>
+          <y:Geometry height="30.0" width="30.0" x="685.6272321428573" y="81.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMJV
-          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-15.96875" xml:space="preserve" y="13.8671875">BMJV
+          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.11950856291883843" labelRatioY="0.0" nodeRatioX="-0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -668,7 +669,7 @@
           <y:Geometry height="30.0" width="30.0" x="1012.4129464285717" y="472.92655038694306"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">ZKA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375000000114" xml:space="preserve" y="-1.1328125">ZKA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -706,7 +707,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
     <node id="n23">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ADIC]]></data>
-      <data key="d6" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"><![CDATA[Cyber Agentur (umbenannt)]]></data>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
       <data key="d9" xml:space="preserve"/>
@@ -1843,16 +1844,15 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n65">
-      <data key="d4"/>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d18"/>
+      <data key="d4" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d19">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1012.4129464285716" y="164.89411620538704"/>
@@ -1860,28 +1860,6 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.66796875" x="-26.891389726236866" xml:space="preserve" y="5.93359375">Bürger-Cert<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="-0.16858017837456224" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n66">
-      <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Militärischen Abschirmdienst]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[BfMAd]]></data>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17" xml:space="preserve"/>
-      <data key="d18"/>
-      <data key="d19">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="435.6272321428572" y="-16.730432518848403"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.603515625" x="-0.8017578125" xml:space="preserve" y="4.0">MAD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="-0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
@@ -1912,7 +1890,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -1957,9 +1936,10 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2005,8 +1985,9 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2053,9 +2034,10 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2100,9 +2082,10 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2147,8 +2130,9 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Aus dem Haushalt des BKAmt wird die institutionelle Zuwendung an die SWP gezahlt.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Aus dem Haushalt des BKAmt wird die institutionelle Zuwendung an die SWP gezahlt.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2194,8 +2178,9 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2240,8 +2225,9 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauf- tragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauf- tragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2287,9 +2273,10 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer
 der beiden Gesellschafter.]]></data>
-      <data key="d34">
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2335,9 +2322,10 @@ der beiden Gesellschafter.]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[ BMZ und BMF sind
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[ BMZ und BMF sind
 Gesellschafter der GIZ.]]></data>
-      <data key="d34">
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2384,9 +2372,10 @@ Gesellschafter der GIZ.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMF hat die Rechts- und Fachaufsicht über die BaFin.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMF hat die Rechts- und Fachaufsicht über die BaFin.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="73.23443502644227" y="118.25410096032525"/>
@@ -2439,8 +2428,9 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2485,9 +2475,10 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2523,9 +2514,10 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen UP KRITIS vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen UP KRITIS vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2555,9 +2547,10 @@ die Leitung der BAKS.]]></data>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2604,9 +2597,10 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen AfCS vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen AfCS vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2651,9 +2645,10 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMWi hat die Initiative IT-Sicherheit in der
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMWi hat die Initiative IT-Sicherheit in der
 Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
-      <data key="d34">
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1571.3901312657306" y="104.07990503983297"/>
@@ -2709,9 +2704,10 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMWi ist im Beirat von DsiN vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMWi ist im Beirat von DsiN vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2756,8 +2752,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2802,8 +2799,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BAAINBw versorgt die Bw mit Ausrüstung.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw versorgt die Bw mit Ausrüstung.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2848,8 +2846,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2896,9 +2895,10 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Da BAMAD  ist im Cyber-AZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Da BAMAD  ist im Cyber-AZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="669.665205581471" y="175.31031252239708"/>
@@ -2953,8 +2953,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BaFin ist im Cyber-AZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BaFin ist im Cyber-AZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -2999,9 +3000,10 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BBK ist im Cyber-AZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im Cyber-AZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1152.4499491184185" y="176.8767492291391"/>
@@ -3036,8 +3038,8 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
     <edge id="e24" source="n16" target="n34">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
-      <data key="d23" xml:space="preserve"/>
-      <data key="d24" xml:space="preserve"><![CDATA[Das BBK ist im GMLZ vertreten.]]></data>
+      <data key="d23" xml:space="preserve"><![CDATA[	]]></data>
+      <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
       <data key="d27" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"/>
@@ -3060,8 +3062,10 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BBK ist im GMLZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32" xml:space="preserve"><![CDATA[Das BBK betreibt das GMLZ.]]></data>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im GMLZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3106,8 +3110,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BBK ist im UP KRITIS vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im UP KRITIS vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3152,8 +3157,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BBK gehört zum Geschäftsbereich des BMI.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BBK gehört zum Geschäftsbereich des BMI.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1145.0964397614998" y="181.55269012949893"/>
@@ -3205,8 +3211,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3251,8 +3258,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BfV ist im Cyber-AZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BfV ist im Cyber-AZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1208.4279863010104" y="173.8791952538955"/>
@@ -3311,9 +3319,10 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BfV greift auf die Expertise von ZITiS zurück.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BfV greift auf die Expertise von ZITiS zurück.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1271.92452038093" y="176.5172276681766"/>
@@ -3363,8 +3372,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BKA ist im ist im Cyber-AZ vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist im ist im Cyber-AZ vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1386.7050302154864" y="182.71487979768597"/>
@@ -3425,8 +3435,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BKA ist in G4C vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist in G4C vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3471,8 +3482,9 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BKA greift auf die Expertise von ZITiS zurück.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BKA greift auf die Expertise von ZITiS zurück.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3509,10 +3521,11 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Der BND ist an der Initiative Wirtschaftsschutz beteiligt.
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Der BND ist an der Initiative Wirtschaftsschutz beteiligt.
 Shareholder float verify]]></data>
-      <data key="d34">
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3557,8 +3570,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3605,8 +3619,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="528.0412447351092" y="122.8390069667819"/>
@@ -3653,7 +3668,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3698,7 +3714,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3743,13 +3760,14 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Das BMJV ist im Cyber-SR vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das BMJV ist im Cyber-SR vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-4.030478647123573" y="-44.931658047286064">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-3.5514100337213677" y="-47.51823386643989">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -3789,7 +3807,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3834,7 +3853,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3879,7 +3899,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3924,7 +3945,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3969,8 +3991,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -3988,7 +4011,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e44" source="n48" target="n5">
+    <edge id="e44" source="n48" target="n6">
       <data key="d21" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
@@ -4015,18 +4038,23 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="14.983728552170987" ty="6.594238433130428">
+            <y:Point x="669.9723821089301" y="118.39730849932684"/>
+            <y:Point x="665.9565186846748" y="97.29484906556237"/>
+            <y:Point x="547.9390603699179" y="69.93980905883063"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.999973842076088" y="-22.0">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-141.49429664253364" y="-90.99763478302285">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="15.17256171812354" distanceToCenter="false" position="right" ratio="3.0378861187369526" segment="-2"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -4061,8 +4089,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4107,7 +4136,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1186.3471212428337" y="254.94891809334604"/>
@@ -4163,9 +4193,10 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Die BfDI ist im Beirat der DsiN vertreten.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Die BfDI ist im Beirat der DsiN vertreten.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4210,8 +4241,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4256,8 +4288,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d33" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4293,7 +4326,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4320,7 +4354,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="683.7588247623125" y="184.7800262570422"/>
@@ -4364,8 +4399,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="252.13254996121753" y="117.68012405005001"/>
@@ -4412,7 +4448,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4441,8 +4478,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Die Cybercrime-Zentren kooperieren mit den entsprechenden Länder-CERTs.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4487,8 +4525,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4533,8 +4572,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4579,9 +4619,10 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[CODE ist das Forschungsinstitut Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[CODE ist das Forschungsinstitut Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4617,8 +4658,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1487.4129464285716" y="186.54419224127935"/>
@@ -4665,8 +4707,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1456.7945729412222" y="207.37747774411747"/>
@@ -4725,8 +4768,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4771,9 +4815,10 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1415.3801463627283" y="209.16561310021527"/>
@@ -4826,9 +4871,10 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Der BMWI hat Trusted Cloud ins Leben gerufen.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Der BMWI hat Trusted Cloud ins Leben gerufen.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4873,8 +4919,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4919,8 +4966,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -4965,8 +5013,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5011,8 +5060,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1256.8224491589067" y="174.78031329298454"/>
@@ -5072,8 +5122,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1342.8368307937487" y="184.12746161319706"/>
@@ -5123,9 +5174,10 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5161,7 +5213,8 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5197,8 +5250,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1013.2261809607913" y="241.5100746769349"/>
@@ -5248,8 +5302,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5281,8 +5336,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="973.6776497789419" y="204.76858338856738"/>
@@ -5331,8 +5387,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="922.8944311311918" y="247.94286060473067"/>
@@ -5382,8 +5439,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5418,8 +5476,9 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="187.4626803788667" y="133.87035151743206"/>
@@ -5456,8 +5515,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="175.21020274989633" y="138.080015169663"/>
@@ -5500,8 +5560,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="178.2698993326887" y="136.67882340485616"/>
@@ -5542,8 +5603,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="171.40527789388796" y="139.293528625457"/>
@@ -5583,8 +5645,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="173.28782925790446" y="138.69219916283444"/>
@@ -5626,8 +5689,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="187.1396559016522" y="133.99721012624553"/>
@@ -5665,8 +5729,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5695,8 +5760,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="178.71440494326143" y="136.7866801361573"/>
@@ -5733,8 +5799,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, ZKA, BaFin und BAMAD.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5754,8 +5821,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5784,8 +5852,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="956.6655562139557" y="207.29857349481347"/>
@@ -5829,8 +5898,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5859,8 +5929,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5889,8 +5960,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1199.7062398654075" y="111.44334739188352"/>
@@ -5921,8 +5993,9 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -5952,8 +6025,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1402.9083940663272" y="205.27847173609197"/>
@@ -5987,8 +6061,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1439.7324576632213" y="189.0459948927525"/>
@@ -6019,8 +6094,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="11.200211997456108" ty="6.959824182904526">
             <y:Point x="1403.066848182698" y="205.75100120308522"/>
@@ -6051,13 +6127,14 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
       <data key="d27" xml:space="preserve"/>
-      <data key="d28" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[BBWI betreibt und beschafft die nichtmilitärische Informations- und Kommunikationstechnik der Bundeswehr.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6086,9 +6163,10 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"><![CDATA[Verbindung in graphischer Darstellung SNV aber nicht in textueller afaik.]]></data>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Verbindung in graphischer Darstellung SNV aber nicht in textueller afaik.]]></data>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6117,8 +6195,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft.]]></data>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6147,8 +6226,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1108.5166658789706" y="125.40910175878184"/>
@@ -6185,8 +6265,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6215,8 +6296,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6245,8 +6327,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6275,8 +6358,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1175.293725029731" y="193.02334036502782"/>
@@ -6307,7 +6391,8 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="1167.6812879945478" y="59.578075280788696"/>
@@ -6329,8 +6414,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="159.44930758270152" y="209.52722909005507"/>
@@ -6361,8 +6447,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6391,8 +6478,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6421,8 +6509,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6451,8 +6540,9 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d34">
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6474,16 +6564,16 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d21" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6502,29 +6592,31 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       </data>
     </edge>
     <edge id="e108" source="n24" target="n18">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d26"/>
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d27" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[ZITIS lässt den BND an Ergebnissen partizipieren.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="551.9938718311097" y="-7.268436760662553"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-600.6038025043769" y="-129.18965098607703">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-564.8442459596924" y="-223.7950196082245">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.966739442208944" distanceToCenter="false" position="right" ratio="0.6587400029200583" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -6533,19 +6625,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       </data>
     </edge>
     <edge id="e109" source="n18" target="n24">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"><![CDATA[BND hat Gaststatus in ZITIS Beirat.]]></data>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6563,25 +6655,25 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e110" source="n6" target="n66">
+    <edge id="e110" source="n6" target="n48">
       <data key="d21" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.0000043596541" y="-30.9316225094242">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="99.91110659405501" y="57.68892364318333">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -6594,56 +6686,25 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e111" source="n66" target="n24">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
-      <data key="d24" xml:space="preserve"><![CDATA[BaMAd hat Gaststatus in ZITIS Beirat.]]></data>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="467.99149661608976" y="166.35545308988213">
-            <y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e112" source="n24" target="n66">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
+    <edge id="e111" source="n24" target="n48">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[ZITIS lässt den BaMAd an Ergebnissen partizipieren.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="15.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-471.9915096950517" y="-170.35546144300486">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-350.0751715306492" y="-95.17412598036401">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -6656,20 +6717,20 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e113" source="n21" target="n24">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
+    <edge id="e112" source="n21" target="n24">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"><![CDATA[ZKA hat Gaststatus in ZITIS Beirat.]]></data>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6687,20 +6748,20 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e114" source="n24" target="n21">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
+    <edge id="e113" source="n24" target="n21">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[ZITIS lässt den ZKA an Ergebnissen partizipieren.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -6718,25 +6779,124 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e115" source="n4" target="n24">
+    <edge id="e114" source="n4" target="n24">
       <data key="d21" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
-      <data key="d34">
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="37.74998256138406" y="100.99999999999991">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e115" source="n48" target="n24">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"><![CDATA[BaMAd hat Gaststatus in ZITIS Beirat.]]></data>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="346.18008792363435" y="89.89701395870168">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e116" source="n6" target="n51">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"><![CDATA[Abteilung AIII1 des BMVg ist zuständig für die Beteiligungsführung der BWI GmbH]]></data>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve">1.0</data>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-31.9999956403459" y="53.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e117" source="n4" target="n23">
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve">0.5</data>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d35">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="600.6272321428572" y="-87.63121214189283"/>
+            <y:Point x="376.63429981089024" y="-104.17648942626377"/>
+            <y:Point x="112.36221827496752" y="-74.63135141845851"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-330.53442820192936" y="-116.06798962778052">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
