@@ -1663,8 +1663,8 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
       </data>
     </node>
     <node id="n57">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Mobile Incident Response Teams]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[MIRT]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -1672,6 +1672,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
       <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d19">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="672.4129464285716" y="211.1328125"/>
@@ -2955,6 +2956,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Das BBK ist im Cyber-AZ vertreten.]]></data>
       <data key="d34">
         <y:PolyLineEdge>
@@ -4571,11 +4573,23 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1487.4129464285716" y="186.54419224127935"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="26.495640173019638" y="-28.785201373472034">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="26.495657611635508" distanceToCenter="false" position="right" ratio="2.1965811147513796" segment="-2"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -5931,15 +5945,17 @@ Shareholder float verify]]></data>
       <data key="d32" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1439.7324576632213" y="189.0459948927525"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.395062174854274" y="-11.909908090055325">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="29.893967398792256" y="-19.552545246484243">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="28.61517343928922" distanceToCenter="false" position="right" ratio="0.8815718856326631" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -6056,7 +6072,7 @@ Shareholder float verify]]></data>
       <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
-      <data key="d31" xml:space="preserve"><![CDATA[DsiN koope- riert mit der Initiative IT-Sicherheit in der Wirtschaft.]]></data>
+      <data key="d31" xml:space="preserve"><![CDATA[DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft.]]></data>
       <data key="d32" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
