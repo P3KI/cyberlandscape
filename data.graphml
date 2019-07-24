@@ -752,11 +752,11 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       ]]></data>
       <data key="d19">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="1422.4129464285716" y="211.1328125"/>
+          <y:Geometry height="30.0" width="30.0" x="1422.4129464285716" y="271.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">ZITiS
-          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-15.96875" xml:space="preserve" y="4.0">ZITiS
+          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.11950856291883843" labelRatioY="0.30581113801452786" nodeRatioX="-0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1159,8 +1159,8 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1372.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.38671875" x="-93.693359375" xml:space="preserve" y="-1.1328125">Initiative IT-Sicherheit i.d. Wirtschaft
-          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.38671875" x="-73.90189206028936" xml:space="preserve" y="24.5687111553259">Initiative IT-Sicherheit i.d. Wirtschaft
+          <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.3316694982764444" nodeRatioX="0.6597155771570216" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1755,8 +1755,8 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
     </node>
     <node id="n61">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team (CERT) des Bundes / Bürger Computer Emergency Response Team (CERT)]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[CERT]]></data>
-      <data key="d6" xml:space="preserve"><![CDATA[CERT-Bund / Bürger CERT]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[CERTBund]]></data>
+      <data key="d6" xml:space="preserve"><![CDATA[CERTBund ]]></data>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
       <data key="d9" xml:space="preserve"/>
@@ -1770,7 +1770,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
           <y:Geometry height="30.0" width="30.0" x="1022.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="33.982421875" x="-1.9912109375" xml:space="preserve" y="5.93359375">CERT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.275390625" x="-20.1376953125" xml:space="preserve" y="5.93359375">CERT-Bund<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1839,6 +1839,27 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.72265625" x="-11.861328125" xml:space="preserve" y="5.93359375">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.72265625" x="-11.861328125" xml:space="preserve" y="5.93359375">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n65">
+      <data key="d4"/>
+      <data key="d5"/>
+      <data key="d6"/>
+      <data key="d7"/>
+      <data key="d8"/>
+      <data key="d9"/>
+      <data key="d10"/>
+      <data key="d14"/>
+      <data key="d16"/>
+      <data key="d18"/>
+      <data key="d19">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="30.0" x="1012.4129464285716" y="164.89411620538704"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.66796875" x="-26.891389726236866" xml:space="preserve" y="5.93359375">Bürger-Cert<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="-0.16858017837456224" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
     </node>
@@ -3268,6 +3289,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Das BfV greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d34">
         <y:PolyLineEdge>
@@ -3433,7 +3455,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-37.39509705208616" y="7.909908090055325">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-41.07556729334783" y="42.3345781904963">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -5007,7 +5029,7 @@ Shareholder float verify]]></data>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
-      <data key="d27" xml:space="preserve"><![CDATA[Die BPol greift auf die Expertise von ZITiS zurück.]]></data>
+      <data key="d27" xml:space="preserve"><![CDATA[Die BPol kommuniziert Bedarf an ZITiS.]]></data>
       <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
@@ -5902,8 +5924,9 @@ Shareholder float verify]]></data>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
-      <data key="d27" xml:space="preserve"><![CDATA[ZITiS versorgt BPol mit Expertise.]]></data>
-      <data key="d28" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[ZITiS versorgt BPol mit Werkzeugen und Informationen.
+ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
@@ -5918,7 +5941,7 @@ Shareholder float verify]]></data>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="3.765449327874421" y="-33.569105592846256">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="11.540849607487417" y="-46.70226531501888">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -5937,8 +5960,8 @@ Shareholder float verify]]></data>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
-      <data key="d27" xml:space="preserve"><![CDATA[ZITiS versorgt BKA mit Expertise.]]></data>
-      <data key="d28" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[ZITiS versorgt BKA mit Informationen und Werkzuegen.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
@@ -5950,7 +5973,7 @@ Shareholder float verify]]></data>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="29.893967398792256" y="-19.552545246484243">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="30.382465103647974" y="-73.63308166171126">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -5969,25 +5992,24 @@ Shareholder float verify]]></data>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
-      <data key="d27" xml:space="preserve"><![CDATA[ZITiS versorgt BPol mit Expertise.]]></data>
-      <data key="d28" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"><![CDATA[ZITiS versorgt BfV mit Expertise.]]></data>
+      <data key="d28" xml:space="preserve"><![CDATA[Zitis stellt dem BfV Informationen und Werkzeuge zur verfügung. ]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+          <y:Path sx="0.0" sy="0.0" tx="11.200211997456108" ty="6.959824182904526">
             <y:Point x="1403.066848182698" y="205.75100120308522"/>
             <y:Point x="1390.1730871969191" y="200.99848329385173"/>
             <y:Point x="1376.6299930162281" y="198.16148403540114"/>
             <y:Point x="1284.9318200662494" y="181.48038570891268"/>
             <y:Point x="1271.9878190559054" y="176.4118736757984"/>
-            <y:Point x="1248.6131584260277" y="163.09263668290453"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="3.636884080423897" y="-33.53955081341445">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="11.618747839627758" y="-46.478540858522365">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -6227,10 +6249,11 @@ Shareholder float verify]]></data>
       <data key="d24" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
       <data key="d27" xml:space="preserve"/>
-      <data key="d28" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[GMLZ übernimmt die Funktion des LZ außerhalb der Geschäftszeiten des LZ. ]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -6238,22 +6261,30 @@ Shareholder float verify]]></data>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="22.857748854345573" y="-21.366684374860313">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
     <edge id="e101" source="n4" target="n0">
-      <data key="d21"/>
-      <data key="d22"/>
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d33"/>
+      <data key="d21" xml:space="preserve"/>
+      <data key="d22" xml:space="preserve"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -6268,16 +6299,15 @@ Shareholder float verify]]></data>
     <edge id="e102" source="n11" target="n21">
       <data key="d21" xml:space="preserve"><![CDATA[Das ZKA ist dem BMF nachgeordnet. => BMF hat Fachaufsicht über ZKA.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das ZKA ist dem BMF nachgeordnet. => BMF hat rechtsaufsicht über ZKA.]]></data>
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -6302,15 +6332,14 @@ Shareholder float verify]]></data>
       <data key="d21" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -6333,15 +6362,14 @@ Shareholder float verify]]></data>
       <data key="d21" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -6364,15 +6392,14 @@ Shareholder float verify]]></data>
       <data key="d21" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
-      <data key="d24"/>
-      <data key="d26"/>
-      <data key="d27"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
-      <data key="d33"/>
       <data key="d34">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -6395,6 +6422,36 @@ Shareholder float verify]]></data>
       <data key="d21" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d34">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="59.35826227076109" y="54.854300726557824">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e107" source="n65" target="n41">
+      <data key="d21" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
+      <data key="d22" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
+      <data key="d23" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d24"/>
       <data key="d26"/>
       <data key="d27"/>
@@ -6409,7 +6466,38 @@ Shareholder float verify]]></data>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="59.35826227076109" y="54.854300726557824">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-40.99189589253854" y="-40.69019303633522">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e108" source="n24" target="n18">
+      <data key="d21"/>
+      <data key="d22"/>
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d26"/>
+      <data key="d27" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[Zitis stellt dem BND Informationen und Werkzeuge zur verfügung. ]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33"/>
+      <data key="d34">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-600.6038025043769" y="-129.18965098607703">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
