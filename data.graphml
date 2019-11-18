@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.19-->
+  <!--Created by yEd 3.19.1.1-->
   <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
@@ -62,7 +62,7 @@
           <y:Geometry height="30.0" width="30.0" x="610.6272321428573" y="1.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.71484375" x="-14.357421875" xml:space="preserve" y="-1.1328125">Cyber-SR
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.67578125" x="-13.337890625" xml:space="preserve" y="-1.701171875">Cyber-SR
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -91,7 +91,7 @@
           <y:Geometry height="30.0" width="30.0" x="52.4580078125" y="359.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMG
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMG
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -120,7 +120,7 @@
           <y:Geometry height="30.0" width="30.0" x="585.6272321428572" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">AA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">AA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -149,7 +149,7 @@
           <y:Geometry height="30.0" width="30.0" x="735.6272321428573" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMVI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMVI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -178,7 +178,7 @@
           <y:Geometry height="30.0" width="30.0" x="1272.4129464285716" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="4.0">BMI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="3.084019370460055">BMI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.30581113801452786" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -207,7 +207,7 @@
           <y:Geometry height="30.0" width="30.0" x="685.6272321428573" y="81.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-15.96875" xml:space="preserve" y="13.8671875">BMJV
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-14.207490808823536" xml:space="preserve" y="13.298828125">BMJV
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="-0.11950856291883843" labelRatioY="0.0" nodeRatioX="-0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -236,7 +236,7 @@
           <y:Geometry height="30.0" width="30.0" x="435.6272321428572" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMVg
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMVg
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -265,7 +265,7 @@
           <y:Geometry height="30.0" width="30.0" x="285.6272321428572" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.70703125" x="-6.353515625" xml:space="preserve" y="-1.1328125">BKAmt
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.341796875" x="-5.6708984375" xml:space="preserve" y="-1.701171875">BKAmt
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -294,7 +294,7 @@
           <y:Geometry height="30.0" width="30.0" x="635.6272321428573" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMBF
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMBF
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -323,7 +323,7 @@
           <y:Geometry height="30.0" width="30.0" x="1602.055803571429" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMWi
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMWi
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -352,7 +352,7 @@
           <y:Geometry height="30.0" width="30.0" x="5.984375" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMZ
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMZ
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -381,7 +381,7 @@
           <y:Geometry height="30.0" width="30.0" x="30.984375" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BMF
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BMF
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -410,7 +410,7 @@
           <y:Geometry height="30.0" width="30.0" x="585.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">DIIS
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">DIIS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -439,7 +439,7 @@
           <y:Geometry height="30.0" width="30.0" x="1272.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">Bpol
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">Bpol
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -468,7 +468,7 @@
           <y:Geometry height="30.0" width="30.0" x="1447.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BKA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BKA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -497,7 +497,7 @@
           <y:Geometry height="30.0" width="30.0" x="1222.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BfV
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BfV
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -526,7 +526,7 @@
           <y:Geometry height="30.0" width="30.0" x="1172.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BBK
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BBK
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -555,7 +555,7 @@
           <y:Geometry height="30.0" width="30.0" x="335.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">Bw
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">Bw
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -584,7 +584,7 @@
           <y:Geometry height="30.0" width="30.0" x="185.62723214285722" y="71.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BND
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BND
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -611,7 +611,7 @@
           <y:Geometry height="30.0" width="30.0" x="1322.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BfDI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BfDI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -640,7 +640,7 @@
           <y:Geometry height="30.0" width="30.0" x="1072.4129464285716" y="281.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.099609375" x="-8.0498046875" xml:space="preserve" y="-1.1328125">BNetzA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.681640625" x="-7.3408203125" xml:space="preserve" y="-1.701171875">BNetzA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -669,7 +669,7 @@
           <y:Geometry height="30.0" width="30.0" x="1012.4129464285717" y="472.92655038694306"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375000000114" xml:space="preserve" y="-1.1328125">ZKA
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.6699218750001137" xml:space="preserve" y="-1.701171875">ZKA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -698,7 +698,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="85.62723214285722" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BaFin
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BaFin
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -727,7 +727,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="485.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">ADIC
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">ADIC
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -756,7 +756,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1422.4129464285716" y="271.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="4.0" xml:space="preserve" y="4.0">ZITiS
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="6.867647058823422" xml:space="preserve" y="3.084019370460055">ZITiS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.11950856291883838" labelRatioY="0.30581113801452786" nodeRatioX="0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -785,7 +785,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="535.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BAKS
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BAKS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -814,7 +814,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="185.62723214285722" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">UniBw
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.67578125" x="-4.337890625" xml:space="preserve" y="-1.701171875">UniBw
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -843,7 +843,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="285.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">SWP
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">SWP
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -872,7 +872,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1347.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">DsiN
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">DsiN
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -901,7 +901,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="5.984375" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">GIZ
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">GIZ
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -928,7 +928,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="52.4580078125" y="429.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="134.916015625" x="-52.4580078125" xml:space="preserve" y="-1.1328125">Telematikinfrastruktur
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="119.365234375" x="-44.6826171875" xml:space="preserve" y="-1.701171875">Telematikinfrastruktur
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -957,7 +957,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1472.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">G4C
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">G4C
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -986,7 +986,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1109.1986607142858" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.130859375" x="-14.5654296875" xml:space="preserve" y="-1.1328125">UP KRITIS
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.67578125" x="-16.337890625" xml:space="preserve" y="-1.701171875">UP KRITIS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1015,7 +1015,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="235.62723214285722" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.62109375" x="-65.310546875" xml:space="preserve" y="-1.1328125">Initiative Wirtschaftsschutz
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="145.375" x="-57.6875" xml:space="preserve" y="-1.701171875">Initiative Wirtschaftsschutz
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1044,7 +1044,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1172.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="6.903138184427178">GMLZ
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="6.089435183418487">GMLZ
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.21583494246811652" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1073,7 +1073,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="185.62723214285722" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">CODE
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.669921875" x="-4.3349609375" xml:space="preserve" y="-1.701171875">CODE
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1102,7 +1102,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="635.6272321428573" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.076171875" x="-137.0380859375" xml:space="preserve" y="4.0">Kompetenz- &amp; Forschungszentren für IT-Sicherheit
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="274.78515625" x="-122.392578125" xml:space="preserve" y="3.084019370460055">Kompetenz- &amp; Forschungszentren für IT-Sicherheit
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.30581113801452786" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1131,7 +1131,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1072.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.39453125" x="-49.197265625" xml:space="preserve" y="-1.1328125">IT-Sicherheitskatalog
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.716796875" x="-43.3583984375" xml:space="preserve" y="-1.701171875">IT-Sicherheitskatalog
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1160,7 +1160,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1372.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.38671875" x="-73.90189206028936" xml:space="preserve" y="24.5687111553259">Initiative IT-Sicherheit i.d. Wirtschaft
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="195.390625" x="-62.903845185289356" xml:space="preserve" y="24.377366717819825">Initiative IT-Sicherheit i.d. Wirtschaft
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.3316694982764444" nodeRatioX="0.6597155771570216" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1189,7 +1189,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="1602.055803571429" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.728515625" x="-28.3642578125" xml:space="preserve" y="-1.1328125">Trusted Cloud
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.369140625" x="-24.6845703125" xml:space="preserve" y="-1.701171875">Trusted Cloud
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1216,7 +1216,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="822.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="90.3671875" x="-30.18359375" xml:space="preserve" y="5.93359375">CERT-Verbund<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.03125" x="-28.015625" xml:space="preserve" y="5.6494140625">CERT-Verbund<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1244,7 +1244,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
           <y:Geometry height="30.0" width="30.0" x="897.4129464285716" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BSI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">BSI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1270,7 +1270,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="1272.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">ZAC
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">ZAC
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1299,7 +1299,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="922.4129464285716" y="281.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="121.99609375" x="-45.998046875" xml:space="preserve" y="-1.1328125">Cybercrime-Zentren
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="110.693359375" x="-40.3466796875" xml:space="preserve" y="-1.701171875">Cybercrime-Zentren
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1328,7 +1328,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="1022.4129464285716" y="281.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">VCV
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">VCV
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1355,7 +1355,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="722.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="131.974609375" x="-50.9873046875" xml:space="preserve" y="-1.1328125">BSI Verbindungsbüros
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.076171875" x="-47.0380859375" xml:space="preserve" y="-1.701171875">BSI Verbindungsbüros
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1382,7 +1382,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="922.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.517578125" x="-26.7587890625" xml:space="preserve" y="-1.1328125">Länder CERTs
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.365234375" x="-26.6826171875" xml:space="preserve" y="-1.701171875">Länder CERTs
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1412,7 +1412,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="872.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">LSI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="-1.701171875">LSI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1441,7 +1441,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="685.6272321428573" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.78515625" x="-8.392578125" xml:space="preserve" y="-1.1328125">BAMAD
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.673828125" x="-8.3369140625" xml:space="preserve" y="-1.701171875">BAMAD
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1468,7 +1468,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="385.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.931640625" x="-12.9658203125" xml:space="preserve" y="-1.1328125">BAAINBw
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.681640625" x="-13.3408203125" xml:space="preserve" y="-1.701171875">BAAINBw
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1495,7 +1495,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="55.984375" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.4453125" x="-12.72265625" xml:space="preserve" y="-1.1328125">ITZ Bund
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.353515625" x="-11.6767578125" xml:space="preserve" y="-1.701171875">ITZ Bund
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1524,7 +1524,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="435.6272321428572" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="4.0">BWI
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.33984375" x="-3.669921875" xml:space="preserve" y="3.084019370460055">BWI
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.30581113801452786" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1553,7 +1553,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="772.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="191.5" x="-80.75" xml:space="preserve" y="5.93359375">Cyber Security Cluster Bonn e.V.<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.07421875" x="-75.037109375" xml:space="preserve" y="5.6494140625">Cyber Security Cluster Bonn e.V.<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1579,7 +1579,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="1502.055803571429" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.97265625" x="-6.986328125" xml:space="preserve" y="-1.1328125">ITSMIG
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.33203125" x="-7.666015625" xml:space="preserve" y="-1.701171875">ITSMIG
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
@@ -1602,7 +1602,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="367.1728515625" y="358.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.568359375" x="-3.7841796875" xml:space="preserve" y="5.93359375">ENISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.01171875" x="-5.005859375" xml:space="preserve" y="5.6494140625">ENISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1630,7 +1630,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.0546875" x="-4.02734375" xml:space="preserve" y="5.93359375">NATO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="-3.6669921875" xml:space="preserve" y="5.6494140625">NATO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1658,7 +1658,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45703125" x="-0.728515625" xml:space="preserve" y="5.93359375">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.0078125" x="-1.00390625" xml:space="preserve" y="5.6494140625">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1679,7 +1679,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
           <y:Geometry height="30.0" width="30.0" x="672.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.96875" x="-1.484375" xml:space="preserve" y="5.93359375">MIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="33.326171875" x="-1.6630859375" xml:space="preserve" y="5.6494140625">MIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1702,7 +1702,7 @@ Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, B
           <y:Geometry height="30.0" width="30.0" x="110.62723214285722" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.701171875" x="-3.3505859375" xml:space="preserve" y="5.93359375">NCAZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.666015625" x="-3.3330078125" xml:space="preserve" y="5.6494140625">NCAZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1725,7 +1725,7 @@ Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft
           <y:Geometry height="30.0" width="30.0" x="1122.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45703125" x="-0.728515625" xml:space="preserve" y="5.93359375">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.0078125" x="-1.00390625" xml:space="preserve" y="5.6494140625">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1749,7 +1749,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
           <y:Geometry height="30.0" width="30.0" x="972.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="17.65234375" x="6.173828125" xml:space="preserve" y="5.93359375">LZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="18.00390625" x="5.998046875" xml:space="preserve" y="5.6494140625">LZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1771,7 +1771,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
           <y:Geometry height="30.0" width="30.0" x="1022.4129464285716" y="211.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.275390625" x="-20.1376953125" xml:space="preserve" y="5.93359375">CERT-Bund<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.6875" x="-19.34375" xml:space="preserve" y="5.6494140625">CERT-Bund<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1794,7 +1794,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="435.6272321428572" y="141.1328125"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24.578125" x="2.7109375" xml:space="preserve" y="5.93359375">CIH<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24.666015625" x="2.6669921875" xml:space="preserve" y="5.6494140625">CIH<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1815,8 +1815,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="445.0" y="358.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.1796875" x="4.41015625" xml:space="preserve" y="5.93359375">UN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.1796875" x="4.41015625" xml:space="preserve" y="5.93359375">UN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.33203125" x="4.333984375" xml:space="preserve" y="5.6494140625">UN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.33203125" x="4.333984375" xml:space="preserve" y="5.6494140625">UN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1837,8 +1837,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="192.861328125" y="358.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.72265625" x="-11.861328125" xml:space="preserve" y="5.93359375">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.72265625" x="-11.861328125" xml:space="preserve" y="5.93359375">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.001953125" x="-13.0009765625" xml:space="preserve" y="5.6494140625">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.001953125" x="-13.0009765625" xml:space="preserve" y="5.6494140625">CCDCOE<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -1858,7 +1858,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="1012.4129464285716" y="164.89411620538704"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.66796875" x="-26.891389726236866" xml:space="preserve" y="5.93359375">Bürger-Cert<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="-0.16858017837456224" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.68359375" x="-23.399202226236866" xml:space="preserve" y="5.6494140625">Bürger-Cert<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="-0.16858017837456224" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
         </y:ShapeNode>
       </data>
@@ -1890,7 +1890,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1936,7 +1936,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
       <data key="d35">
@@ -1985,7 +1985,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2034,7 +2034,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
       <data key="d35">
@@ -2082,7 +2082,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
       <data key="d35">
@@ -2130,7 +2130,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Aus dem Haushalt des BKAmt wird die institutionelle Zuwendung an die SWP gezahlt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2178,7 +2178,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2225,7 +2225,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauf- tragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2273,7 +2273,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer
 der beiden Gesellschafter.]]></data>
       <data key="d35">
@@ -2322,7 +2322,7 @@ der beiden Gesellschafter.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ BMZ und BMF sind
 Gesellschafter der GIZ.]]></data>
       <data key="d35">
@@ -2372,7 +2372,7 @@ Gesellschafter der GIZ.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMF hat die Rechts- und Fachaufsicht über die BaFin.]]></data>
       <data key="d35">
@@ -2428,7 +2428,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2475,7 +2475,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
       <data key="d35">
@@ -2514,7 +2514,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen UP KRITIS vertreten.]]></data>
       <data key="d35">
@@ -2547,7 +2547,7 @@ die Leitung der BAKS.]]></data>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.]]></data>
       <data key="d35">
@@ -2597,7 +2597,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen AfCS vertreten.]]></data>
       <data key="d35">
@@ -2645,7 +2645,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMWi hat die Initiative IT-Sicherheit in der
 Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
       <data key="d35">
@@ -2704,7 +2704,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMWi ist im Beirat von DsiN vertreten.]]></data>
       <data key="d35">
@@ -2752,7 +2752,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2799,7 +2799,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw versorgt die Bw mit Ausrüstung.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2846,7 +2846,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2895,7 +2895,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Da BAMAD  ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
@@ -2953,7 +2953,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BaFin ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3000,7 +3000,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
@@ -3110,7 +3110,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im UP KRITIS vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3157,7 +3157,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK gehört zum Geschäftsbereich des BMI.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3211,7 +3211,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3258,7 +3258,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BfV ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3319,7 +3319,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BfV greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d35">
@@ -3372,7 +3372,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist im ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3435,7 +3435,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist in G4C vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3482,7 +3482,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3521,7 +3521,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Der BND ist an der Initiative Wirtschaftsschutz beteiligt.
 Shareholder float verify]]></data>
@@ -3570,7 +3570,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3619,7 +3619,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3668,7 +3668,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3714,7 +3714,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3760,7 +3760,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMJV ist im Cyber-SR vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3807,7 +3807,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3853,7 +3853,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3899,7 +3899,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3945,7 +3945,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3991,7 +3991,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4038,7 +4038,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4089,7 +4089,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4136,7 +4136,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -4193,7 +4193,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die BfDI ist im Beirat der DsiN vertreten.]]></data>
       <data key="d35">
@@ -4241,7 +4241,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4288,7 +4288,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4326,7 +4326,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4354,7 +4354,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -4399,7 +4399,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4448,7 +4448,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4478,7 +4478,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Die Cybercrime-Zentren kooperieren mit den entsprechenden Länder-CERTs.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4525,7 +4525,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4572,7 +4572,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4619,7 +4619,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[CODE ist das Forschungsinstitut Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird.]]></data>
       <data key="d35">
@@ -4658,7 +4658,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4707,7 +4707,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4768,7 +4768,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4815,7 +4815,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben.]]></data>
       <data key="d35">
@@ -4871,7 +4871,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Der BMWI hat Trusted Cloud ins Leben gerufen.]]></data>
       <data key="d35">
@@ -4919,7 +4919,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4966,7 +4966,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5013,7 +5013,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5060,7 +5060,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5122,7 +5122,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5174,7 +5174,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt.]]></data>
       <data key="d35">
@@ -5213,7 +5213,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -5250,7 +5250,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5302,7 +5302,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5336,7 +5336,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5387,7 +5387,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5439,7 +5439,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5476,7 +5476,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5515,7 +5515,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5560,7 +5560,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5603,7 +5603,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5645,7 +5645,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5689,7 +5689,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5729,7 +5729,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5760,7 +5760,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5799,7 +5799,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, ZKA, BaFin und BAMAD.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5821,7 +5821,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5852,7 +5852,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5898,7 +5898,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5929,7 +5929,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5960,7 +5960,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5993,7 +5993,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6025,7 +6025,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6061,7 +6061,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6094,7 +6094,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6131,7 +6131,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund.]]></data>
       <data key="d35">
@@ -6163,7 +6163,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Verbindung in graphischer Darstellung SNV aber nicht in textueller afaik.]]></data>
       <data key="d35">
@@ -6195,7 +6195,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6226,7 +6226,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6265,7 +6265,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6296,7 +6296,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6327,7 +6327,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6358,7 +6358,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6391,7 +6391,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -6414,21 +6414,22 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="159.44930758270152" y="209.52722909005507"/>
+            <y:Point x="357.75311942959" y="272.40418894830657"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.752892508403576" y="72.50328859488752">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="25.75289250840359" y="72.50328859488752">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="27.174054952723644" distanceToCenter="false" position="right" ratio="0.5000000000000001" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -6447,7 +6448,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6478,7 +6479,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6509,7 +6510,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6540,7 +6541,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6571,7 +6572,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6602,7 +6603,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6635,7 +6636,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6666,7 +6667,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6697,7 +6698,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6728,7 +6729,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6759,7 +6760,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6790,7 +6791,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6821,7 +6822,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6853,7 +6854,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6885,7 +6886,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
