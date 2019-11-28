@@ -1608,62 +1608,6 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
       </data>
     </node>
     <node id="n55">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
-      <data key="d6" xml:space="preserve"/>
-      <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
-      <data key="d9" xml:space="preserve"/>
-      <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
-      <data key="d16" xml:space="preserve"/>
-      <data key="d19">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="285.02734375" y="358.0"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-            <y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.0546875" x="-4.02734375" xml:space="preserve" y="5.93359375">NATO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n56">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
-      <data key="d6" xml:space="preserve"/>
-      <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
-      <data key="d9" xml:space="preserve"/>
-      <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
-      <data key="d16" xml:space="preserve"/>
-      <data key="d19">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="1552.055803571429" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-            <y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45703125" x="-0.728515625" xml:space="preserve" y="5.93359375">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n57">
       <data key="d4" xml:space="preserve"><![CDATA[Mobile Incident Response Teams]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[MIRT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1684,7 +1628,7 @@ Die ZAC sind u.a. bei der BPol angesiedelt.
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n58">
+    <node id="n56">
       <data key="d4" xml:space="preserve"><![CDATA[Nationales Cyber-Abwehrzentrum]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[NCAZ]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Cyber-AZ]]></data>
@@ -1707,7 +1651,7 @@ Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, B
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n59">
+    <node id="n57">
       <data key="d4" xml:space="preserve"><![CDATA[Allianz für Cyber-Sicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[AfCS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[ACS]]></data>
@@ -1730,7 +1674,7 @@ Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n60">
+    <node id="n58">
       <data key="d4" xml:space="preserve"><![CDATA[Nationales IT-Lagezentrum]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[LZ
 ]]></data>
@@ -1754,7 +1698,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n61">
+    <node id="n59">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team (CERT) des Bundes / Bürger Computer Emergency Response Team (CERT)]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CERTBund]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[CERTBund ]]></data>
@@ -1776,7 +1720,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n62">
+    <node id="n60">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber Innovation Hub]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CIH]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1799,7 +1743,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n63">
+    <node id="n61">
       <data key="d4" xml:space="preserve"><![CDATA[United Nations]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[UN]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Vereinte Nationen]]></data>
@@ -1821,7 +1765,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n64">
+    <node id="n62">
       <data key="d4" xml:space="preserve"><![CDATA[Cooperative Cyber Defence Centre of Excellence]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CCDOCOE]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1843,7 +1787,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n65">
+    <node id="n63">
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1863,7 +1807,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n41" target="n57">
+    <edge id="e0" source="n41" target="n55">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -1890,7 +1834,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1936,7 +1880,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
       <data key="d35">
@@ -1985,7 +1929,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2034,7 +1978,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
       <data key="d35">
@@ -2082,7 +2026,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ist nachgeordnet]]></data>
       <data key="d35">
@@ -2130,7 +2074,7 @@ BMVg eingerichtet werden.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Aus dem Haushalt des BKAmt wird die institutionelle Zuwendung an die SWP gezahlt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2178,7 +2122,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2225,7 +2169,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMG hat die gematik mit dem Aufbau einer Telematikinfrastruktur beauf- tragt, die Voraussetzung für eine sichere Vernetzung des Gesundheitswesens ist.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2273,7 +2217,7 @@ IT-Sicherheit.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMZ ist der wichtigste Auftraggeber der GIZ und neben dem BMF einer
 der beiden Gesellschafter.]]></data>
       <data key="d35">
@@ -2322,7 +2266,7 @@ der beiden Gesellschafter.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[ BMZ und BMF sind
 Gesellschafter der GIZ.]]></data>
       <data key="d35">
@@ -2372,7 +2316,7 @@ Gesellschafter der GIZ.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMF hat die Rechts- und Fachaufsicht über die BaFin.]]></data>
       <data key="d35">
@@ -2428,7 +2372,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2475,7 +2419,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Stand Juli 2019: wird erst in den kommenden Monaten fertig eingerichtet.]]></data>
       <data key="d35">
@@ -2514,7 +2458,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen UP KRITIS vertreten.]]></data>
       <data key="d35">
@@ -2547,7 +2491,7 @@ die Leitung der BAKS.]]></data>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen DsiN (Beirat) vertreten.]]></data>
       <data key="d35">
@@ -2568,57 +2512,7 @@ die Leitung der BAKS.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e15" source="n4" target="n56">
-      <data key="d21" xml:space="preserve"/>
-      <data key="d22" xml:space="preserve"/>
-      <data key="d23" xml:space="preserve"/>
-      <data key="d24" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen AfCS vertreten.]]></data>
-      <data key="d26" xml:space="preserve"/>
-      <data key="d27" xml:space="preserve"/>
-      <data key="d28" xml:space="preserve"/>
-      <data key="d29" xml:space="preserve"/>
-      <data key="d30" xml:space="preserve"/>
-      <data key="d31" xml:space="preserve"><![CDATA[
-        
-          
-            
-          
-          
-          
-          
-            
-              
-            
-            
-              
-            
-            
-          
-          
-        
-      ]]></data>
-      <data key="d32"/>
-      <data key="d33" xml:space="preserve"/>
-      <data key="d34" xml:space="preserve"><![CDATA[Das BMI ist in der Initiativen AfCS vertreten.]]></data>
-      <data key="d35">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="115.53659743564958" y="58.347296112064356">
-            <y:LabelModel>
-              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
-            </y:ModelParameter>
-            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
-          </y:EdgeLabel>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e16" source="n9" target="n38">
+    <edge id="e15" source="n9" target="n38">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2645,7 +2539,7 @@ die Leitung der BAKS.]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMWi hat die Initiative IT-Sicherheit in der
 Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
       <data key="d35">
@@ -2677,7 +2571,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e17" source="n9" target="n28">
+    <edge id="e16" source="n9" target="n28">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2704,7 +2598,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMWi ist im Beirat von DsiN vertreten.]]></data>
       <data key="d35">
@@ -2725,7 +2619,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e18" source="n41" target="n59">
+    <edge id="e17" source="n41" target="n57">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2752,7 +2646,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2772,7 +2666,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e19" source="n17" target="n49">
+    <edge id="e18" source="n17" target="n49">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2799,7 +2693,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw versorgt die Bw mit Ausrüstung.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2819,7 +2713,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e20" source="n49" target="n62">
+    <edge id="e19" source="n49" target="n60">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
@@ -2846,7 +2740,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2866,7 +2760,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e21" source="n48" target="n58">
+    <edge id="e20" source="n48" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2895,7 +2789,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Da BAMAD  ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
@@ -2926,7 +2820,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e22" source="n22" target="n58">
+    <edge id="e21" source="n22" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -2953,7 +2847,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BaFin ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -2973,7 +2867,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e23" source="n16" target="n58">
+    <edge id="e22" source="n16" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3000,7 +2894,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
@@ -3035,7 +2929,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e24" source="n16" target="n34">
+    <edge id="e23" source="n16" target="n34">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"><![CDATA[	]]></data>
@@ -3083,7 +2977,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e25" source="n16" target="n32">
+    <edge id="e24" source="n16" target="n32">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3110,7 +3004,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK ist im UP KRITIS vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3130,7 +3024,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e26" source="n16" target="n41">
+    <edge id="e25" source="n16" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3157,7 +3051,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BBK gehört zum Geschäftsbereich des BMI.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3184,7 +3078,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e27" source="n41" target="n4">
+    <edge id="e26" source="n41" target="n4">
       <data key="d21" xml:space="preserve"><![CDATA[Der BSI ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Der BSI ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der BSI ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
@@ -3211,7 +3105,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3231,7 +3125,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e28" source="n15" target="n58">
+    <edge id="e27" source="n15" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3258,7 +3152,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BfV ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3292,7 +3186,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e29" source="n15" target="n24">
+    <edge id="e28" source="n15" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3319,7 +3213,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BfV greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d35">
@@ -3345,7 +3239,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e30" source="n14" target="n58">
+    <edge id="e29" source="n14" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3372,7 +3266,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist im ist im Cyber-AZ vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3408,7 +3302,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e31" source="n14" target="n31">
+    <edge id="e30" source="n14" target="n31">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3435,7 +3329,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA ist in G4C vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3455,7 +3349,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e32" source="n14" target="n24">
+    <edge id="e31" source="n14" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3482,7 +3376,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BKA greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3502,7 +3396,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e33" source="n18" target="n33">
+    <edge id="e32" source="n18" target="n33">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3521,7 +3415,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Der BND ist an der Initiative Wirtschaftsschutz beteiligt.
 Shareholder float verify]]></data>
@@ -3543,7 +3437,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e34" source="n26" target="n18">
+    <edge id="e33" source="n26" target="n18">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3570,7 +3464,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3590,7 +3484,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e35" source="n25" target="n6">
+    <edge id="e34" source="n25" target="n6">
       <data key="d21" xml:space="preserve"><![CDATA[Die BAKS gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Die BAKS gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Die BAKS gehört zum Geschäftsbereich des BMVg.]]></data>
@@ -3619,7 +3513,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3641,7 +3535,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e36" source="n2" target="n0">
+    <edge id="e35" source="n2" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3668,7 +3562,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3687,7 +3581,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e37" source="n3" target="n0">
+    <edge id="e36" source="n3" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3714,7 +3608,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3733,7 +3627,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e38" source="n5" target="n0">
+    <edge id="e37" source="n5" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3760,7 +3654,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das BMJV ist im Cyber-SR vertreten.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -3780,7 +3674,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e39" source="n6" target="n0">
+    <edge id="e38" source="n6" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3807,7 +3701,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3826,7 +3720,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e40" source="n7" target="n0">
+    <edge id="e39" source="n7" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3853,7 +3747,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3872,7 +3766,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e41" source="n8" target="n0">
+    <edge id="e40" source="n8" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3899,7 +3793,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3918,7 +3812,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e42" source="n9" target="n0">
+    <edge id="e41" source="n9" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3945,7 +3839,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -3964,7 +3858,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e43" source="n11" target="n0">
+    <edge id="e42" source="n11" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -3991,7 +3885,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4011,7 +3905,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e44" source="n48" target="n6">
+    <edge id="e43" source="n48" target="n6">
       <data key="d21" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BAMAD gehört zum Geschäftsbereich des BMVg.]]></data>
@@ -4038,7 +3932,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4062,7 +3956,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e45" source="n49" target="n6">
+    <edge id="e44" source="n49" target="n6">
       <data key="d21" xml:space="preserve"><![CDATA[Das BAAINBw gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BAAINBw gehört zum Geschäftsbereich des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BAAINBw gehört zum Geschäftsbereich des BMVg.]]></data>
@@ -4089,7 +3983,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4109,7 +4003,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e46" source="n20" target="n9">
+    <edge id="e45" source="n20" target="n9">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"><![CDATA[Die BNetzA gehört zum Geschäftsbereich des BMWi]]></data>
       <data key="d23" xml:space="preserve"/>
@@ -4136,7 +4030,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -4166,7 +4060,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e47" source="n19" target="n28">
+    <edge id="e46" source="n19" target="n28">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4193,7 +4087,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die BfDI ist im Beirat der DsiN vertreten.]]></data>
       <data key="d35">
@@ -4214,7 +4108,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e48" source="n46" target="n41">
+    <edge id="e47" source="n46" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4241,7 +4135,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4261,7 +4155,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e49" source="n61" target="n41">
+    <edge id="e48" source="n59" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4288,7 +4182,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Im BSI ist unter anderem der CERT-Bund und das Bürger-CERT beherbergt.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4308,7 +4202,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e50" source="n41" target="n60">
+    <edge id="e49" source="n41" target="n58">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4326,7 +4220,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4336,7 +4230,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e51" source="n41" target="n58">
+    <edge id="e50" source="n41" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4354,7 +4248,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -4372,7 +4266,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e52" source="n18" target="n7">
+    <edge id="e51" source="n18" target="n7">
       <data key="d21" xml:space="preserve"><![CDATA[Der BND gehört zum Geschäftsbereich des BKAmt.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Der BND gehört zum Geschäftsbereich des BKAmt.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der BND gehört zum Geschäftsbereich des BKAmt.]]></data>
@@ -4399,7 +4293,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4421,7 +4315,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e53" source="n18" target="n0">
+    <edge id="e52" source="n18" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4448,7 +4342,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -4467,7 +4361,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e54" source="n43" target="n46">
+    <edge id="e53" source="n43" target="n46">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4478,7 +4372,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Die Cybercrime-Zentren kooperieren mit den entsprechenden Länder-CERTs.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4498,7 +4392,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e55" source="n41" target="n52">
+    <edge id="e54" source="n41" target="n52">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4525,7 +4419,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4545,7 +4439,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e56" source="n6" target="n62">
+    <edge id="e55" source="n6" target="n60">
       <data key="d21" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
@@ -4572,7 +4466,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4592,7 +4486,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e57" source="n35" target="n26">
+    <edge id="e56" source="n35" target="n26">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4619,7 +4513,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[CODE ist das Forschungsinstitut Cyber Defence an der UniBw, wo Bw Personal wissenschaftlich ausgebildet wird.]]></data>
       <data key="d35">
@@ -4640,7 +4534,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e58" source="n31" target="n14">
+    <edge id="e57" source="n31" target="n14">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4658,7 +4552,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4680,7 +4574,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e59" source="n31" target="n41">
+    <edge id="e58" source="n31" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4707,7 +4601,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4741,7 +4635,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e60" source="n50" target="n11">
+    <edge id="e59" source="n50" target="n11">
       <data key="d21" xml:space="preserve"><![CDATA[Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das ITZBund gehört zum Geschäftsbereich des Bundesministeriums der Finanzen.]]></data>
@@ -4768,7 +4662,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4788,7 +4682,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e61" source="n38" target="n9">
+    <edge id="e60" source="n38" target="n9">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4815,7 +4709,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die Initiative IT-Sicherheit in der Wirtschaft ist eine Initiative des BMWi. In ihrem Rahmen wird u. a. das “Bottom-Up” Projekt von DsiN betrieben.]]></data>
       <data key="d35">
@@ -4844,7 +4738,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e62" source="n9" target="n39">
+    <edge id="e61" source="n9" target="n39">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4871,7 +4765,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Der BMWI hat Trusted Cloud ins Leben gerufen.]]></data>
       <data key="d35">
@@ -4892,7 +4786,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e63" source="n41" target="n45">
+    <edge id="e62" source="n41" target="n45">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4919,7 +4813,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4939,7 +4833,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e64" source="n20" target="n37">
+    <edge id="e63" source="n20" target="n37">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -4966,7 +4860,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -4986,7 +4880,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e65" source="n41" target="n37">
+    <edge id="e64" source="n41" target="n37">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5013,7 +4907,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5033,7 +4927,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e66" source="n13" target="n58">
+    <edge id="e65" source="n13" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5060,7 +4954,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5095,7 +4989,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e67" source="n13" target="n24">
+    <edge id="e66" source="n13" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5122,7 +5016,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5147,7 +5041,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e68" source="n42" target="n13">
+    <edge id="e67" source="n42" target="n13">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5174,7 +5068,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die ZAC sind bei den Polizeien des Bundes und der Länder angesiedelt.]]></data>
       <data key="d35">
@@ -5195,7 +5089,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e69" source="n61" target="n44">
+    <edge id="e68" source="n59" target="n44">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5213,7 +5107,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -5223,7 +5117,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e70" source="n61" target="n46">
+    <edge id="e69" source="n59" target="n46">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5250,7 +5144,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5275,7 +5169,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e71" source="n41" target="n40">
+    <edge id="e70" source="n41" target="n40">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5302,7 +5196,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5322,7 +5216,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e72" source="n46" target="n61">
+    <edge id="e71" source="n46" target="n59">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5336,7 +5230,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5360,7 +5254,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e73" source="n47" target="n44">
+    <edge id="e72" source="n47" target="n44">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5387,7 +5281,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5410,7 +5304,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e74" source="n47" target="n41">
+    <edge id="e73" source="n47" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5439,7 +5333,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5459,7 +5353,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e75" source="n58" target="n41">
+    <edge id="e74" source="n56" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5476,7 +5370,7 @@ Shareholder float verify]]></data>
           
         
       ]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5504,7 +5398,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e76" source="n58" target="n13">
+    <edge id="e75" source="n56" target="n13">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5515,7 +5409,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5549,7 +5443,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e77" source="n58" target="n48">
+    <edge id="e76" source="n56" target="n48">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5560,7 +5454,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5592,7 +5486,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e78" source="n58" target="n14">
+    <edge id="e77" source="n56" target="n14">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5603,7 +5497,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5634,7 +5528,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e79" source="n58" target="n15">
+    <edge id="e78" source="n56" target="n15">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5645,7 +5539,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5678,7 +5572,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e80" source="n58" target="n16">
+    <edge id="e79" source="n56" target="n16">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5689,7 +5583,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5718,7 +5612,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e81" source="n58" target="n18">
+    <edge id="e80" source="n56" target="n18">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5729,7 +5623,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5749,7 +5643,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e82" source="n58" target="n17">
+    <edge id="e81" source="n56" target="n17">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5760,7 +5654,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5788,7 +5682,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e83" source="n58" target="n21">
+    <edge id="e82" source="n56" target="n21">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5799,7 +5693,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, ZKA, BaFin und BAMAD.]]></data>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5810,7 +5704,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e84" source="n58" target="n22">
+    <edge id="e83" source="n56" target="n22">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5821,7 +5715,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, BND, Bw, ZKA, BaFin und BAMAD.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5841,7 +5735,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e85" source="n60" target="n58">
+    <edge id="e84" source="n58" target="n56">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5852,7 +5746,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5887,7 +5781,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e86" source="n60" target="n61">
+    <edge id="e85" source="n58" target="n59">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5898,7 +5792,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5918,7 +5812,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e87" source="n32" target="n41">
+    <edge id="e86" source="n32" target="n41">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5929,7 +5823,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5949,7 +5843,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e88" source="n32" target="n4">
+    <edge id="e87" source="n32" target="n4">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5960,7 +5854,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -5982,7 +5876,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e89" source="n32" target="n16">
+    <edge id="e88" source="n32" target="n16">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -5993,7 +5887,7 @@ Shareholder float verify]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[Im Rahmen des UP KRITIS kooperieren von staatlicher Seite BMI, BSI und BBK.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6013,7 +5907,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e90" source="n24" target="n13">
+    <edge id="e89" source="n24" target="n13">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6025,7 +5919,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6050,7 +5944,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e91" source="n24" target="n14">
+    <edge id="e90" source="n24" target="n14">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6061,7 +5955,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6083,7 +5977,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e92" source="n24" target="n15">
+    <edge id="e91" source="n24" target="n15">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6094,7 +5988,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6120,7 +6014,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e93" source="n51" target="n17">
+    <edge id="e92" source="n51" target="n17">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6131,7 +6025,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Die BWI GmbH ist eine Bundesgesellschaft und IT-Systemhaus für Bw und Bund.]]></data>
       <data key="d35">
@@ -6152,7 +6046,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e94" source="n51" target="n62">
+    <edge id="e93" source="n51" target="n60">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6163,7 +6057,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"><![CDATA[Verbindung in graphischer Darstellung SNV aber nicht in textueller afaik.]]></data>
       <data key="d35">
@@ -6184,7 +6078,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e95" source="n28" target="n38">
+    <edge id="e94" source="n28" target="n38">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6195,7 +6089,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"><![CDATA[DsiN kooperiert mit der Initiative IT-Sicherheit in der Wirtschaft.]]></data>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6215,7 +6109,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e96" source="n41" target="n28">
+    <edge id="e95" source="n41" target="n28">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6226,7 +6120,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6254,7 +6148,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e97" source="n14" target="n28">
+    <edge id="e96" source="n14" target="n28">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6265,7 +6159,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6285,7 +6179,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e98" source="n4" target="n53">
+    <edge id="e97" source="n4" target="n53">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6296,7 +6190,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6316,7 +6210,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e99" source="n60" target="n34">
+    <edge id="e98" source="n58" target="n34">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6327,7 +6221,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6347,7 +6241,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e100" source="n34" target="n60">
+    <edge id="e99" source="n34" target="n58">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6358,7 +6252,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6380,7 +6274,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e101" source="n4" target="n0">
+    <edge id="e100" source="n4" target="n0">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6391,7 +6285,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -6403,7 +6297,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e102" source="n11" target="n21">
+    <edge id="e101" source="n11" target="n21">
       <data key="d21" xml:space="preserve"><![CDATA[Das ZKA ist dem BMF nachgeordnet. => BMF hat Fachaufsicht über ZKA.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das ZKA ist dem BMF nachgeordnet. => BMF hat rechtsaufsicht über ZKA.]]></data>
       <data key="d23" xml:space="preserve"/>
@@ -6414,7 +6308,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6436,7 +6330,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e103" source="n4" target="n16">
+    <edge id="e102" source="n4" target="n16">
       <data key="d21" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BBK ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
@@ -6447,7 +6341,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6467,7 +6361,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e104" source="n4" target="n15">
+    <edge id="e103" source="n4" target="n15">
       <data key="d21" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[BfV ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
@@ -6478,7 +6372,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6498,7 +6392,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e105" source="n4" target="n13">
+    <edge id="e104" source="n4" target="n13">
       <data key="d21" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Bpol ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
@@ -6509,7 +6403,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6529,7 +6423,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e106" source="n4" target="n14">
+    <edge id="e105" source="n4" target="n14">
       <data key="d21" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Das BKA ist dem Geschäftsbereich des BMI zugeordnet.]]></data>
@@ -6540,7 +6434,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6560,7 +6454,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e107" source="n65" target="n41">
+    <edge id="e106" source="n63" target="n41">
       <data key="d21" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
@@ -6571,7 +6465,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6591,7 +6485,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e108" source="n24" target="n18">
+    <edge id="e107" source="n24" target="n18">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6602,7 +6496,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6624,7 +6518,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e109" source="n18" target="n24">
+    <edge id="e108" source="n18" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6635,7 +6529,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6655,7 +6549,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e110" source="n6" target="n48">
+    <edge id="e109" source="n6" target="n48">
       <data key="d21" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der MAD ist Teil des Geschäaftsbereichs des BMVg.]]></data>
@@ -6666,7 +6560,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6686,7 +6580,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e111" source="n24" target="n48">
+    <edge id="e110" source="n24" target="n48">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6697,7 +6591,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6717,7 +6611,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e112" source="n21" target="n24">
+    <edge id="e111" source="n21" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6728,7 +6622,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6748,7 +6642,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e113" source="n24" target="n21">
+    <edge id="e112" source="n24" target="n21">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6759,7 +6653,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6779,7 +6673,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e114" source="n4" target="n24">
+    <edge id="e113" source="n4" target="n24">
       <data key="d21" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
       <data key="d22" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[ZITIS befindet sich im Geschäftsbereich des BSI.]]></data>
@@ -6790,7 +6684,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6810,7 +6704,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e115" source="n48" target="n24">
+    <edge id="e114" source="n48" target="n24">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6821,7 +6715,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6841,7 +6735,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e116" source="n6" target="n51">
+    <edge id="e115" source="n6" target="n51">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"><![CDATA[Abteilung AIII1 des BMVg ist zuständig für die Beteiligungsführung der BWI GmbH]]></data>
@@ -6853,7 +6747,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
@@ -6873,7 +6767,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e117" source="n4" target="n23">
+    <edge id="e116" source="n4" target="n23">
       <data key="d21" xml:space="preserve"/>
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
@@ -6885,7 +6779,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
-      <data key="d32"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d35">
         <y:PolyLineEdge>
