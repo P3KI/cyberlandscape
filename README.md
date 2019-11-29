@@ -18,7 +18,8 @@ Graph data showing relationships between entities in the cyber-political landsca
 * "founded" (string) ISO-date the entity was founded
 * "budget" (long" latest known funding in EUR equivalents
 * "publication" (string) list of publication type and recurrence. TODO: define separate type for this?
-
+* "state" (string) geographical jurisdiction, state were the institution is responsible for
+* 
 ## Edge Attribute Fields
 * "oversight.tech" (string) fachaufsicht
 * "oversight.legal" (string) rechtsaufsicht
