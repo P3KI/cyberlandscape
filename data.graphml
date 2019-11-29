@@ -1521,64 +1521,6 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       </data>
     </node>
     <node id="n50">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
-      <data key="d6" xml:space="preserve"/>
-      <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
-      <data key="d9" xml:space="preserve"/>
-      <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
-      <data key="d16" xml:space="preserve"/>
-      <data key="d17" xml:space="preserve"/>
-      <data key="d20">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="285.02734375" y="358.0"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-            <y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="-3.6669921875" xml:space="preserve" y="5.6494140625">NATO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n51">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
-      <data key="d6" xml:space="preserve"/>
-      <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
-      <data key="d9" xml:space="preserve"/>
-      <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
-      <data key="d16" xml:space="preserve"/>
-      <data key="d17" xml:space="preserve"/>
-      <data key="d20">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="1552.055803571429" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="13.0">
-            <y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.0078125" x="-1.00390625" xml:space="preserve" y="5.6494140625">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n52">
       <data key="d4" xml:space="preserve"><![CDATA[Mobile Incident Response Teams]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[MIRT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1600,7 +1542,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n53">
+    <node id="n51">
       <data key="d4" xml:space="preserve"><![CDATA[Nationales Cyber-Abwehrzentrum]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[NCAZ]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Cyber-AZ]]></data>
@@ -1624,7 +1566,7 @@ Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, B
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n54">
+    <node id="n52">
       <data key="d4" xml:space="preserve"><![CDATA[Allianz für Cyber-Sicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[AfCS]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[ACS]]></data>
@@ -1648,7 +1590,7 @@ Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n55">
+    <node id="n53">
       <data key="d4" xml:space="preserve"><![CDATA[Nationales IT-Lagezentrum]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[LZ
 ]]></data>
@@ -1673,7 +1615,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n56">
+    <node id="n54">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team (CERT) des Bundes / Bürger Computer Emergency Response Team (CERT)]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CERTBund]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[CERTBund ]]></data>
@@ -1696,7 +1638,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n57">
+    <node id="n55">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber Innovation Hub]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CIH]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1720,7 +1662,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n58">
+    <node id="n56">
       <data key="d4" xml:space="preserve"><![CDATA[United Nations]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[UN]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Vereinte Nationen]]></data>
@@ -1743,7 +1685,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n59">
+    <node id="n57">
       <data key="d4" xml:space="preserve"><![CDATA[Cooperative Cyber Defence Centre of Excellence]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CCDOCOE]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1766,7 +1708,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n60">
+    <node id="n58">
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1787,7 +1729,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n61">
+    <node id="n59">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1810,7 +1752,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n62">
+    <node id="n60">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Bayern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1832,7 +1774,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n63">
+    <node id="n61">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Berlin]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1856,7 +1798,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n64">
+    <node id="n62">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team des Landes Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1878,7 +1820,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n65">
+    <node id="n63">
       <data key="d4" xml:space="preserve"><![CDATA[Cyberwehr]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1890,9 +1832,10 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
       <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Die Cyberwehr ist eine Kontakt- und Beratungsstelle für kleine und mittlere Unternehmen sowie eine Koordinierungsstelle bei Cyberangriffen. Derzeit befindet sie sich in der Pilotphase, in der sie ausschließlich in den Stadt- und Landkreisen Karlsruhe, Rastatt, Baden-Baden zur Verfügung steht. Langfristig ist das Ziel aber der landesweite Aufbau regionaler Infrastrukturen für die Ersthilfe im Falle einer IT-Sicherheitsvorfalls. Die eingerichtete Hotline dient als erste Anlaufstelle und einheitliche Notfallnummer im Fall eines Cyberangriffs – die Cyberwehr führt mit dem betroffenen Unternehmen ein mehrstündiges Telefonat um eine initiale Vorfallsdiagnose zu stellen und im Anschluss, wenn gewünscht, Experten bereitstellt, die das Unternehmen bei der Schadensbegrenzung unterstützen. Im Gegensatz zur Zentralen Anlaufstelle Cybercrime des Landeskriminalamts wird die Cyberwehr im Bereich der Angriffsabwehr und der Schadensbegrenzung erst aktiv, wenn ein Vorfall eingetreten ist. Die Aufgaben der Zentralen Anlaufstelle Cybercrime hingegen erstrecken sich auch präventive Maßnahmen sowie die Strafverfolgung im Schadensfall oder einem versuchten Angriff. Durch gesetzliche Regelungen hat die Anlaufstelle im Rahmen der Strafverfolgung exklusive Befugnisse zur Aufklärung des Sachverhalts oder des Verhinderns eines weiteren Angriffs. ]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-701.797014416548" y="-717.4907767776393"/>
+          <y:Geometry height="30.0" width="30.0" x="-1111.9735291618563" y="-1270.0046641771032"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.01953125" x="-16.009765625" xml:space="preserve" y="5.6494140625">Cyberwehr<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1900,8 +1843,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n66">
-      <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität]]></data>
+    <node id="n64">
+      <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
@@ -1912,17 +1855,18 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
       <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Im Juli 2011 wurde bei der Generalstaatsanwaltschaft Stuttgart eine Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität angesiedelt. Ihre Aufgabe ist es, Entwicklungen im Bereich der Informations- und Kommunikationstechnologien zu verfolgen, auszuwerten und die Staatsanwaltschaft darüber zu informieren. Außerdem plant sie Fortbildungsveranstaltungen und führt diese durch. Die Zentralstelle prüft neue Ermittlungsinstrumente aus dem Bereich der Informations- und Kommunikationstechnologien nach ihrer Nutzbarkeit in der Strafverfolgung. ]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-901.7012068802048" y="-657.747971030929"/>
+          <y:Geometry height="30.0" width="30.0" x="-1142.7564347622424" y="-1191.513118484012"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="445.5390625" x="-207.76953125" xml:space="preserve" y="5.6494140625">Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="564.25" x="-267.125" xml:space="preserve" y="5.6494140625">Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n67">
+    <node id="n65">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber-Allianz-Zentrum Bayern ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1944,7 +1888,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n68">
+    <node id="n66">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Süd]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1966,7 +1910,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n69">
+    <node id="n67">
       <data key="d4" xml:space="preserve"><![CDATA[Kompetenzzentrum Cybercrime]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1978,9 +1922,10 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern, Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Das Kompetenzzentrum Cybercrime (Dezernat 54) wurde 2014 beim Landeskriminalamt Bayern eingerichtet. Eine seiner Hauptaufgaben ist es, in Krisenstabsübungen mit Unternehmen und Behörden, die für den Erhalt der öffentlichen Ordnung unverzichtbar sind, den Ernstfall, beispielsweise eines Hackerangriffs, zu testen. Darüber hinaus nimmt es sich solcher Fälle von Cyberkriminalität an, die überregionale Bedeutung haben und von den örtlichen Polizeidienststellen nicht bearbeitet werden können.]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-914.624375768268" y="-584.0404206498999"/>
+          <y:Geometry height="30.0" width="30.0" x="-1186.4428422562037" y="-1112.9844635453424"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.7265625" x="-71.36328125" xml:space="preserve" y="5.6494140625">Kompetenzzentrum Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1988,7 +1933,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n70">
+    <node id="n68">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle Cybercrime Bayern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2000,9 +1945,10 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern]]></data>
       <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Seit 2015 besteht die Zentralstelle Cybercrime Bayern bei der Generalstaatsanwaltschaft Bamberg, deren Aufgabe herausgehobene Ermittlungsverfahren im Bereich der Cyberkriminalität in ganz Bayern sind. In Abstimmung mit dem Bayerischen Justizministerium arbeitet die Zentralstelle auch zu verfahrensunabhängigen Fragestellungen im Bereich Cyberkriminalität.]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-938.6050762107042" y="-502.49853929830095"/>
+          <y:Geometry height="30.0" width="30.0" x="-1133.2858697763877" y="-1058.3795473411963"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="1.0" xml:space="preserve" y="5.6494140625">ZCB<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2010,7 +1956,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n71">
+    <node id="n69">
       <data key="d4" xml:space="preserve"/>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2032,7 +1978,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n72">
+    <node id="n70">
       <data key="d4" xml:space="preserve"><![CDATA[Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2044,9 +1990,10 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Berlin]]></data>
       <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Seit 2015 besteht in der Staatsanwaltschaft Berlin eine Spezialabteilung zur Cyberkriminalität. Schwerpunkt der Abteilung ist der Waren- und Warenkreditbetrug im Zusammenhang mit Online-Handel.]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-262.4878165150833" y="-712.9391137207535"/>
+          <y:Geometry height="30.0" width="30.0" x="-844.0813821987294" y="-1216.4767008521208"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="458.91015625" x="-214.455078125" xml:space="preserve" y="5.6494140625">Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2054,7 +2001,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n73">
+    <node id="n71">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Brandenburg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2076,7 +2023,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n74">
+    <node id="n72">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Bremen							]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2097,7 +2044,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n75">
+    <node id="n73">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Hamburg
 
 
@@ -2129,7 +2076,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n76">
+    <node id="n74">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Hessen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2151,7 +2098,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n77">
+    <node id="n75">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2173,7 +2120,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n78">
+    <node id="n76">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Niedersachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2195,7 +2142,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n79">
+    <node id="n77">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Nordrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2217,7 +2164,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n80">
+    <node id="n78">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Rheinland-Pfalz]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2239,7 +2186,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n81">
+    <node id="n79">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Saarland]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2261,7 +2208,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n82">
+    <node id="n80">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Sachsen-Anhalt]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2283,7 +2230,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n83">
+    <node id="n81">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Sachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2305,7 +2252,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n84">
+    <node id="n82">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Schleswig-Holstein]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2327,7 +2274,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n85">
+    <node id="n83">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Thüringen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2349,7 +2296,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n86">
+    <node id="n84">
       <data key="d4" xml:space="preserve"><![CDATA[das Computer Emergency Response Team für die Verwaltungen der Länder Schleswig-Holstein, Hamburg, Bremen und Sachsen-Anhalt.]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2371,7 +2318,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n87">
+    <node id="n85">
       <data key="d4" xml:space="preserve"><![CDATA[Niedersachsen-Computer emergency response team 
 ]]></data>
       <data key="d5" xml:space="preserve"/>
@@ -2394,7 +2341,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n88">
+    <node id="n86">
       <data key="d4" xml:space="preserve"><![CDATA[Computer emergency response team Saarland]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2416,7 +2363,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n89">
+    <node id="n87">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2438,7 +2385,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n90">
+    <node id="n88">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team NOrdrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2460,7 +2407,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n91">
+    <node id="n89">
       <data key="d4" xml:space="preserve"><![CDATA[Bayern Computer Emergency Response Team]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2482,7 +2429,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n92">
+    <node id="n90">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Berlin]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2504,7 +2451,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n93">
+    <node id="n91">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Brandenburg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2526,7 +2473,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n94">
+    <node id="n92">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Sachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2548,7 +2495,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n95">
+    <node id="n93">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Rheinland-pfalz]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2570,7 +2517,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n96">
+    <node id="n94">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Hessen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2592,7 +2539,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n97">
+    <node id="n95">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Thüringen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2614,7 +2561,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n98">
+    <node id="n96">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Nord]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2636,7 +2583,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n99">
+    <node id="n97">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Rhein-Main]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2658,7 +2605,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n100">
+    <node id="n98">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Standort Region West (Bonn)]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2680,7 +2627,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n101">
+    <node id="n99">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Zweitstandort Region Ost]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2702,7 +2649,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n102">
+    <node id="n100">
       <data key="d4" xml:space="preserve"><![CDATA[Chaos Computer Club]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2724,7 +2671,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n103">
+    <node id="n101">
       <data key="d4" xml:space="preserve"><![CDATA[Schwerpunktstaatsanwaltschaft zur Bekämpfung der Computer- und
 Datennetzkriminalität Cobus]]></data>
       <data key="d5" xml:space="preserve"/>
@@ -2748,7 +2695,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n104">
+    <node id="n102">
       <data key="d4" xml:space="preserve"><![CDATA[Fachkommissariat Cybercrime ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2770,7 +2717,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n105">
+    <node id="n103">
       <data key="d4" xml:space="preserve"><![CDATA[Hessen Cyber Competence Center ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2792,7 +2739,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n106">
+    <node id="n104">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle zur Bekämpfung der Internet- und Computerkriminalität ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2814,7 +2761,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n107">
+    <node id="n105">
       <data key="d4" xml:space="preserve"><![CDATA[Föderale IT-Kooperation ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2835,7 +2782,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n108">
+    <node id="n106">
       <data key="d4" xml:space="preserve"><![CDATA[Dernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2857,7 +2804,7 @@ Datennetzkriminalität Cobus<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n109">
+    <node id="n107">
       <data key="d4" xml:space="preserve"><![CDATA[Schwerpunktstaatsanwaltschaft für die
 Bekämpfung der Informations-und Kommunikationskriminalität Rostock]]></data>
       <data key="d5" xml:space="preserve"/>
@@ -2881,7 +2828,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n110">
+    <node id="n108">
       <data key="d4" xml:space="preserve"><![CDATA[EMERGE IoT – Mecklenburg-Vorpommern ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2903,7 +2850,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n111">
+    <node id="n109">
       <data key="d4" xml:space="preserve"><![CDATA[Netzverweis.de – Mecklenburg-Vorpommern ]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2925,7 +2872,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n112">
+    <node id="n110">
       <data key="d4" xml:space="preserve"><![CDATA[Zentral- und Ansprechstelle Cybercrime  Nordrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2947,19 +2894,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n113">
+    <node id="n111">
       <data key="d4" xml:space="preserve"><![CDATA[Cybercrime-Kompetenzzentrum]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="342.34608233731706" y="-591.2205179282869"/>
@@ -2970,19 +2916,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n114">
+    <node id="n112">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime des Landeskriminalamtes Rheinland-Pfalz]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Rheinland-pfalz]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="452.0685258964136" y="-651.419588313413"/>
@@ -2993,19 +2938,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n115">
+    <node id="n113">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat LPP 222 Cybercrime]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Saarland]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-912.4105570167253" y="-439.9444536956339"/>
@@ -3016,19 +2960,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n116">
+    <node id="n114">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Saarland]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-815.6175689689167" y="-366.87523722817036"/>
@@ -3039,19 +2982,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n117">
+    <node id="n115">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber Crime Competence Center Sachsen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-773.8637309875085" y="-490.2388494459659"/>
@@ -3062,19 +3004,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n118">
+    <node id="n116">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle Cybercrime Sachsen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-657.1427748122096" y="-437.09760110599245"/>
@@ -3085,19 +3026,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n119">
+    <node id="n117">
       <data key="d4" xml:space="preserve"><![CDATA[Cybercrime Competence Center - Sachsen-Anhalt]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen-Anhalt]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-736.8546473221704" y="-416.2206821152886"/>
@@ -3108,22 +3048,22 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n120">
+    <node id="n118">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime des Landeskriminalamtes Thüringen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Thüringen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Das Dezernat Cybercrime des Landeskriminalamts Thüringen beschäftigt sich unter anderem mit Betrug im Internet und Ermittlungen zu Kinder- und Jugendpornografie im Netz.]]></data>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-701.743465383259" y="-586.082886630561"/>
+          <y:Geometry height="30.0" width="30.0" x="-1031.7595511741438" y="-1143.28395901662"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="314.13671875" x="-142.068359375" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3131,19 +3071,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n121">
+    <node id="n119">
       <data key="d4" xml:space="preserve"><![CDATA[IT-Planungsrat]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-198.7960906374501" y="-305.04179822377137"/>
@@ -3154,19 +3093,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n122">
+    <node id="n120">
       <data key="d4" xml:space="preserve"><![CDATA[Sicherheitskooperation Cybercrime]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-789.3106053286862" y="-98.3980636412681"/>
@@ -3177,19 +3115,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n123">
+    <node id="n121">
       <data key="d4" xml:space="preserve"><![CDATA[Nationaler Pakt Cybersicherheit]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-244.72030818393227" y="-190.1979391392765"/>
@@ -3200,19 +3137,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n124">
+    <node id="n122">
       <data key="d4" xml:space="preserve"><![CDATA[Cyberbündnis mit der Wirtschaft]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-326.2707729913692" y="-305.8513255934597"/>
@@ -3223,17 +3159,17 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n125">
+    <node id="n123">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur zur Förderung von Sprunginnovationen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"><![CDATA[Sucht momentan einen Standort, Potsdam und Leipzig sind in der engeren Auswahl.]]></data>
       <data key="d20">
@@ -3246,19 +3182,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n126">
+    <node id="n124">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur für Innovation in der Cybersicherheit]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-247.15199477091778" y="-353.7733441857572"/>
@@ -3269,19 +3204,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n127">
+    <node id="n125">
       <data key="d4" xml:space="preserve"><![CDATA[IT-Rat]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-150.1217690073055" y="-254.25212240620868"/>
@@ -3292,19 +3226,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n128">
+    <node id="n126">
       <data key="d4" xml:space="preserve"><![CDATA[Europäischer Auswärtiger Dienst]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-139.68330951195344" y="-363.381471675797"/>
@@ -3315,19 +3248,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n129">
+    <node id="n127">
       <data key="d4" xml:space="preserve"><![CDATA[Direktion Krisenbewältigung und Planung ]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-200.41616475763738" y="-404.18635879399085"/>
@@ -3338,19 +3270,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n130">
+    <node id="n128">
       <data key="d4" xml:space="preserve"><![CDATA[Intelligence Directorate des EU-Militärstabs ]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-303.85180884794283" y="-444.9912459121848"/>
@@ -3361,17 +3292,17 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n131">
+    <node id="n129">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrum für Informationsgewinnung und -analyse]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-352.2483028718472" y="-222.93674392015288"/>
@@ -3382,19 +3313,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n132">
+    <node id="n130">
       <data key="d4" xml:space="preserve"><![CDATA[EU Hybrid Fusion Cell]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-365.53361495684055" y="-373.81993117114894"/>
@@ -3405,17 +3335,17 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n133">
+    <node id="n131">
       <data key="d4" xml:space="preserve"><![CDATA[Ständige Strukturierte Zusammenarbeit]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
       <data key="d20">
         <y:ShapeNode>
@@ -3427,19 +3357,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n134">
+    <node id="n132">
       <data key="d4" xml:space="preserve"><![CDATA[Kooperationsgruppe unter der NIS-Richtlinie]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-96.03156980411813" y="-303.59756729332685"/>
@@ -3450,19 +3379,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n135">
+    <node id="n133">
       <data key="d4" xml:space="preserve"><![CDATA[Horizon 2020]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-262.0979708665351" y="-416.52272001577046"/>
@@ -3473,19 +3401,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n136">
+    <node id="n134">
       <data key="d4" xml:space="preserve"><![CDATA[Senior Offcials Group Information Systems Security]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-150.12176900730537" y="-450.6849510914677"/>
@@ -3496,19 +3423,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n137">
+    <node id="n135">
       <data key="d4" xml:space="preserve"><![CDATA[Kontaktgruppe zum Schutz kritischer Infrastrukturen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-93.18471721447668" y="-386.15629239292844"/>
@@ -3519,19 +3445,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n138">
+    <node id="n136">
       <data key="d4" xml:space="preserve"><![CDATA[European Cybercrime Training and Education Group]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-223.19098547476892" y="-485.79613303037866"/>
@@ -3542,19 +3467,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n139">
+    <node id="n137">
       <data key="d4" xml:space="preserve"><![CDATA[Contractual Public Private Partnership on Cybersecurity]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-375.9720744521925" y="-441.19544245932957"/>
@@ -3565,19 +3489,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n140">
+    <node id="n138">
       <data key="d4" xml:space="preserve"><![CDATA[European Government CERTs group]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-203.26301734727883" y="-227.68149823622196"/>
@@ -3588,19 +3511,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n141">
+    <node id="n139">
       <data key="d4" xml:space="preserve"><![CDATA[NIS Public-Private Platform]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-96.98052066733192" y="-205.8556283823043"/>
@@ -3611,19 +3533,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n142">
+    <node id="n140">
       <data key="d4" xml:space="preserve"><![CDATA[Europäischer Rat]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-323.7797769754329" y="-257.0989749958501"/>
@@ -3634,19 +3555,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n143">
+    <node id="n141">
       <data key="d4" xml:space="preserve"><![CDATA[Politisches und Sicherheitspolitisches Komitee]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-447.1433891932284" y="-331.1171423265274"/>
@@ -3657,19 +3577,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n144">
+    <node id="n142">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Kommission]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-446.1944383300146" y="-413.675867426129"/>
@@ -3680,19 +3599,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n145">
+    <node id="n143">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Kommunikationsnetze, Inhalte und Technologien ]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-359.83990977755775" y="-504.77515029465485"/>
@@ -3703,19 +3621,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n146">
+    <node id="n144">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Migration und Inneres]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-287.7196441733081" y="-484.847182167165"/>
@@ -3726,19 +3643,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n147">
+    <node id="n145">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Informatik]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-488.8972271746361" y="-375.7178328975766"/>
@@ -3749,19 +3665,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n148">
+    <node id="n146">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team der Europäischen Kommission ]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-411.08325639110353" y="-195.41716888695237"/>
@@ -3772,19 +3687,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n149">
+    <node id="n147">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrum für die Koordination von Notfallmaßnahmen]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-468.02030818393223" y="-263.7416310383468"/>
@@ -3795,19 +3709,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n150">
+    <node id="n148">
       <data key="d4" xml:space="preserve"><![CDATA[(Common) Taxonomy Governance Group]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-521.1615565239057" y="-308.342321609396"/>
@@ -3818,19 +3731,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n151">
+    <node id="n149">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Gruppe für die Cybersicherheitszertifizierung]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-530.6510651560438" y="-434.5527864168329"/>
@@ -3841,19 +3753,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n152">
+    <node id="n150">
       <data key="d4" xml:space="preserve"><![CDATA[European Union Cybercrime Task Force]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-581.8944117695896" y="-370.0241277182937"/>
@@ -3864,19 +3775,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n153">
+    <node id="n151">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Verteidigungsagentur]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-595.179723854583" y="-306.4444198829683"/>
@@ -3887,19 +3797,18 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n154">
+    <node id="n152">
       <data key="d4" xml:space="preserve"><![CDATA[European Cybercrime Center]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-582.8433626328034" y="-250.4563189533535"/>
@@ -3910,20 +3819,19 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n155">
+    <node id="n153">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur der Europäischen Union für Netz- und
 Informationssicherheit]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-492.69303062749134" y="-202.05982492944906"/>
@@ -3934,19 +3842,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n156">
+    <node id="n154">
       <data key="d4" xml:space="preserve"><![CDATA[Eurojust]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-366.48256582005445" y="-149.8675274526894"/>
@@ -3957,19 +3864,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n157">
+    <node id="n155">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Polizeiakademie]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-454.7349960989389" y="-482.0003295775234"/>
@@ -3980,19 +3886,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n158">
+    <node id="n156">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Agentur für das Betriebsmanagement von IT-Großsystemen im Bereich Freiheit, Sicherheit und Recht]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-296.26020194223236" y="-144.17382227340647"/>
@@ -4003,19 +3908,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n159">
+    <node id="n157">
       <data key="d4" xml:space="preserve"><![CDATA[Inter-Service Group “Community Capacity in Crisis-Management”]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-228.88469065405172" y="-137.5311662309099"/>
@@ -4026,19 +3930,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n160">
+    <node id="n158">
       <data key="d4" xml:space="preserve"><![CDATA[Inter-Service Group “Countering Hybrid Threats”]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-559.1195910524582" y="-195.4171688869523"/>
@@ -4049,19 +3952,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n161">
+    <node id="n159">
       <data key="d4" xml:space="preserve"><![CDATA[MeliCERTes]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-498.38673580677425" y="-152.7143800423308"/>
@@ -4072,19 +3974,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n162">
+    <node id="n160">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Security Incident Response Teams Netzwerk]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-433.858077108235" y="-123.29690328270271"/>
@@ -4095,19 +3996,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n163">
+    <node id="n161">
       <data key="d4" xml:space="preserve"><![CDATA[European Judicial Cybercrime Network]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-516.4168022078367" y="-250.4563189533535"/>
@@ -4118,19 +4018,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n164">
+    <node id="n162">
       <data key="d4" xml:space="preserve"><![CDATA[European Judicial Training Network]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-359.83990977755775" y="-112.85844378735078"/>
@@ -4141,19 +4040,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n165">
+    <node id="n163">
       <data key="d4" xml:space="preserve"><![CDATA[ENISA-Beratungsgruppe]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-157.71337591301585" y="-169.79549558017948"/>
@@ -4164,19 +4062,18 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n166">
+    <node id="n164">
       <data key="d4" xml:space="preserve"><![CDATA[Gruppe der Interessenträger für die Cybersicherheitszertifzierung]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
-      <data key="d8"/>
-      <data key="d9"/>
-      <data key="d10"/>
-      <data key="d14"/>
-      <data key="d16"/>
-      <data key="d17"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-390.20633740039966" y="-330.1681914633135"/>
@@ -4187,9 +4084,55 @@ Informationssicherheit]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n167">
+    <node id="n165">
       <data key="d4" xml:space="preserve"><![CDATA[Reference Incident Classifcation Taxonomy Task Force]]></data>
-      <data key="d5"/>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
+      <data key="d18" xml:space="preserve"/>
+      <data key="d20">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="30.0" x="63.39217521580224" y="-300.7507147036855"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.65625" x="-14.328125" xml:space="preserve" y="5.6494140625">TF-CSIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n166">
+      <data key="d4" xml:space="preserve"><![CDATA[Allianz für Cyber-Sicherheit]]></data>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"><![CDATA[ACS]]></data>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"/>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"/>
+      <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[Die Allianz für Cyber-Sicherheit (AfCS/ ACS) bietet einen vertrauensvollen Austausch zwischen den Mitgliedern und dem Bundesamt für Sicherheit in der Informationstechnik zu Cyberbedrohungen, Schutzmaßnahmen und Vorfallsmanagement. Außerdem erhalten die Mitglieder Informationen zum Ausbau ihrer Cybersicherheitskompetenzen. Mitglied kann jede Institution mit Sitz in Deutschland werden.]]></data>
+      <data key="d20">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="30.0" x="1552.055803571429" y="141.1328125"/>
+          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.0078125" x="-1.00390625" xml:space="preserve" y="5.6494140625">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="32.0078125" x="-1.00390625" xml:space="preserve" y="5.6494140625">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n167">
+      <data key="d4" xml:space="preserve"><![CDATA[The North Atlantic Treaty Organization]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[NATO]]></data>
       <data key="d6"/>
       <data key="d7"/>
       <data key="d8"/>
@@ -4202,15 +4145,15 @@ Informationssicherheit]]></data>
       <data key="d19"/>
       <data key="d20">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="63.39217521580224" y="-300.7507147036855"/>
+          <y:Geometry height="30.0" width="30.0" x="294.7988279964384" y="357.7396005556543"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.65625" x="-14.328125" xml:space="preserve" y="5.6494140625">TF-CSIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="-3.6669921875" xml:space="preserve" y="5.6494140625">NATO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <edge id="e0" source="n40" target="n52">
+    <edge id="e0" source="n40" target="n50">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -4865,7 +4808,7 @@ die Leitung der BAKS.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e14" source="n4" target="n51">
+    <edge id="e14" source="n4" target="n166">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5022,7 +4965,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e17" source="n40" target="n54">
+    <edge id="e17" source="n40" target="n52">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5116,7 +5059,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e19" source="n44" target="n57">
+    <edge id="e19" source="n44" target="n55">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"><![CDATA[Das BAAINBw ist im Steuerungsboard des CIH vertreten.]]></data>
@@ -5163,7 +5106,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e20" source="n43" target="n53">
+    <edge id="e20" source="n43" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5223,7 +5166,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e21" source="n22" target="n53">
+    <edge id="e21" source="n22" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5270,7 +5213,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e22" source="n16" target="n53">
+    <edge id="e22" source="n16" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5528,7 +5471,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e27" source="n15" target="n53">
+    <edge id="e27" source="n15" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -5642,7 +5585,7 @@ Wirtschaft und Trusted Cloud ins Leben gerufen. ]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e29" source="n14" target="n53">
+    <edge id="e29" source="n14" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -6511,7 +6454,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e47" source="n56" target="n40">
+    <edge id="e47" source="n54" target="n40">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -6558,7 +6501,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e48" source="n40" target="n55">
+    <edge id="e48" source="n40" target="n53">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -6586,7 +6529,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e49" source="n40" target="n53">
+    <edge id="e49" source="n40" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -6764,7 +6707,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e53" source="n6" target="n57">
+    <edge id="e53" source="n6" target="n55">
       <data key="d22" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
       <data key="d24" xml:space="preserve"><![CDATA[Der CIH ist dem BMVg zugeordnet.]]></data>
@@ -7205,7 +7148,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e62" source="n13" target="n53">
+    <edge id="e62" source="n13" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7319,7 +7262,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e64" source="n56" target="n41">
+    <edge id="e64" source="n54" target="n41">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7493,7 +7436,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e68" source="n53" target="n40">
+    <edge id="e68" source="n51" target="n40">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7538,7 +7481,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e69" source="n53" target="n13">
+    <edge id="e69" source="n51" target="n13">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7583,7 +7526,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e70" source="n53" target="n43">
+    <edge id="e70" source="n51" target="n43">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7626,7 +7569,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e71" source="n53" target="n14">
+    <edge id="e71" source="n51" target="n14">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7668,7 +7611,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e72" source="n53" target="n15">
+    <edge id="e72" source="n51" target="n15">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7712,7 +7655,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e73" source="n53" target="n16">
+    <edge id="e73" source="n51" target="n16">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7752,7 +7695,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e74" source="n53" target="n18">
+    <edge id="e74" source="n51" target="n18">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7783,7 +7726,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e75" source="n53" target="n17">
+    <edge id="e75" source="n51" target="n17">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7822,7 +7765,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e76" source="n53" target="n21">
+    <edge id="e76" source="n51" target="n21">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7844,7 +7787,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e77" source="n53" target="n22">
+    <edge id="e77" source="n51" target="n22">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7875,7 +7818,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e78" source="n55" target="n53">
+    <edge id="e78" source="n53" target="n51">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -7921,7 +7864,7 @@ Shareholder float verify]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e79" source="n55" target="n56">
+    <edge id="e79" source="n53" target="n54">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -8186,7 +8129,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e87" source="n46" target="n57">
+    <edge id="e87" source="n46" target="n55">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -8350,7 +8293,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e92" source="n55" target="n33">
+    <edge id="e92" source="n53" target="n33">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -8381,7 +8324,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e93" source="n33" target="n55">
+    <edge id="e93" source="n33" target="n53">
       <data key="d22" xml:space="preserve"/>
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
@@ -8595,7 +8538,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e100" source="n60" target="n40">
+    <edge id="e100" source="n58" target="n40">
       <data key="d22" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d23" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
       <data key="d24" xml:space="preserve"><![CDATA[Bürger Cert ist Teil des BSI]]></data>
