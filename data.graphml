@@ -2028,8 +2028,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n69">
-      <data key="d4" xml:space="preserve"/>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Berlin]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[BSI-Verbindungsbüro Region Berlin]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -2039,7 +2039,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Berlin, Brandenburg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d20" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Berlin]]></data>
+      <data key="d19" xml:space="preserve"/>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-234.63527198225665" y="-587.0437972525228"/>
@@ -2069,7 +2069,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="-2142.2282944824406" y="-686.6145697367739"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="458.91015625" x="-214.45507812499977" xml:space="preserve" y="5.6494140625">Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="458.91015625" x="-214.455078125" xml:space="preserve" y="5.6494140625">Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -2384,7 +2384,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
     </node>
     <node id="n84">
       <data key="d4" xml:space="preserve"><![CDATA[das Computer Emergency Response Team für die Verwaltungen der Länder Schleswig-Holstein, Hamburg, Bremen und Sachsen-Anhalt.]]></data>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"><![CDATA[CERT Nord]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -2764,9 +2764,12 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d17" xml:space="preserve"><![CDATA[Brandenburg]]></data>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"/>
+      <data key="d20" xml:space="preserve"><![CDATA[Das Cyber-Competence-Center wurde 2016 als neue Fachdienststelle im
+Landeskriminalamt Brandenburg eingerichtet, das personelle und fachliche
+Kompetenzen zur Bekämpfung und Aufklärung jeglicher Kriminalitätsbereich im Zusammenhang mit dem Internet bündeln soll. Es übernimmt sowohl präventive wie auch repressive Aufgaben und unterstützt Ermittlungen der Polizeidirektionen und -inspektionen zur Bekämpfung der Cyberkriminalität.  ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-330.73605039228596" y="-518.4658132272036"/>
+          <y:Geometry height="30.0" width="30.0" x="-2465.304522854131" y="-780.3654071223596"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.998046875" x="9.765625E-4" xml:space="preserve" y="5.6494140625">CCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2801,7 +2804,7 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
     </node>
     <node id="n102">
       <data key="d4" xml:space="preserve"><![CDATA[Fachkommissariat Cybercrime ]]></data>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"><![CDATA[LKA 54]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -2812,9 +2815,11 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
       <data key="d17" xml:space="preserve"><![CDATA[Hamburg]]></data>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"/>
+      <data key="d20" xml:space="preserve"><![CDATA[Die Polizei Hamburg hat mit dem Fachkommissariat eine Dienststelle geschaffen, die die Kompetenzen von kriminalpolizeilicher Ermittlung und angestellten Informatikern bündelt und so polizeiliches und technologisches
+Wissen zusammenführt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="299.32683730824874" y="-526.5565084143694"/>
+          <y:Geometry height="30.0" width="30.0" x="-1388.6512149810678" y="-1321.646039403089"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.36328125" x="-6.681640625" xml:space="preserve" y="5.6494140625">LKA 54<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2914,7 +2919,7 @@ die mecklenburg-vorpommerische ZAC. ]]></data>
           <y:Geometry height="30.0" width="30.0" x="-2437.9291206497055" y="-671.946576104355"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="402.15625" x="-186.07812499999977" xml:space="preserve" y="7.298828125">Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="7.549516567451064E-15" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="402.15625" x="-186.078125" xml:space="preserve" y="7.298828125">Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="7.549516567451064E-15" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -3114,7 +3119,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
           <y:Geometry height="30.0" width="30.0" x="-2136.6275641641496" y="-879.4598916035666"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="313.474609375" x="-141.73730468750023" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="313.474609375" x="-141.7373046875" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -3210,7 +3215,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
           <y:Geometry height="30.0" width="30.0" x="-2183.434780306914" y="-788.6941245993675"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="314.13671875" x="-142.06835937500023" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="314.13671875" x="-142.068359375" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -3331,7 +3336,7 @@ Bundesbehörden und Wirtschaftsvertreter:innen entstehen, in dem ein Austausch z
 hinaus hat das Bündnis das Ziel, die digitale Souveränität des Wirtschafts]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1315.4173101459799" y="-1142.5266104488023"/>
+          <y:Geometry height="30.0" width="30.0" x="-2512.9863174983357" y="-812.6745314786629"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.724609375" x="-72.3623046875" xml:space="preserve" y="5.6494140625">Cyberbündnis mit der Wirtschaft<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
