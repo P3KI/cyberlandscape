@@ -1548,7 +1548,8 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       </data>
     </node>
     <node id="n49">
-      <data key="d4" xml:space="preserve"><![CDATA[European Union Agency for Cybersecurity]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Agentur der Europäischen Union für Netz- und
+Informationssicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ENISA]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[European Network and Information Security Agency]]></data>
       <data key="d7" xml:space="preserve"/>
@@ -1560,7 +1561,17 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"><![CDATA[https://www.enisa.europa.eu/]]></data>
-      <data key="d20" xml:space="preserve"><![CDATA[Die Europäische Agentur für Netz- und Informationssicherheit (ab dem 28. Juni 2019: Agentur der Europäischen Union für Cybersicherheit, ENISA; englisch European Network and Information Security Agency) ist eine 2004 von der Europäischen Union gegründete Agentur. Sitz der seit September 2005 voll geschäftsfähigen ENISA ist Iraklio auf Kreta. Direktor der Behörde ist Udo Helmbrecht. Quelle: Wikipedia]]></data>
+      <data key="d20" xml:space="preserve"><![CDATA[ENISA ist eine EU-Agentur zur Unterstützung der Kommission im Bereich
+Cybersicherheit. Sie ist in ihrer Beratungsfunktion vor allem für Policy-Entwicklung und -Implementierung zuständig und spielt eine zentrale Rolle
+beim Kapazitätsaufbau und bei Sensibilisierungsmaßnahmen. Sie arbeitet
+daran, die operative Kooperation und das Krisenmanagement innerhalb der
+EU zu verbessern, für Kohärenz sektoraler Initiativen mit der NIS Directive
+zu sorgen und den Aufbau von Informationsaustausch- und Analysezentren
+in kritischen Sektoren zu unterstützen. ENISA ist außerdem Knotenpunkt für
+Information und Wissen in der Cybersicherheitscommunity. Infolge des Inkrafttretens des Rechtakts zur Cybersicherheit 2019 ist sie beauftragt „European cybersecurity certification schemes“ als Grundlage für die Zertifizierung von Produkten, Prozessen und Dienstleistungen zur Unterstützung des
+digitalen Binnenmarktes zu entwickeln und hat ein permanentes Mandat für
+die Unterstützung der Mitgliedsstaaten in der Prävention und Abwehr von
+Cyberangriffen.]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="367.1728515625" y="358.0"/>
@@ -1924,7 +1935,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d20" xml:space="preserve"><![CDATA[Im Juli 2011 wurde bei der Generalstaatsanwaltschaft Stuttgart eine Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität angesiedelt. Ihre Aufgabe ist es, Entwicklungen im Bereich der Informations- und Kommunikationstechnologien zu verfolgen, auszuwerten und die Staatsanwaltschaft darüber zu informieren. Außerdem plant sie Fortbildungsveranstaltungen und führt diese durch. Die Zentralstelle prüft neue Ermittlungsinstrumente aus dem Bereich der Informations- und Kommunikationstechnologien nach ihrer Nutzbarkeit in der Strafverfolgung. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1279.8273013760133" y="-1418.7451811090284"/>
+          <y:Geometry height="30.0" width="30.0" x="-2326.5614190478364" y="-1006.0432677048507"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="564.25" x="-267.125" xml:space="preserve" y="5.6494140625">Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2752,7 +2763,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n100">
-      <data key="d4" xml:space="preserve"><![CDATA[Chaos Computer Club]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Cyber-Competence-Center]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
@@ -2769,7 +2780,7 @@ Landeskriminalamt Brandenburg eingerichtet, das personelle und fachliche
 Kompetenzen zur Bekämpfung und Aufklärung jeglicher Kriminalitätsbereich im Zusammenhang mit dem Internet bündeln soll. Es übernimmt sowohl präventive wie auch repressive Aufgaben und unterstützt Ermittlungen der Polizeidirektionen und -inspektionen zur Bekämpfung der Cyberkriminalität.  ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2465.304522854131" y="-780.3654071223596"/>
+          <y:Geometry height="30.0" width="30.0" x="-2155.3763618561215" y="-950.3852886565328"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.998046875" x="9.765625E-4" xml:space="preserve" y="5.6494140625">CCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2819,7 +2830,7 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
 Wissen zusammenführt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1388.6512149810678" y="-1321.646039403089"/>
+          <y:Geometry height="30.0" width="30.0" x="-2527.692832360177" y="-608.9447519502326"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.36328125" x="-6.681640625" xml:space="preserve" y="5.6494140625">LKA 54<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2843,7 +2854,7 @@ Wissen zusammenführt. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das H3C ist eine Kompetenzstelle, die eine interdisziplinäre Zusammenarbeit und institutionalisierte Kooperation staatlicher Behörden in Hessen ermöglichen soll. Es ging aus der Kompetenzstelle Cybersicherheit, einer Stabstelle im Hessischen Innenministerium, hervor, das vollständig in H3C aufgegangen ist. H3Cs Aufgabe ist es, die Sicherheit der hessischen IT zu verbessern, cyberspezifische Gefahren abzuwehren, eine höhere Effizient der Bekämpfung von Cyberkriminalität zu schaffen und Synergien zu finden. Das H3C steht für die hessische Landes- und Kommunalverwaltung sowie KMU rund um die Uhr als zentraler Ansprechpartner bei Cybersicherheitsvorfällen im Land Hessen bereit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2314.593355456515" y="-884.2511222387602"/>
+          <y:Geometry height="30.0" width="30.0" x="-2326.461508661558" y="-885.0111517543542"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.005859375" x="0.9970703125" xml:space="preserve" y="5.6494140625">H3C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2867,7 +2878,7 @@ Wissen zusammenführt. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Zentralstelle wurde 2010 als Außenstelle der Generalstaatsanwaltschaft Frankfurt (a.M.) in Gießen errichtet. Sie ist operative Zentralstelle bei besonders aufwändigen und umfangreichen Ermittlungsverfahren in den Bereichen, Kinderpornographie und sexueller Missbrauch von Kindern mit Bezug zum Internet, Darknet-Kriminalität und anderer Cyberkriminalität. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1839.9214618940473" y="-1678.0924664094327"/>
+          <y:Geometry height="30.0" width="30.0" x="-2540.5386207017445" y="-868.2905544529632"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.994140625" x="4.0029296875" xml:space="preserve" y="5.6494140625">ZIT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2941,7 +2952,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Mit landesweiter Zuständigkeit ist die Staatsanwaltschaft Rostock gleichzeitig Schwerpunktstaatsanwaltschaft für die Bekämpfung der Informations- und Kommunikationskriminalität, d.h. sie deckt den Bereich Cybercrime ab.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1199.100488427828" y="-1459.0992303091284"/>
+          <y:Geometry height="30.0" width="30.0" x="-2271.796090392325" y="-543.4656739685358"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="381.501953125" x="-175.7509765625" xml:space="preserve" y="-1.701171875">Schwerpunktstaatsanwaltschaft für die
@@ -3014,7 +3025,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d20" xml:space="preserve"><![CDATA[Die Zentral- und Ansprechstelle Cybercrime in NRW (nicht zu verwechseln mit der nordrhein-westfälischen Zentralen Ansprechstelle Cybercrime der Polizei für Wirtschaftsunternehmen, in der Grafik als ZACs, die beim Landeskriminalamt angesiedelt ist) ist seit April 2016 bei der Staatsanwaltschaft Köln die landesweit zuständige Cybercrime-Einheit der Justiz. Sie ist bundesweit die größte Cybercrime-Einheit der Justiz, ihr obliegt die Verfahrensführung in herausgehobenen Ermittlungsverfahren der Cyberkriminalität, die Wahrnehmung der Aufgaben einer zentralen Ansprechstelle für Cyberkriminalität und die Mitwirkung an Aus- und Fortbildungsmaßnahmen im regionalen und überregionalen Kontext. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1781.110836084509" y="-1660.955814860356"/>
+          <y:Geometry height="30.0" width="30.0" x="-2048.9315802340407" y="-1514.5931192020998"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.9921875" x="-14.99609375" xml:space="preserve" y="5.6494140625">ZAC NRW<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3068,7 +3079,7 @@ oder organisierten Kriminalität“. Das Dezernat bildet außerdem die ZAC für
 Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Sicherheit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1373.0940941904566" y="-1373.7436726656329"/>
+          <y:Geometry height="30.0" width="30.0" x="-2190.6795884444277" y="-980.3645343289311"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="344.81640625" x="-157.408203125" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Rheinland-Pfalz<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3246,7 +3257,7 @@ Entscheidungen des Rates ihr Fachgebiet tangieren. Im Vorsitz wechseln
 sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1180.8389080840318" y="-1130.5331276710183"/>
+          <y:Geometry height="30.0" width="30.0" x="-1938.8510481027818" y="-1564.3992272355677"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.703125" x="-26.3515625" xml:space="preserve" y="5.6494140625">IT-Planungsrat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3368,7 +3379,7 @@ radikal neu sind und ein hohes Potenzial für eine markt-verändernde Wirkung
 mit neuen Produkten, Dienstleistungen und Wertschöpfungsketten enthalten“.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-497.01814593447307" y="-1523.1228090369157"/>
+          <y:Geometry height="30.0" width="30.0" x="-984.825551375747" y="-1506.6798627860865"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="-5.33984375" xml:space="preserve" y="5.6494140625">SprinD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3410,7 +3421,7 @@ GmbH ablehnt; sie kritisiert außerdem eine mangelnde parlamentarische
 Kontrolle der neuen Agentur.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1096.605351577818" y="-1277.8756534764016"/>
+          <y:Geometry height="30.0" width="30.0" x="-2587.5693115909535" y="-750.9432091844576"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.708984375" x="-23.3544921875" xml:space="preserve" y="5.6494140625">Cyberagentur<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3435,7 +3446,7 @@ Kontrolle der neuen Agentur.]]></data>
 zuständig. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1119.3121375408148" y="-1145.094150661684"/>
+          <y:Geometry height="30.0" width="30.0" x="-2387.2459928825538" y="-789.9265116437672"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="-3.6669921875" xml:space="preserve" y="5.6494140625">IT-Rat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3467,7 +3478,7 @@ Politik, auch im Bereich der Sicherheitspolitik im Cybersicherheitsbereich,
 zu garantieren. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1242.8650959300014" y="-1153.4923630819026"/>
+          <y:Geometry height="30.0" width="30.0" x="-1986.2184414466362" y="-1605.4637454537885"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.673828125" x="0.6630859375" xml:space="preserve" y="5.6494140625">EAD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3495,7 +3506,7 @@ internationalen Krisensituationen zu dienen – dabei geht es darum, was zu
 tun ist, warum, wo und mit wem. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1245.6300328001053" y="-1206.6510688703024"/>
+          <y:Geometry height="30.0" width="30.0" x="-2002.610908890758" y="-826.8106253619185"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.33203125" x="-4.666015625" xml:space="preserve" y="5.6494140625">CMPD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3520,7 +3531,7 @@ tun ist, warum, wo und mit wem. ]]></data>
 von zivilen Einsätzen und militärischen Operationen im Rahmen der Common Security and Defense Policy (CSDP) zur Verfügung. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1177.0625092513926" y="-1253.1577184516682"/>
+          <y:Geometry height="30.0" width="30.0" x="-2585.365103276654" y="-638.4869956879493"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.333984375" x="-15.6669921875" xml:space="preserve" y="5.6494140625">EUMS INT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3579,7 +3590,7 @@ Bedrohungen zusammenhängen, von verschiedenen Akteuren innerhalb des
 Europäischen Auswärtigen Diensts, der Kommission, und der Mitgliedsstaaten, sammeln, analysieren und teilen. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1302.413996199043" y="-1190.5390474053902"/>
+          <y:Geometry height="30.0" width="30.0" x="-2510.0570486210736" y="-764.8494389116936"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.037109375" x="-46.0185546875" xml:space="preserve" y="5.6494140625">EU Hybrid Fusion Cell<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3609,7 +3620,7 @@ Projektpakete (insgesamt 34 Projekte), mit entsprechenden Listen zur Projektteil
 beinhalten.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1727.6290061585469" y="-1689.1090066392028"/>
+          <y:Geometry height="30.0" width="30.0" x="-2003.6156009657134" y="-1457.4239476579153"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.01171875" x="-8.005859375" xml:space="preserve" y="5.6494140625">PESCO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3641,7 +3652,7 @@ die Arbeit der Mitgliedsstaaten zur Umsetzung der NIS-Richtlinie zu unterstütze
 Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1170.58790983066" y="-1176.5440927273025"/>
+          <y:Geometry height="30.0" width="30.0" x="-2597.2633885976593" y="-842.1337082748564"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="239.46484375" x="-104.732421875" xml:space="preserve" y="5.6494140625">Kooperationsgruppe unter der NIS-Richtlinie<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3667,7 +3678,7 @@ Kommission, das knapp 80 Milliarden Euro über sieben Jahre hinweg bereitstellt.
 gefördert werden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1294.958020238797" y="-1242.7447736886313"/>
+          <y:Geometry height="30.0" width="30.0" x="-2069.6619362732486" y="-1558.5336479743528"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.37890625" x="-22.689453125" xml:space="preserve" y="5.6494140625">Horizon 2020<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3723,7 +3734,7 @@ für den Schutz kritischer Infrastrukturen (EPSKI) zuständig, welches europäis
 Schutz derselben identifiziert. Das Programm sieht außerdem Unterstützung für die Mitgliedsstaaten beim Schutz von nationalen kritischen Infrastrukturen vor.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1134.5974102814964" y="-1214.2789335535133"/>
+          <y:Geometry height="30.0" width="30.0" x="-2411.454124723583" y="-595.1774508038445"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.396484375" x="-37.6982421875" xml:space="preserve" y="5.6494140625">SKI-Kontaktgruppe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3779,7 +3790,7 @@ Privatsphäre, berücksichtigen. Außerdem soll die Cybersicherheits- Industrie 
 Programms Horizon 2020 investieren.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1154.1534004694443" y="-1300.6777771673596"/>
+          <y:Geometry height="30.0" width="30.0" x="-2552.8098607752936" y="-958.3603322899874"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.01171875" x="-2.005859375" xml:space="preserve" y="5.6494140625">cPPP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3808,7 +3819,7 @@ Problemen aufbauen. Dabei verfolgt die Gruppe einen technischen Fokus
 und befasst sich nicht mit der Formulierung von Policies. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1299.8099716324014" y="-1333.465123013529"/>
+          <y:Geometry height="30.0" width="30.0" x="-2003.6217278916577" y="-766.0558400999402"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.689453125" x="-18.3447265625" xml:space="preserve" y="5.6494140625">EGC Group<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3833,7 +3844,7 @@ und befasst sich nicht mit der Formulierung von Policies. ]]></data>
 Aufgaben bei der Implementierung der Maßnahmen der Richtlinie zur Gewährleistung einer hohen Netzwerk- und Informationssicherheit zu unterstützen und Best Practices zu identifizieren.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1285.5105639559836" y="-1287.7660925130285"/>
+          <y:Geometry height="30.0" width="30.0" x="-2097.1374798733495" y="-918.2640889718606"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.015625" x="-21.0078125" xml:space="preserve" y="5.6494140625">NIS Platform<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3909,7 +3920,7 @@ Dienstes den Vorsitz inne. Regulär tritt es zweimal wöchentlich, bei Bedarf
 auch häufiger zusammen. Das Komitee spielt eine zentrale Rolle bei der Entscheidungsfindung bei allen cyberbezogenen diplomatischen Maßnahmen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1374.520832996811" y="-1217.207701862693"/>
+          <y:Geometry height="30.0" width="30.0" x="-2008.6542188243573" y="-1560.3990471682591"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.01171875" x="0.994140625" xml:space="preserve" y="5.6494140625">PSK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3922,8 +3933,8 @@ auch häufiger zusammen. Das Komitee spielt eine zentrale Rolle bei der Entschei
       <data key="d5" xml:space="preserve"><![CDATA[EK]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
-      <data key="d9" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[Europäische Union]]></data>
+      <data key="d9" xml:space="preserve"><![CDATA[Organ (Teild es politischen Systems der EU)]]></data>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
       <data key="d16" xml:space="preserve"/>
@@ -3937,7 +3948,7 @@ EU voranzutreiben. Sie verfügt über ein eigenes Frühwarnsystem (ARGUS),
 das ein internes Kommunikationsnetz und ein spezifische Koordinierungsverfahren umfasst – im Falle einer schweren, EU-weiten Krise, die den Cyberbereich betrifft, erfolgt die Koordinierung bei der Kommission via ARGUS.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1230.0775268104383" y="-1256.0529147446437"/>
+          <y:Geometry height="30.0" width="30.0" x="-1587.39000604347" y="-221.429222062628"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.0078125" x="4.99609375" xml:space="preserve" y="5.6494140625">EK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3963,7 +3974,7 @@ und damit auch für die Entwicklung von europäischem Führungspotential im
 Bereich Netzwerk- und IT-Sicherheit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1836.8836511693291" y="-1617.073705580081"/>
+          <y:Geometry height="30.0" width="30.0" x="-1925.0077872986458" y="-1516.3056716582971"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.666015625" x="-27.3330078125" xml:space="preserve" y="5.6494140625">GD CONNECT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3989,7 +4000,7 @@ Kommission zuständig. Es ist für einen IT-Betrieb, der andere Kommissionsabtei
 für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaaten, verantwortlich.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1346.9032276762941" y="-1298.8698484443594"/>
+          <y:Geometry height="30.0" width="30.0" x="-2069.914943874666" y="-713.7375255869719"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.33203125" x="-13.666015625" xml:space="preserve" y="5.6494140625">GD DIGIT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4014,7 +4025,7 @@ für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaa
 alle Organe, Einrichtungen und Agenturen der EU unterstützt. Nach einer erfolgreichen Pilotphase wurde es 2012 aufgebaut. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1217.697371224706" y="-1305.6101566357788"/>
+          <y:Geometry height="30.0" width="30.0" x="-2565.446245441988" y="-701.2778738392759"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.33203125" x="-13.666015625" xml:space="preserve" y="5.6494140625">CERT-EU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4040,7 +4051,7 @@ angesiedelt bei der Generaldirektion Humanitäre Hilfe und Katastrophenschutz (E
 Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1740.7864260172528" y="-1620.4902851016006"/>
+          <y:Geometry height="30.0" width="30.0" x="-1938.9128680587805" y="-1459.4300658605755"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.001953125" x="-4.0009765625" xml:space="preserve" y="5.6494140625">ERCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4064,7 +4075,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Aufgabe der Common Taxonomy Governance Group ist die Instandhaltung und Aktualisierung des Dokuments “Common Taxonomy for Law Enforcement and The National Network of CSIRTs”. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1198.611745691788" y="-1211.538168535077"/>
+          <y:Geometry height="30.0" width="30.0" x="-2475.468460133874" y="-945.4205646660689"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.998046875" x="9.765625E-4" xml:space="preserve" y="5.6494140625">TGG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4119,7 +4130,7 @@ für Cybersicherheitszertifizierungsschemata aufzubauen. Das Arbeitsprogramm sol
 Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1112.9993643827274" y="-1347.3428866652093"/>
+          <y:Geometry height="30.0" width="30.0" x="-2261.364039232272" y="-1032.4869229507547"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.99609375" x="-6.998046875" xml:space="preserve" y="5.6494140625">EUCTF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4132,7 +4143,7 @@ Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></da
       <data key="d5" xml:space="preserve"><![CDATA[EVA]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"><![CDATA[European Union]]></data>
+      <data key="d8" xml:space="preserve"><![CDATA[Europäische Union]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -4145,7 +4156,7 @@ Entwicklung kooperativer europäischer Verteidigungsprojekte. Ein Ziel der
 EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten bei der Entwicklung ihrer eigenen Abwehrfähigkeiten – Cyber Defense zählt hierbei dabei zu ihren vier Kernprogrammen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1794.0553478625445" y="-1715.05176723068"/>
+          <y:Geometry height="30.0" width="30.0" x="-2489.8831514458225" y="-872.9217075093798"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.01171875" x="0.994140625" xml:space="preserve" y="5.6494140625">EVA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4173,7 +4184,7 @@ und aufkommenden Bedrohungen und Entwicklungen im Bereich Cyberkriminalität. Da
 deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen zentrale cyberkriminelle Bedrohungen mittels grenzübergreifender Ermittlungen und Einsätze durch ihre Partner zu ermöglichen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1884.6826347297354" y="-1639.2877127913953"/>
+          <y:Geometry height="30.0" width="30.0" x="-1982.0023328899372" y="-1513.6150317026309"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.34375" x="1.328125" xml:space="preserve" y="5.6494140625">EC3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4196,7 +4207,7 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
       <data key="d19" xml:space="preserve"/>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-531.0785242672998" y="-1569.6111296112833"/>
+          <y:Geometry height="30.0" width="30.0" x="-1018.8859297085737" y="-1553.1681833604541"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.021484375" x="-9.0107421875" xml:space="preserve" y="5.6494140625">Eurojust<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4224,7 +4235,7 @@ die CEPOL Cybercrime Academy als Teil des Trainingsportfolios in Budapest eingew
 fortzubilden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1898.059090886065" y="-1682.503466543846"/>
+          <y:Geometry height="30.0" width="30.0" x="-2504.08648401148" y="-721.2381956151136"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.681640625" x="-7.3408203125" xml:space="preserve" y="5.6494140625">CEPOL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4237,7 +4248,7 @@ fortzubilden.]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[eu-LISA]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[Europäische Union]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -4251,10 +4262,10 @@ für die Überprüfung eines bestimmten Asylantrags zuständig ist, leisten. Sie
 testet außerdem neue Technologien, die helfen sollen, ein moderneres, wirkungsvolleres und sicheres Grenzmanagementsystem in der EU aufzubauen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1181.8134362776793" y="-1366.2448924871037"/>
+          <y:Geometry height="30.0" width="30.0" x="-2065.827893465498" y="-1459.1111549797304"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.359375" x="-8.6796875" xml:space="preserve" y="5.6494140625">eu-LISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.359375" x="4.0" xml:space="preserve" y="7.298828125">eu-LISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.04899373144176844" labelRatioY="0.5" nodeRatioX="0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -4438,7 +4449,7 @@ mittelständische Unternehmen, Betreiber “wesentlicher Dienste”, Verbraucher
 Mitgliedsstaaten können an den Sitzungen teilnehmen und an der Arbeit der Beratungsgruppe mitwirken, Vertreter anderer Stellen, können vom Exekutivdirektor der ENISA zur Teilnahme an Sitzungen hinzugerufen werden.  ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1272.5956540523646" y="-1372.8684120533057"/>
+          <y:Geometry height="30.0" width="30.0" x="-2400.649578844913" y="-973.2574534628209"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="136.076171875" x="-53.0380859375" xml:space="preserve" y="5.6494140625">ENISA-Beratungsgruppe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4464,10 +4475,10 @@ Vertreter:innen der einschlägigen Interessenträger von der Europäischen
 Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Informationssicherheit ausgewählt werden. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1373.6511120918387" y="-1265.6740256803018"/>
+          <y:Geometry height="30.0" width="30.0" x="-2122.6935432076652" y="-619.8956755152274"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="356.83984375" x="-163.419921875" xml:space="preserve" y="5.6494140625">Gruppe der Interessenträger für die Cybersicherheitszertifzierunga<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="350.166015625" x="-160.0830078125" xml:space="preserve" y="5.6494140625">Gruppe der Interessenträger für die Cybersicherheitszertifzierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
