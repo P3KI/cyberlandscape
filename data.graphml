@@ -1907,11 +1907,11 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://cyberwehr-bw.de/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Cyberwehr ist eine Kontakt- und Beratungsstelle für kleine und mittlere Unternehmen sowie eine Koordinierungsstelle bei Cyberangriffen. Derzeit befindet sie sich in der Pilotphase, in der sie ausschließlich in den Stadt- und Landkreisen Karlsruhe, Rastatt, Baden-Baden zur Verfügung steht. Langfristig ist das Ziel aber der landesweite Aufbau regionaler Infrastrukturen für die Ersthilfe im Falle einer IT-Sicherheitsvorfalls. Die eingerichtete Hotline dient als erste Anlaufstelle und einheitliche Notfallnummer im Fall eines Cyberangriffs – die Cyberwehr führt mit dem betroffenen Unternehmen ein mehrstündiges Telefonat um eine initiale Vorfallsdiagnose zu stellen und im Anschluss, wenn gewünscht, Experten bereitstellt, die das Unternehmen bei der Schadensbegrenzung unterstützen. Im Gegensatz zur Zentralen Anlaufstelle Cybercrime des Landeskriminalamts wird die Cyberwehr im Bereich der Angriffsabwehr und der Schadensbegrenzung erst aktiv, wenn ein Vorfall eingetreten ist. Die Aufgaben der Zentralen Anlaufstelle Cybercrime hingegen erstrecken sich auch präventive Maßnahmen sowie die Strafverfolgung im Schadensfall oder einem versuchten Angriff. Durch gesetzliche Regelungen hat die Anlaufstelle im Rahmen der Strafverfolgung exklusive Befugnisse zur Aufklärung des Sachverhalts oder des Verhinderns eines weiteren Angriffs. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2383.428958922409" y="-750.6889379845237"/>
+          <y:Geometry height="30.0" width="30.0" x="-2250.6803974537415" y="-959.6785454535118"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.01953125" x="-16.009765625" xml:space="preserve" y="5.6494140625">Cyberwehr<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1931,11 +1931,11 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.justiz-bw.de/,Lde/2007551/?LISTPAGE=2007161]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Im Juli 2011 wurde bei der Generalstaatsanwaltschaft Stuttgart eine Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität angesiedelt. Ihre Aufgabe ist es, Entwicklungen im Bereich der Informations- und Kommunikationstechnologien zu verfolgen, auszuwerten und die Staatsanwaltschaft darüber zu informieren. Außerdem plant sie Fortbildungsveranstaltungen und führt diese durch. Die Zentralstelle prüft neue Ermittlungsinstrumente aus dem Bereich der Informations- und Kommunikationstechnologien nach ihrer Nutzbarkeit in der Strafverfolgung. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2326.5614190478364" y="-1006.0432677048507"/>
+          <y:Geometry height="30.0" width="30.0" x="-2477.12259014778" y="-621.9390231093814"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="564.25" x="-267.125" xml:space="preserve" y="5.6494140625">Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1955,11 +1955,11 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.verfassungsschutz.bayern.de/spionageabwehr/cyber_allianz_zentrum/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Cyber-Allianz-Zentrum Bayern gehört zum Bayerischen Landesamt für Verfassungsschutz und unterstützt in Bayern ansässige Unternehmen, Hochschulen, Betreiber kritischer Infrastruktur im Bereich Prävention und Abwehr elektronischer Angriffe. Das CAZ fungiert als zentrale staatliche Steuerungs- und Koordinierungsstelle in Bayern und vertraulicher Ansprechpartner für betroffene Institutionen: nach der forensischen Analyse und nachrichtendienstlicher Bewertung gibt es eine Antwort mit Handlungsempfehlungen. Außerdem kontaktiert es möglicherweise von einem ähnlichen Angriff betroffene Unternehmen oder Einrichtungen mit Informationen zu den Angriffsmustern (in anonymisierter Form). Das CAZ war die erste institutionelle Säule der 2013 ins Leben gerufenen „Initiative Cybersicherheit Bayern“ des Bayerischen Staatsministeriums des Innern, für Sport und Integration.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2350.500379920408" y="-825.0880087779819"/>
+          <y:Geometry height="30.0" width="30.0" x="-2466.399068247155" y="-904.1924838579946"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="1.0" xml:space="preserve" y="5.6494140625">CAZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2002,11 +2002,11 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern, Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Kompetenzzentrum Cybercrime (Dezernat 54) wurde 2014 beim Landeskriminalamt Bayern eingerichtet. Eine seiner Hauptaufgaben ist es, in Krisenstabsübungen mit Unternehmen und Behörden, die für den Erhalt der öffentlichen Ordnung unverzichtbar sind, den Ernstfall, beispielsweise eines Hackerangriffs, zu testen. Darüber hinaus nimmt es sich solcher Fälle von Cyberkriminalität an, die überregionale Bedeutung haben und von den örtlichen Polizeidienststellen nicht bearbeitet werden können.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2173.7093265463755" y="-728.3456075649696"/>
+          <y:Geometry height="30.0" width="30.0" x="-2365.649571521486" y="-985.2027155184842"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.7265625" x="-71.36328125" xml:space="preserve" y="5.6494140625">Kompetenzzentrum Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2026,11 +2026,11 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.justiz.bayern.de/gerichte-und-behoerden/generalstaatsanwaltschaft/bamberg/spezial_1.php]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2015 besteht die Zentralstelle Cybercrime Bayern bei der Generalstaatsanwaltschaft Bamberg, deren Aufgabe herausgehobene Ermittlungsverfahren im Bereich der Cyberkriminalität in ganz Bayern sind. In Abstimmung mit dem Bayerischen Justizministerium arbeitet die Zentralstelle auch zu verfahrensunabhängigen Fragestellungen im Bereich Cyberkriminalität.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2449.0118806688624" y="-633.6114697563902"/>
+          <y:Geometry height="30.0" width="30.0" x="-2160.9500358225796" y="-841.0401397039952"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="1.0" xml:space="preserve" y="5.6494140625">ZCB<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2062,7 +2062,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n70">
-      <data key="d4" xml:space="preserve"><![CDATA[Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Spezialabteilung zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
@@ -2073,14 +2073,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Berlin]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://it-strafrecht.org/berliner-staatsanwaltschaft-ruestet-auf-gegen-cyberkriminalitaet/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2015 besteht in der Staatsanwaltschaft Berlin eine Spezialabteilung zur Cyberkriminalität. Schwerpunkt der Abteilung ist der Waren- und Warenkreditbetrug im Zusammenhang mit Online-Handel.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2142.2282944824406" y="-686.6145697367739"/>
+          <y:Geometry height="30.0" width="30.0" x="-2379.058877501162" y="-806.0623645277735"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="458.91015625" x="-214.455078125" xml:space="preserve" y="5.6494140625">Spezialabteilug zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="465.583984375" x="-217.7919921875" xml:space="preserve" y="5.6494140625">Spezialabteilung zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -2774,13 +2774,13 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Brandenburg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://polizei.brandenburg.de/pressemeldung/cyber-competence-center-im-landeskrimina/543835]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Cyber-Competence-Center wurde 2016 als neue Fachdienststelle im
 Landeskriminalamt Brandenburg eingerichtet, das personelle und fachliche
 Kompetenzen zur Bekämpfung und Aufklärung jeglicher Kriminalitätsbereich im Zusammenhang mit dem Internet bündeln soll. Es übernimmt sowohl präventive wie auch repressive Aufgaben und unterstützt Ermittlungen der Polizeidirektionen und -inspektionen zur Bekämpfung der Cyberkriminalität.  ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2155.3763618561215" y="-950.3852886565328"/>
+          <y:Geometry height="30.0" width="30.0" x="-2204.68817253794" y="-832.8585048025429"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.998046875" x="9.765625E-4" xml:space="preserve" y="5.6494140625">CCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2801,10 +2801,10 @@ Datennetzkriminalität Cottbus]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Brandenburg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://sta-cottbus.brandenburg.de/sixcms/list.php?template=content_list_stcb_aufg&query=allgemein_stcb&sv%5brelation_stcb.gsid%5d=lbm1.c.216482.de&sort=lfdnr&order=asc]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2194.333828601087" y="-644.3256866750113"/>
+          <y:Geometry height="30.0" width="30.0" x="-2596.6132751859996" y="-716.7602845304775"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="366.853515625" x="-168.4267578125" xml:space="preserve" y="-1.701171875">Schwerpunktstaatsanwaltschaft zur Bekämpfung der Computer- und
@@ -2825,12 +2825,12 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Hamburg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.polizei.hamburg/cybercrime/6714092/zentrale-ansprechstelle-cybercrime/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Polizei Hamburg hat mit dem Fachkommissariat eine Dienststelle geschaffen, die die Kompetenzen von kriminalpolizeilicher Ermittlung und angestellten Informatikern bündelt und so polizeiliches und technologisches
 Wissen zusammenführt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2527.692832360177" y="-608.9447519502326"/>
+          <y:Geometry height="30.0" width="30.0" x="-2322.3606761471974" y="-700.8640453154901"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.36328125" x="-6.681640625" xml:space="preserve" y="5.6494140625">LKA 54<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2850,11 +2850,11 @@ Wissen zusammenführt. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Hessen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://innen.hessen.de/sicherheit/hessen3c/hessen-cyber-competence-center]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das H3C ist eine Kompetenzstelle, die eine interdisziplinäre Zusammenarbeit und institutionalisierte Kooperation staatlicher Behörden in Hessen ermöglichen soll. Es ging aus der Kompetenzstelle Cybersicherheit, einer Stabstelle im Hessischen Innenministerium, hervor, das vollständig in H3C aufgegangen ist. H3Cs Aufgabe ist es, die Sicherheit der hessischen IT zu verbessern, cyberspezifische Gefahren abzuwehren, eine höhere Effizient der Bekämpfung von Cyberkriminalität zu schaffen und Synergien zu finden. Das H3C steht für die hessische Landes- und Kommunalverwaltung sowie KMU rund um die Uhr als zentraler Ansprechpartner bei Cybersicherheitsvorfällen im Land Hessen bereit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2326.461508661558" y="-885.0111517543542"/>
+          <y:Geometry height="30.0" width="30.0" x="-2149.6814307433306" y="-770.8765446094706"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.005859375" x="0.9970703125" xml:space="preserve" y="5.6494140625">H3C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2874,11 +2874,11 @@ Wissen zusammenführt. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Hessen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://staatsanwaltschaften.hessen.de/staatsanwaltschaften/gsta-frankfurt-am-main/aufgabengebiete/zentralstelle-zur-bek%C3%A4mpfung-der]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Zentralstelle wurde 2010 als Außenstelle der Generalstaatsanwaltschaft Frankfurt (a.M.) in Gießen errichtet. Sie ist operative Zentralstelle bei besonders aufwändigen und umfangreichen Ermittlungsverfahren in den Bereichen, Kinderpornographie und sexueller Missbrauch von Kindern mit Bezug zum Internet, Darknet-Kriminalität und anderer Cyberkriminalität. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2540.5386207017445" y="-868.2905544529632"/>
+          <y:Geometry height="30.0" width="30.0" x="-2477.3165599106424" y="-1015.5581496733969"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.994140625" x="4.0029296875" xml:space="preserve" y="5.6494140625">ZIT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2898,11 +2898,11 @@ Wissen zusammenführt. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Hessen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.fitko.de/Start]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Föderale IT-Kooperation soll als operativer Unterbau des IT-Planungsrates die Ebenen bei der Digitalisierung der Verwaltung koordinieren und die Handlungs- sowie politisch-strategische Steuerungsfähigkeit des IT-Planungsrates verbessern. Die formale Gründung der Agentur soll zum Jahreswechsel 2019/2020 erfolgen, Sitz wird Frankfurt am Main sein. Derzeit arbeitet der Aufbaustab der FITKO im Hessischen Ministerium der Finanzen aktuell mit 15 Stellen als Vorläuferorganisation.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2383.8988151387957" y="-636.363033488178"/>
+          <y:Geometry height="30.0" width="30.0" x="-2127.8147778299235" y="-736.4082140362707"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.33203125" x="-4.666015625" xml:space="preserve" y="5.6494140625">FITKO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2922,12 +2922,12 @@ Wissen zusammenführt. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Mecklenburg-Vorpommern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.polizei.mvnet.de/Presse/Pressemitteilungen/?id=145419&processor=processor.sa.pressemitteilung]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Dezernat 45 des Landeskriminalamts in Mecklenburg-Vorpommern ermittelt mit Cybercrime-Spezialisten in solchen Fällen und beherbergt auch
 die mecklenburg-vorpommerische ZAC. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2437.9291206497055" y="-671.946576104355"/>
+          <y:Geometry height="30.0" width="30.0" x="-2324.8849949432843" y="-644.9018298154988"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="402.15625" x="-186.078125" xml:space="preserve" y="7.298828125">Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="7.549516567451064E-15" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2948,11 +2948,11 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Mecklenburg-Vorpommern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.mv-justiz.de/gerichte-und-staatsanwaltschaften/staatsanwaltschaften/staatsanwaltschaft-rostock/Die-Staatsanwaltschaft/Zust%C3%A4ndigkeit/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Mit landesweiter Zuständigkeit ist die Staatsanwaltschaft Rostock gleichzeitig Schwerpunktstaatsanwaltschaft für die Bekämpfung der Informations- und Kommunikationskriminalität, d.h. sie deckt den Bereich Cybercrime ab.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2271.796090392325" y="-543.4656739685358"/>
+          <y:Geometry height="30.0" width="30.0" x="-2379.765683373633" y="-1044.570805366917"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="381.501953125" x="-175.7509765625" xml:space="preserve" y="-1.701171875">Schwerpunktstaatsanwaltschaft für die
@@ -2973,11 +2973,11 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Mecklenburg-Vorpommern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.emerge-iot.de/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[EMERGE IoT ist ein Kooperationsprojekt (gefördert durch den Fonds für die Innere Sicherheit der Europäischen Union), das sich der Aufklärung, Verfolgung und Prävention von strafbaren Sachverhalten rund um das Internet der Dinge widmet. Ziel ist es, die technischen Grundlagen des Internets der Dinge zu analysieren und Werkzeuge zu entwickeln, die die Ermittlungen rund um mögliche Angriffsszenarien im Internet der Dinge erleichtern und verbessern können. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2241.5378354668555" y="-777.5056120118815"/>
+          <y:Geometry height="30.0" width="30.0" x="-2559.34716304388" y="-669.5408647770396"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.6796875" x="-23.33984375" xml:space="preserve" y="5.6494140625">EMERGE IoT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2986,7 +2986,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       </data>
     </node>
     <node id="n109">
-      <data key="d4" xml:space="preserve"><![CDATA[Netzverweis.de – Mecklenburg-Vorpommern Mecklenburg-Vorpommern ]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Netzverweis.de – Mecklenburg-Vorpommern ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
@@ -2997,11 +2997,11 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Mecklenburg-Vorpommern ]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.netzverweis.de/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Der Internetauftritt netzverweis.de ist eine gemeinsame Initiative des Landeskriminalamtes Mecklenburg-Vormpommern und der DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH unter der Schirmherrschaft des Ministeriums für Inneres und Sport. Sie fungiert als Online-Meldestelle, über die Bürger:innen, wenn gewünscht anonym, Hinweise zum Thema Internetkriminalität angeben können, die dann an das LKA Mecklenburg-Vorpommerns weitergeleitet werden, dort von Spezialisten bearbeitet und gegebenenfalls auch verfolgt.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2290.7158474144167" y="-724.5748435091251"/>
+          <y:Geometry height="30.0" width="30.0" x="-2526.480487216865" y="-879.129856603826"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="89.365234375" x="-29.6826171875" xml:space="preserve" y="5.6494140625">Netzverweis.de <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3021,11 +3021,11 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.justiz.nrw.de/JM/schwerpunkte/zac/index.php]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Zentral- und Ansprechstelle Cybercrime in NRW (nicht zu verwechseln mit der nordrhein-westfälischen Zentralen Ansprechstelle Cybercrime der Polizei für Wirtschaftsunternehmen, in der Grafik als ZACs, die beim Landeskriminalamt angesiedelt ist) ist seit April 2016 bei der Staatsanwaltschaft Köln die landesweit zuständige Cybercrime-Einheit der Justiz. Sie ist bundesweit die größte Cybercrime-Einheit der Justiz, ihr obliegt die Verfahrensführung in herausgehobenen Ermittlungsverfahren der Cyberkriminalität, die Wahrnehmung der Aufgaben einer zentralen Ansprechstelle für Cyberkriminalität und die Mitwirkung an Aus- und Fortbildungsmaßnahmen im regionalen und überregionalen Kontext. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2048.9315802340407" y="-1514.5931192020998"/>
+          <y:Geometry height="30.0" width="30.0" x="-2113.866581123577" y="-841.5168599817175"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.9921875" x="-14.99609375" xml:space="preserve" y="5.6494140625">ZAC NRW<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3045,12 +3045,12 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://lka.polizei.nrw/en/node/1173]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[2011 wurde im Landeskriminalamt Nordrhein-Westfalen ein Cybercrime-Kompetenzzentrum eingerichtet, das Ermittlungskommissionen für herausragende Verfahren, Experten für Computerforensik, Telekommunikationsüberwachung, Auswertung, Analyse und Prävention sowie die Zentrale
 Internetrecherche und die Auswertestelle für Kinderpornografie beherbergt.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2256.49050727159" y="-851.6118775387671"/>
+          <y:Geometry height="30.0" width="30.0" x="-2210.2022423211647" y="-712.0297956901939"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="173.388671875" x="-71.6943359375" xml:space="preserve" y="5.6494140625">Cybercrime-Kompetenzzentrum<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3070,7 +3070,7 @@ Internetrecherche und die Auswertestelle für Kinderpornografie beherbergt.]]></
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Rheinland-pfalz]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.polizei.rlp.de/de/aufgaben/kriminalitaet/kriminalitaetsbekaempfung/cybercrime/aufgaben-des-dezernats-cybercrime/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Dezernat 47 nimmt eine Zentralstellenfunktion ein und unterstützt außerdem die örtlichen Dienststellen. Es übernimmt außerdem herausragende
 Ermittlungsverfahren der Cyberkriminalität, vor allem Pilot- und Mehrwertverfahren, Verfahren mit besonderer Öffentlichkeitswirkung und Verfahren,
 „durch die technisches und/oder ermittlungstaktisches Neuland betreten
@@ -3079,7 +3079,7 @@ oder organisierten Kriminalität“. Das Dezernat bildet außerdem die ZAC für
 Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Sicherheit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2190.6795884444277" y="-980.3645343289311"/>
+          <y:Geometry height="30.0" width="30.0" x="-2366.4485815808257" y="-735.4065438901439"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="344.81640625" x="-157.408203125" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Rheinland-Pfalz<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3099,11 +3099,11 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Saarland]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die saarländische Kriminalpolizei hat 2013 mit dem Dezernat eine spezialisierte Cybercrime-Dienststelle eingerichtet, die sich mit besonders schwerwiegenden Fällen auseinandersetzt, insbesondere wenn der öffentliche Bereich betroffen, ein sehr hoher Schaden entstanden oder die technischen Anforderungen hoch sind. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2192.5128346481524" y="-828.2171079053446"/>
+          <y:Geometry height="30.0" width="30.0" x="-2558.769351432865" y="-750.7624517297054"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="166.73828125" x="-68.369140625" xml:space="preserve" y="5.6494140625">Dezernat LPP 222 Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3123,11 +3123,11 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Saarland]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://www.jura.uni-saarland.de/neues-dezernat-cybercrime-bei-der-staatsanwaltschaft-saarbruecken/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2017 ist bei der Staatsanwaltschaft Saarbrücken ein Sonderdezernat „Cybercrime“ angesiedelt, mit dem das saarländische Justizministerium der Kriminalität im Netz entgegentreten will. Das Dezernat soll mit dem Institut für Rechtsinformatik und dem CISPA Helmholtz Center for Information Security speziell geschult werden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2136.6275641641496" y="-879.4598916035666"/>
+          <y:Geometry height="30.0" width="30.0" x="-2605.69308534385" y="-945.7624442262606"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="313.474609375" x="-141.7373046875" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3147,11 +3147,11 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.polizei.sachsen.de/de/47075.htm]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[2014 wurde das Cyber Crime Competence Center im Verantwortungsbereich des Landeskriminalamtes Sachsen gegründet. Es fokussiert sich auf die verschiedenen Kriminalitätsfelder, die mit dem Internet in Zusammenhang stehen, zum Beispiel rechtwidrige Online-Transaktionen. Dabei verfolgt es einen integrativen Ansatz, indem es entsprechende Spezialisten zusammenzieht und so Synergieeffekte nutzbar macht. Zu seinen Aufgaben gehören außerdem die Beschaffung notwendiger Hard- und Software, sowie die Beobachtung aktueller technischer Entwicklungen. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2370.3056263744847" y="-690.1078630671731"/>
+          <y:Geometry height="30.0" width="30.0" x="-2423.4295938652813" y="-956.4390133486886"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.009765625" x="-3.0048828125" xml:space="preserve" y="5.6494140625">SN4C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3171,11 +3171,11 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die seit 2016 bei der Generalstaatsanwaltschaft Dresden angesiedelte Zentralstelle ist das justizielle Gegenstück zum SN4C des Landeskriminalamtes Sachsen und fokussiert sich auf die Verfolgung von Straftaten mit Internetbezug.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2442.909661334529" y="-718.3759377527244"/>
+          <y:Geometry height="30.0" width="30.0" x="-2241.8700833053517" y="-903.9514824009664"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.0" x="1.0" xml:space="preserve" y="5.6494140625">ZCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3195,11 +3195,11 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sachsen-Anhalt]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.hallelife.de/nachrichten/aktuelles/details/Sachsen-Anhalt-startet-Kompetenzzentrum-gegen-Internet-Kriminalitaet.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Competence Center wurde 2012 im Landeskriminalamt Sachsen-Anhalt eingerichtet und bündelt Spezialisten verschiedener Dezernate im Bereich der Cyberkriminalität. Die Mitarbeiter des Landeskriminalamtes werden dabei von Wissenschaftlern unterstützt, für die neue Stellen geschaffen wurden. Das Kompetenzzentrum soll sich landesweit um die komplizierteren Fälle kümmern und die Polizei bei einfacheren Betrugsfällen unterstützen. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2138.1106009910386" y="-784.315446424913"/>
+          <y:Geometry height="30.0" width="30.0" x="-2658.723501232681" y="-757.873561534413"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="19.33984375" x="5.330078125" xml:space="preserve" y="5.6494140625">4C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3219,14 +3219,14 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Thüringen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.heise.de/newsticker/meldung/Cybercrime-Neue-Herausforderungen-fuer-Thueringer-LKA-4498443.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Dezernat Cybercrime des Landeskriminalamts Thüringen beschäftigt sich unter anderem mit Betrug im Internet und Ermittlungen zu Kinder- und Jugendpornografie im Netz.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2183.434780306914" y="-788.6941245993675"/>
+          <y:Geometry height="30.0" width="30.0" x="-2377.101165432512" y="-930.4559880476916"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="314.13671875" x="-142.068359375" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="314.13671875" x="-127.068359375" xml:space="preserve" y="5.6494140625">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.5" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -3243,7 +3243,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.it-planungsrat.de/DE/Home/home_node.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Der IT-Planungsrat ist das zentrale Gremium für die föderale Zusammenarbeit in der Informationstechnik. Es koordiniert die Zusammenarbeit von Bund
 und Ländern in Fragen der IT, fasst Beschlüsse über fachunabhängige und
 fachübergreifende IT-Interoperabilitäts- und IT-Sicherheitsstandards, steuern E-Government-Projekte und planen und entwickeln das Verbindungsnetz nach dem IT-NetzG. Er setzt sich zusammen aus dem Beauftragten der
@@ -3257,7 +3257,7 @@ Entscheidungen des Rates ihr Fachgebiet tangieren. Im Vorsitz wechseln
 sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1938.8510481027818" y="-1564.3992272355677"/>
+          <y:Geometry height="30.0" width="30.0" x="-2271.3307401573766" y="-595.0570264566777"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.703125" x="-26.3515625" xml:space="preserve" y="5.6494140625">IT-Planungsrat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3277,11 +3277,11 @@ sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://sicherheitskooperation-cybercrime.de/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Sicherheitskooperation ist eine Initiative der Landeskriminalämter aus sechs Bundesländern (Baden-Württemberg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen) und des Bitkom, die eine Plattform für Polizei und Digitalwirtschaft bietet, um gemeinsam den Gefahren durch Cybercrime zu begegnen und dazu Wissen und technische Kompetenzen auszutauschen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2226.6242365436906" y="-707.4661850036819"/>
+          <y:Geometry height="30.0" width="30.0" x="-2496.7374995099617" y="-978.3813406365043"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="190.75" x="-80.375" xml:space="preserve" y="5.6494140625">Sicherheitskooperation Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3301,7 +3301,7 @@ sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.bmi.bund.de/DE/themen/it-und-digitalpolitik/it-und-cybersicherheit/nationaler-pakt-cybersicherheit/nationaler-pakt-cybersicherheit-node.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Nationaler Pakt Cybersicherheit
 Der Nationale Pakt Cybersicherheit ist eine Initiative des BMI. Sie wurde am
 28. Oktober 2019 offiziell auf dem Digitalgipfel der Bundesregierung bekannt
@@ -3313,7 +3313,7 @@ Telekom, Bundesverband Verbraucherzentralen (vzbv) und TU Darmstadt
 bestehenden „Quadriga“ und 3. eine Evaluierung des Vorgehens mit Handlungsempfehlungen für die nächste Legislaturperiode.9]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2298.0176583869834" y="-944.2570616376186"/>
+          <y:Geometry height="30.0" width="30.0" x="-2236.4645695368254" y="-865.114432570166"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="172.744140625" x="-71.3720703125" xml:space="preserve" y="5.6494140625">Nationaler Pakt Cybersicherheit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3333,7 +3333,7 @@ bestehenden „Quadriga“ und 3. eine Evaluierung des Vorgehens mit Handlungsem
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2018/09/mou-mit-bdi.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[standorts Deutschland zu stärken; gemeinsame Projekte sollen beispielsweise Abhilfe schaffen wo eine hohe Abhängigkeit von ausländischen Technologien besteht.Im September 2018 unterzeichneten Bundesinnenminister Seehofer und der
 Präsident des Bundesverbandes der deutschen Industrie e. V. Dieter Kempf
 ein Memorandum of Understanding zum Aufbau des Bündnisses für Cybersicherheit. Darin verständigen sich das Bundesministerium des Innern, für
@@ -3347,7 +3347,7 @@ Bundesbehörden und Wirtschaftsvertreter:innen entstehen, in dem ein Austausch z
 hinaus hat das Bündnis das Ziel, die digitale Souveränität des Wirtschafts]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2512.9863174983357" y="-812.6745314786629"/>
+          <y:Geometry height="30.0" width="30.0" x="-2405.6029907521443" y="-762.1582760177146"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.724609375" x="-72.3623046875" xml:space="preserve" y="5.6494140625">Cyberbündnis mit der Wirtschaft<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3367,7 +3367,7 @@ hinaus hat das Bündnis das Ziel, die digitale Souveränität des Wirtschafts]]>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Sucht momentan einen Standort, Potsdam und Leipzig sind in der engeren Auswahl.]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Derzeit berät die Gründungskommission der Agentur zur Förderung von
 Sprunginnovationen die Bundesregierung bei der Auswahl der Geschäftsführung und bei der Standortsuche (derzeit sind vor allem Potsdam und Leipzig
 im gespräch) für die SprinD. Außerdem begleitet die Kommission den Aufbau
@@ -3379,7 +3379,7 @@ radikal neu sind und ein hohes Potenzial für eine markt-verändernde Wirkung
 mit neuen Produkten, Dienstleistungen und Wertschöpfungsketten enthalten“.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-984.825551375747" y="-1506.6798627860865"/>
+          <y:Geometry height="30.0" width="30.0" x="-2473.9355571264296" y="-583.4401955977332"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.6796875" x="-5.33984375" xml:space="preserve" y="5.6494140625">SprinD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3399,7 +3399,7 @@ mit neuen Produkten, Dienstleistungen und Wertschöpfungsketten enthalten“.]]>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.bmvg.de/de/aktuelles/technologiesouveraenitaet-erlangen-die-neue-cyberagentur-27996]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Cyberagentur (Arbeitstitel bis September 2018: „Agentur zur Förderung
 bedarfsorientierter Forschung an disruptiven Innovationen im Bereich Cybersicherheit und Schlüsseltechnologien“, kurz ADIC), unter Federführung des
 Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Verteidigung soll nach einer Interimsphase in Halle (Saale) dauerhaft am Flughafen Leipzig-Halle untergebracht werden. Dazu unterzeichneten Bundesinnenminister Seehofer und der Parlamentarische Staatssekretär
@@ -3421,7 +3421,7 @@ GmbH ablehnt; sie kritisiert außerdem eine mangelnde parlamentarische
 Kontrolle der neuen Agentur.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2587.5693115909535" y="-750.9432091844576"/>
+          <y:Geometry height="30.0" width="30.0" x="-2460.6742658274725" y="-870.178909173919"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.708984375" x="-23.3544921875" xml:space="preserve" y="5.6494140625">Cyberagentur<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3441,12 +3441,12 @@ Kontrolle der neuen Agentur.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.it-planungsrat.de/DE/Home/home_node.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Der IT-Rat ist als politisch-strategisches Gremium für übergreifende Themen der Digitalisierung sowie die Steuerung der IT der Bundesverwaltung
 zuständig. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2387.2459928825538" y="-789.9265116437672"/>
+          <y:Geometry height="30.0" width="30.0" x="-2467.1751687023316" y="-831.1153355640747"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.333984375" x="-3.6669921875" xml:space="preserve" y="5.6494140625">IT-Rat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3466,7 +3466,7 @@ zuständig. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://europa.eu/european-union/about-eu/institutions-bodies/eeas_de]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Der Europäische Auswärtige Dienst ist leitend im Bereich Cyberabwehr, Cyberdiplomatie und strategische Kommunikation. Der EAD hat ein eigenes
 System, um koordiniert auf Krisen und Notfälle (mit externer Dimension), zu
 reagieren: den Crisis Response Mechanism (CRM). Er wird bei sämtlichen
@@ -3478,7 +3478,7 @@ Politik, auch im Bereich der Sicherheitspolitik im Cybersicherheitsbereich,
 zu garantieren. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1986.2184414466362" y="-1605.4637454537885"/>
+          <y:Geometry height="30.0" width="30.0" x="-2175.0918815339887" y="-618.9512319396847"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.673828125" x="0.6630859375" xml:space="preserve" y="5.6494140625">EAD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3498,7 +3498,7 @@ zu garantieren. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://eeas.europa.eu/topics/common-security-and-defence-policy-csdp/5433/crisis-management-and-planning-directorate-cmpd_en]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Direktorat spielt eine zentrale Rolle in der gemeinsamen Sicherheitsund Verteidigungspolitik der EU und ist verantwortlich für integriertes zivil-militärisches Planen innerhalb des Europäischen Auswärtigen Diensts.
 Das Ziel solchen strategischen Planens ist es mögliche Handlungsoptionen
 für die EU zu entwerfen und als Grundlage für Entscheidungen des Rates in
@@ -3506,7 +3506,7 @@ internationalen Krisensituationen zu dienen – dabei geht es darum, was zu
 tun ist, warum, wo und mit wem. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2002.610908890758" y="-826.8106253619185"/>
+          <y:Geometry height="30.0" width="30.0" x="-2558.3955770371867" y="-920.227512144714"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="39.33203125" x="-4.666015625" xml:space="preserve" y="5.6494140625">CMPD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3526,12 +3526,12 @@ tun ist, warum, wo und mit wem. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Intelligence Directorate des EU-Militärstabs stellt militärische Lageanalysen und -bewertungen für den Entscheidungsprozess und die Planung
 von zivilen Einsätzen und militärischen Operationen im Rahmen der Common Security and Defense Policy (CSDP) zur Verfügung. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2585.365103276654" y="-638.4869956879493"/>
+          <y:Geometry height="30.0" width="30.0" x="-2185.305991271135" y="-939.1816825381932"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.333984375" x="-15.6669921875" xml:space="preserve" y="5.6494140625">EUMS INT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3551,7 +3551,7 @@ von zivilen Einsätzen und militärischen Operationen im Rahmen der Common Secur
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://dip21.bundestag.de/dip21/btd/19/004/1900489.pdf]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Zentrum für Informationsgewinnung und -analyse ist eine zivile Analyseeinheit des Europäischen Auswärtigen Dienstes, das aufbereitetes Material aus den Mitgliedsstaaten („fnished intelligence“) verarbeitet und unter
 Berücksichtigung anderer, offen zugänglicher Informationen, Berichten aus
 europäischen Delegationen und Erkenntnisse des EU-Satellitenzentrums
@@ -3563,7 +3563,7 @@ Verfügung stellt, um eine sofortige und effektive Antwort in Krisensituationen 
 In Brüssel wird derzeit diskutiert, ob und inwiefern das Zentrum die Zurechnung von Cyberangriffen unterstützen und dabei eigene Aufklärungsfähigkeiten nutzen, sowie Vorschläge für Gegenmaßnahmen machen soll.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2209.688726221251" y="-737.2035220374024"/>
+          <y:Geometry height="30.0" width="30.0" x="-2373.988776287996" y="-853.0700067660694"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.666015625" x="-9.3330078125" xml:space="preserve" y="5.6494140625">INTCEN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3583,14 +3583,14 @@ In Brüssel wird derzeit diskutiert, ob und inwiefern das Zentrum die Zurechnung
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die EU Hybrid Fusion Cell soll einen Fokus auf die Analyse hybrider Bedrohungen setzen und wird innerhalb des Zentrums für Informationsgewinnung
 und -analyse aufgebaut. Diese Zelle soll eingestufte und offene Informationen, die spezifisch mit Indikatoren und Warnungen hinsichtlich hybrider
 Bedrohungen zusammenhängen, von verschiedenen Akteuren innerhalb des
 Europäischen Auswärtigen Diensts, der Kommission, und der Mitgliedsstaaten, sammeln, analysieren und teilen. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2510.0570486210736" y="-764.8494389116936"/>
+          <y:Geometry height="30.0" width="30.0" x="-2287.5545796728793" y="-780.6730281095261"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.037109375" x="-46.0185546875" xml:space="preserve" y="5.6494140625">EU Hybrid Fusion Cell<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3610,7 +3610,7 @@ Europäischen Auswärtigen Diensts, der Kommission, und der Mitgliedsstaaten, sa
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Ständige Strukturierte Zusammenarbeit wurde 2017 als Rahmen für die
 Zusammenarbeit von 25 Mitgliedsstaaten geschaffen und beinhaltet auch
 „die Zusage verstärkter Bemühungen bei der Zusammenarbeit im Bereich
@@ -3620,7 +3620,7 @@ Projektpakete (insgesamt 34 Projekte), mit entsprechenden Listen zur Projektteil
 beinhalten.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2003.6156009657134" y="-1457.4239476579153"/>
+          <y:Geometry height="30.0" width="30.0" x="-2503.1156078082977" y="-918.9005027807541"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.01171875" x="-8.005859375" xml:space="preserve" y="5.6494140625">PESCO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3640,7 +3640,7 @@ beinhalten.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/commission/presscorner/detail/en/MEMO_18_3651]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Richtlinie zur Gewährleistung einer hohen Netzwerk- und Informationssicherheit (NIS-Richtlinie) richtete eine Kooperationsgruppe unter dem
 Vorsitz der Präsidentschaft des Rats des Europäischen Union ein, die Repräsentant:innen der Mitgliedsstaaten, der Kommission (in der Funktion des
 Sekretariats) und der ENISA zusammenbringt, die strategische Kooperation
@@ -3652,7 +3652,7 @@ die Arbeit der Mitgliedsstaaten zur Umsetzung der NIS-Richtlinie zu unterstütze
 Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2597.2633885976593" y="-842.1337082748564"/>
+          <y:Geometry height="30.0" width="30.0" x="-2282.983303059557" y="-673.7137807090039"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="239.46484375" x="-104.732421875" xml:space="preserve" y="5.6494140625">Kooperationsgruppe unter der NIS-Richtlinie<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3672,13 +3672,13 @@ Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.horizont2020.de/beratung-nks-netzwerk.htm]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Horizon 2020 ein Forschungs- und Innovationsprogramm der Europäischen
 Kommission, das knapp 80 Milliarden Euro über sieben Jahre hinweg bereitstellt. Es ist somit das finanzielle Instrument der Initiative Innovation Union und zielt darauf ab, Europas Konkurrenzfähigkeit zu stärken. Unter dem Schirm von Horizon 2020 können auch Projekte im Bereich Cybersicherheit
 gefördert werden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2069.6619362732486" y="-1558.5336479743528"/>
+          <y:Geometry height="30.0" width="30.0" x="-2145.7576404406736" y="-689.688975447165"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.37890625" x="-22.689453125" xml:space="preserve" y="5.6494140625">Horizon 2020<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3698,7 +3698,7 @@ gefördert werden.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.sogis.eu/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Senior Offcials Group Information Systems Security ist ein Zusammenschluss von Regierungsorganisationen oder Regierungsagenturen der EU
 oder der Europäischen Freihandelsassoziation, die daran arbeiten, die Standardisierung von Schutzproflen (basierend auf gemeinsamen Kriterien) und
 Zertifzierungspolicies zwischen Europäischen Zertifzierungsbehörden zu
@@ -3707,7 +3707,7 @@ Kommission eine Richtlinie erlässt, die in nationale Gesetzte im Bereich
 IT-Sicherheit umgesetzt werden muss. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2270.116339301726" y="-648.2963032908286"/>
+          <y:Geometry height="30.0" width="30.0" x="-2572.7650567305436" y="-833.1812605176376"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="46.005859375" x="-8.0029296875" xml:space="preserve" y="5.6494140625">SOG-IS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3727,14 +3727,14 @@ IT-Sicherheit umgesetzt werden muss. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.sogis.eu/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Schutz Kritischer Infrastrukturen Kontaktgruppe ist für die strategische
 Koordinierung und Kooperation im Bereich des Europäischen Programmes
 für den Schutz kritischer Infrastrukturen (EPSKI) zuständig, welches europäische kritische Infrastrukturen und den Bedarf zu einem verbesserten
 Schutz derselben identifiziert. Das Programm sieht außerdem Unterstützung für die Mitgliedsstaaten beim Schutz von nationalen kritischen Infrastrukturen vor.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2411.454124723583" y="-595.1774508038445"/>
+          <y:Geometry height="30.0" width="30.0" x="-2100.587071688271" y="-793.2334720256283"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.396484375" x="-37.6982421875" xml:space="preserve" y="5.6494140625">SKI-Kontaktgruppe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3754,14 +3754,14 @@ Schutz derselben identifiziert. Das Programm sieht außerdem Unterstützung für
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.ecteg.eu/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das ECTEG setzt sich zusammen aus Strafverfolgungsbehörden der Mitgliedsstaaten sowie Mitgliedsstaaten des Europäischen Wirtschaftsraums,
 internationalen Institutionen, der Wissenschaft, der privaten Industrie und
 Experten. Finanziert wird die Gruppe von der Europäischen Kommission. Ihr
 Ziel ist es, die globale Strafverfolgung auf Cyberkriminalitätsvorfälle vorzubereiten. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2384.542916126681" y="-875.2537303178365"/>
+          <y:Geometry height="30.0" width="30.0" x="-2605.5908772550492" y="-887.5037422059982"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.337890625" x="-7.6689453125" xml:space="preserve" y="5.6494140625">ECTEG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3781,7 +3781,7 @@ Ziel ist es, die globale Strafverfolgung auf Cyberkriminalitätsvorfälle vorzub
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ecs-org.eu/cppp]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Als Teil der Cybersicherheitsstrategie der EU wurde 2016 eine cPPP zwischen
 der Europäischen Kommission und der European Cyber Security Organisation unterzeichnet. Das Ziel der cPPP ist es, die Kooperation zwischen öffentlichen und privaten Akteuren in frühen Forschungs- und Innovationsstadien
 zu fördern, um innovative und vertrauenswürdige europäische Lösungen zu
@@ -3790,7 +3790,7 @@ Privatsphäre, berücksichtigen. Außerdem soll die Cybersicherheits- Industrie 
 Programms Horizon 2020 investieren.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2552.8098607752936" y="-958.3603322899874"/>
+          <y:Geometry height="30.0" width="30.0" x="-2452.667692182229" y="-707.8295308334866"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.01171875" x="-2.005859375" xml:space="preserve" y="5.6494140625">cPPP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3810,7 +3810,7 @@ Programms Horizon 2020 investieren.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://www.egc-group.org/index.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die European Government CERTs group ist ein informeller Zusammenschluss
 von Regierungs-CERTs in Europa, deren Mitglieder im Bereich der „incident
 response“ zusammenarbeiten, indem sie auf gegenseitigem Vertrauen und
@@ -3819,7 +3819,7 @@ Problemen aufbauen. Dabei verfolgt die Gruppe einen technischen Fokus
 und befasst sich nicht mit der Formulierung von Policies. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2003.6217278916577" y="-766.0558400999402"/>
+          <y:Geometry height="30.0" width="30.0" x="-2395.836988530651" y="-696.873930464478"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.689453125" x="-18.3447265625" xml:space="preserve" y="5.6494140625">EGC Group<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3839,12 +3839,12 @@ und befasst sich nicht mit der Formulierung von Policies. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://resilience.enisa.europa.eu/nis-platform]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die NIS Plattform wurde 2013 mit der Cybersicherheitsstrategie der EU geschaffen und hat das Ziel, die Resilienz von Netzwerken und Informationssystemen, auf denen die Dienstleistungen von Privatunternehmen und öffentlichen Verwaltungen basieren, zu erhöhen. Außerdem gehört es zu ihren
 Aufgaben bei der Implementierung der Maßnahmen der Richtlinie zur Gewährleistung einer hohen Netzwerk- und Informationssicherheit zu unterstützen und Best Practices zu identifizieren.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2097.1374798733495" y="-918.2640889718606"/>
+          <y:Geometry height="30.0" width="30.0" x="-2535.8918022045455" y="-1004.1622101093467"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.015625" x="-21.0078125" xml:space="preserve" y="5.6494140625">NIS Platform<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3864,7 +3864,7 @@ Aufgaben bei der Implementierung der Maßnahmen der Richtlinie zur Gewährleistu
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.consilium.europa.eu/de/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[In erster Linie sind die EU-Mitgliedstaaten für ihre eigene Cybersicherheit
 zuständig. Im Europäischen Rat koordinieren sie sich auf EU-Ebene. Im Falle einer EU-weiten Krise, die den Bereich der Cybersicherheit betrifft, übernimmt der Rat die Koordinierung auf der politischen Ebene der EU unter Bezug auf die Integrierte Regelung für die politische Reaktion auf Krisen (IPCR)
 – hierbei kann er auch auf den informellen runden Tisch zurückgreifen, dem:r
@@ -3891,7 +3891,7 @@ Im Ausschuss beteiligt sind hohe Beamten der Innen- und/oder Justizministerien a
 Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere einschlägige Gremien eingeladen werden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1635.0918406192038" y="-242.8283096455748"/>
+          <y:Geometry height="30.0" width="30.0" x="-2618.2995567247544" y="-649.6232615072672"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.669921875" x="4.6650390625" xml:space="preserve" y="5.6494140625">ER<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3911,7 +3911,7 @@ Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere einschlägi
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.consilium.europa.eu/de/council-eu/preparatory-bodies/political-security-committee/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Politische und Sicherheitspolitische Komitee ist für die Gemeinsame
 Außen- und Sicherheitspolitik der EU (GASP) und die Gemeinsame Sicherheits- und Verteidigungspolitik (GSVP) zuständig. Es setzt sich zusammen
 aus den Botschaftern der Mitgliedsstaaten in Brüssel bzw. Vertretern der
@@ -3920,7 +3920,7 @@ Dienstes den Vorsitz inne. Regulär tritt es zweimal wöchentlich, bei Bedarf
 auch häufiger zusammen. Das Komitee spielt eine zentrale Rolle bei der Entscheidungsfindung bei allen cyberbezogenen diplomatischen Maßnahmen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2008.6542188243573" y="-1560.3990471682591"/>
+          <y:Geometry height="30.0" width="30.0" x="-2327.9244771042486" y="-595.8918503618529"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.01171875" x="0.994140625" xml:space="preserve" y="5.6494140625">PSK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3940,7 +3940,7 @@ auch häufiger zusammen. Das Komitee spielt eine zentrale Rolle bei der Entschei
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Europäische Kommission nimmt eine strategisch-organisatorische Rolle
 in der EU-Cybersicherheitsarchitektur ein. Sie ist dafür zuständig, Kapazitäten und Kooperation in der Cybersicherheit auszubauen, die EU als Akteur in
 diesem Bereich zu stärken und eine Integration in andere Policy Bereiche der
@@ -3948,7 +3948,7 @@ EU voranzutreiben. Sie verfügt über ein eigenes Frühwarnsystem (ARGUS),
 das ein internes Kommunikationsnetz und ein spezifische Koordinierungsverfahren umfasst – im Falle einer schweren, EU-weiten Krise, die den Cyberbereich betrifft, erfolgt die Koordinierung bei der Kommission via ARGUS.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1587.39000604347" y="-221.429222062628"/>
+          <y:Geometry height="30.0" width="30.0" x="-2681.0868960258786" y="-680.3448533492524"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.0078125" x="4.99609375" xml:space="preserve" y="5.6494140625">EK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3968,13 +3968,13 @@ das ein internes Kommunikationsnetz und ein spezifische Koordinierungsverfahren 
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/info/departments/communications-networks-content-and-technology_en]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Generaldirektion Kommunikationsnetze, Inhalte und Technologien zeichnet sich verantwortlich für die Entwicklung des digitalen Binnenmarktes –
 und damit auch für die Entwicklung von europäischem Führungspotential im
 Bereich Netzwerk- und IT-Sicherheit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1925.0077872986458" y="-1516.3056716582971"/>
+          <y:Geometry height="30.0" width="30.0" x="-2401.743081329379" y="-600.9344466187482"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84.666015625" x="-27.3330078125" xml:space="preserve" y="5.6494140625">GD CONNECT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3994,13 +3994,13 @@ Bereich Netzwerk- und IT-Sicherheit.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/info/departments/informatics_en]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Generaldirektion Informatik ist für die IT-Sicherheit der Systeme der
 Kommission zuständig. Es ist für einen IT-Betrieb, der andere Kommissionsabteilungen und EU Institutionen bei der täglichen Arbeit unterstützt und
 für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaaten, verantwortlich.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2069.914943874666" y="-713.7375255869719"/>
+          <y:Geometry height="30.0" width="30.0" x="-2293.957927440044" y="-888.9726132824519"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.33203125" x="-13.666015625" xml:space="preserve" y="5.6494140625">GD DIGIT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4020,12 +4020,12 @@ für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaa
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das CERT-EU ist ein bei der Kommission angegliedertes IT-Notfallteam, das
 alle Organe, Einrichtungen und Agenturen der EU unterstützt. Nach einer erfolgreichen Pilotphase wurde es 2012 aufgebaut. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2565.446245441988" y="-701.2778738392759"/>
+          <y:Geometry height="30.0" width="30.0" x="-2325.3832293782343" y="-1013.6795920998927"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="57.33203125" x="-13.666015625" xml:space="preserve" y="5.6494140625">CERT-EU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4045,13 +4045,13 @@ alle Organe, Einrichtungen und Agenturen der EU unterstützt. Nach einer erfolgr
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Zentrum für die Koordination von Notfallmaßnahmen der Kommission,
 angesiedelt bei der Generaldirektion Humanitäre Hilfe und Katastrophenschutz (ECHO), unterstützt und koordiniert verschiedene Aktivitäten in den
 Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1938.9128680587805" y="-1459.4300658605755"/>
+          <y:Geometry height="30.0" width="30.0" x="-2588.2628769541398" y="-998.6413095482915"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.001953125" x="-4.0009765625" xml:space="preserve" y="5.6494140625">ERCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4071,11 +4071,11 @@ Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Aufgabe der Common Taxonomy Governance Group ist die Instandhaltung und Aktualisierung des Dokuments “Common Taxonomy for Law Enforcement and The National Network of CSIRTs”. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2475.468460133874" y="-945.4205646660689"/>
+          <y:Geometry height="30.0" width="30.0" x="-2426.2038252236607" y="-842.4398457080999"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.998046875" x="9.765625E-4" xml:space="preserve" y="5.6494140625">TGG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4095,7 +4095,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/digital-single-market/en/news/eu-cybersecurity-act-brings-strong-agency-cybersecurity-and-eu-wide-rules-cybersecurity]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Europäische Gruppe für die Cybersicherheitszertifizierung, die sich aus
 Vertretern der Mitgliedsländer zusammensetzt, trägt als Expertengruppe
 zur Entwicklung von Zertifizierungsschemata durch die Agentur der Europäischen Union für Netz- und Informationssicherheit bei. Für verschiedene Produkt- bzw. Servicetypen werden dabei spezifische Schemata entwickelt, die
@@ -4105,10 +4105,10 @@ für Cybersicherheitszertifizierungsschemata aufzubauen. Das Arbeitsprogramm sol
 ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2412.4118329463545" y="-921.5283639437081"/>
+          <y:Geometry height="30.0" width="30.0" x="-2638.8389414772755" y="-794.349814386426"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="308.81640625" x="-139.408203125" xml:space="preserve" y="5.6494140625">Europäische Gruppe für die Cybersicherheitszertifzierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="311.482421875" x="-140.7412109375" xml:space="preserve" y="5.6494140625">Europäische Gruppe für die Cybersicherheitszertifizierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -4125,12 +4125,12 @@ für Cybersicherheitszertifizierungsschemata aufzubauen. Das Arbeitsprogramm sol
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3/euctf]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[2010 wurde die European Union Cybercrime Task Force von Europol gemeinsam mit der Europäischen Kommission und den Mitgliedsstaaten aufgebaut.
 Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2261.364039232272" y="-1032.4869229507547"/>
+          <y:Geometry height="30.0" width="30.0" x="-2454.4844956057477" y="-781.2548859227516"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="43.99609375" x="-6.998046875" xml:space="preserve" y="5.6494140625">EUCTF<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4150,16 +4150,16 @@ Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></da
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.eda.europa.eu/home]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Europäische Verteidigungsagentur wurde 2004 gegründet und unterstützt ihre 27 Mitgliedsstaaten (alle EU-Mitglieder außer Dänemark) bei der
 Entwicklung kooperativer europäischer Verteidigungsprojekte. Ein Ziel der
 EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten bei der Entwicklung ihrer eigenen Abwehrfähigkeiten – Cyber Defense zählt hierbei dabei zu ihren vier Kernprogrammen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2489.8831514458225" y="-872.9217075093798"/>
+          <y:Geometry height="30.0" width="30.0" x="-2202.0741775210226" y="-769.3879867106759"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.01171875" x="0.994140625" xml:space="preserve" y="5.6494140625">EVA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.01171875" x="0.994140625" xml:space="preserve" y="5.6494140625">EVA	<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -4176,7 +4176,7 @@ EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten 
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.europol.europa.eu/about-europol/european-cybercrime-centre-ec3]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Europäische Zentrum zur Bekämpfung der Cyberkriminalität (EC3) von
 Europol wurde 2013 geschaffen, um die Reaktion der Strafverfolgungsbehörden auf Cyberkriminalität in der EU zu verstärken. Das EC3 ist im Kampf
 gegen Cyberkriminalität in drei Bereichen tätig: Forensik, Strategie und Operatives. Es veröffentlicht jährlich das Internet Organised Crime Threat Assessment (IOCTA), seinen strategischen Bericht zu zentralen Erkenntnissen
@@ -4184,7 +4184,7 @@ und aufkommenden Bedrohungen und Entwicklungen im Bereich Cyberkriminalität. Da
 deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen zentrale cyberkriminelle Bedrohungen mittels grenzübergreifender Ermittlungen und Einsätze durch ihre Partner zu ermöglichen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1982.0023328899372" y="-1513.6150317026309"/>
+          <y:Geometry height="30.0" width="30.0" x="-2252.981086602039" y="-755.6237713190093"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.34375" x="1.328125" xml:space="preserve" y="5.6494140625">EC3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4204,10 +4204,10 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://www.eurojust.europa.eu/Pages/home.aspx]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1018.8859297085737" y="-1553.1681833604541"/>
+          <y:Geometry height="30.0" width="30.0" x="-2535.3123420834604" y="-598.7097657444393"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.021484375" x="-9.0107421875" xml:space="preserve" y="5.6494140625">Eurojust<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4227,7 +4227,7 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.cepol.europa.eu/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[CEPOL ist als EU-Agentur dafür zuständig, Trainings für Gesetzeshüter zu
 entwickeln, umzusetzen und zu koordinieren. Sie schafft ein Netzwerk an
 Trainingsinstituten für Gesetzeshüter in den Mitgliedsstaaten und unterstützt sie dabei, Trainings zu Prioritäten im Sicherheitsbereich, zu Strafverfolgungskooperation und Informationsaustausch anzubieten. 2019 wurde
@@ -4235,7 +4235,7 @@ die CEPOL Cybercrime Academy als Teil des Trainingsportfolios in Budapest eingew
 fortzubilden.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2504.08648401148" y="-721.2381956151136"/>
+          <y:Geometry height="30.0" width="30.0" x="-2275.730499358099" y="-1004.3723353497978"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.681640625" x="-7.3408203125" xml:space="preserve" y="5.6494140625">CEPOL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4255,14 +4255,14 @@ fortzubilden.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://europa.eu/european-union/about-eu/agencies/eu-lisa_de]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2012 verwaltet die Agentur integrierte IT-Großsysteme, die für die innere Sicherheit in den Schengen-Ländern sorgen, den Schengen-Ländern den
 Austausch von Visadaten ermöglichen und die Ermittlung, welches EU-Land
 für die Überprüfung eines bestimmten Asylantrags zuständig ist, leisten. Sie
 testet außerdem neue Technologien, die helfen sollen, ein moderneres, wirkungsvolleres und sicheres Grenzmanagementsystem in der EU aufzubauen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2065.827893465498" y="-1459.1111549797304"/>
+          <y:Geometry height="30.0" width="30.0" x="-2218.0193018003483" y="-996.6834142699942"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="47.359375" x="4.0" xml:space="preserve" y="7.298828125">eu-LISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.04899373144176844" labelRatioY="0.5" nodeRatioX="0.5" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4282,13 +4282,13 @@ testet außerdem neue Technologien, die helfen sollen, ein moderneres, wirkungsv
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Diese Inter-Service Gruppe ist ein Netzwerk, das seit 2008 existiert und regelmäßig alle Kommissionsdienste und EU Agenturen, die im Krisenmanagement tätig sind, zusammenbringt, um Awareness zu stärken, Synergien zu
 finden und Informationen auszutauschen. Die Gruppe fungiert als Netzwerk
 der Kontaktpunkte aller operativen Krisen- und Lagezentren. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2065.144452696466" y="-813.2955871724637"/>
+          <y:Geometry height="30.0" width="30.0" x="-2326.5796492719383" y="-958.9952394038896"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.341796875" x="-11.6708984375" xml:space="preserve" y="5.6494140625">ISG C3M<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4308,13 +4308,13 @@ der Kontaktpunkte aller operativen Krisen- und Lagezentren. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Inter-Service Gruppe zu “Countering Hybrid Threats” soll im Bereich der
 hybriden Gefährdungen für eine umfassende Herangehensweise sorgen und überwacht Fortschritte der Aktivitäten die in JOIN (2016)18 vorgesehen sind.
 Die Gruppe tagt vierteljährlich]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2259.590692167255" y="-588.3052753587515"/>
+          <y:Geometry height="30.0" width="30.0" x="-2500.9189447370172" y="-677.0937933547623"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="52.66796875" x="-11.333984375" xml:space="preserve" y="5.6494140625">ISG CHT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4334,7 +4334,7 @@ Die Gruppe tagt vierteljährlich]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/digital-single-market/en/news/call-tender-advance-melicertes-facility-used-csirts-eu-cooperate-and-exchange-information]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[MeliCERTes ist eine Cybersecurity Core Service Plattform für Computer
 Emergency Response Teams in der EU und hat das Ziel die operative Kooperation und den Informationsaustausch zwischen ihnen zu stärken; sein Fokus liegt dabei auf der Erleichterung von grenzüberschreitender Kooperation, die den auf Vertrauen basierenden Austausch von Daten zwischen zwei
 oder mehr Computer Emergency Response Teams beinhaltet (d.h. ad-hoc
@@ -4343,7 +4343,7 @@ vertrauensbasierten Kooperation zustimmten). Die aktuelle Version von MeliCERTes
 in Stand gehalten werden und es erlaubt, jegliche Funktionen die von den CERTs durchgeführt werden, vom Vorfallsmanagement bis zur Gefahrenanalyse, umzusetzen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2214.968285547981" y="-903.4474744371557"/>
+          <y:Geometry height="30.0" width="30.0" x="-2416.242269689693" y="-1007.9310584408233"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="71.341796875" x="-20.6708984375" xml:space="preserve" y="5.6494140625">MeliCERTes<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4363,12 +4363,12 @@ in Stand gehalten werden und es erlaubt, jegliche Funktionen die von den CERTs d
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/commission/presscorner/detail/en/MEMO_18_3651]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das Netzwerk wurde mit der NIS Richtlinie eingesetzt und hat das Ziel zu einer vertrauensvollen operativen Zusammenarbeit der Mitgliedsstaaten beizutragen. Es bildet ein Forum, durch das Mitgliedsstaaten kooperieren und
 so ihre Fähigkeiten zur Handhabung grenzüberschreitender Cybersicherheitsvorfälle verbessern und eine koordinierte Reaktion erarbeiten können. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2088.6705334984126" y="-750.4918109754707"/>
+          <y:Geometry height="30.0" width="30.0" x="-2294.670491318214" y="-839.4092125266782"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="99.34375" x="-34.671875" xml:space="preserve" y="5.6494140625">CSIRTs Netzwerk<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4388,7 +4388,7 @@ so ihre Fähigkeiten zur Handhabung grenzüberschreitender Cybersicherheitsvorf�
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://www.eurojust.europa.eu/Practitioners/Pages/EJCN.aspx]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das European Judicial Cybercrime Network wurde 2016 mit dem Ziel gegründet, Kontakte zwischen auf die Herausforderungen durch Cyberkriminalität,
 „cyber-enabled crime“ und Ermittlungen im Cyberraum spezialisierten Praktikern zu fördern und die Effzienz von Ermittlungen und Strafverfolgungen
 zu erhöhen. Das EJCN soll den Dialog zwischen verschiedenen Akteuren, die
@@ -4396,7 +4396,7 @@ eine Rolle im Erhalt der Rechtsstaatlichkeit im Cyberraum spielen, stärken.
 ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2329.6315553752966" y="-624.5797478122921"/>
+          <y:Geometry height="30.0" width="30.0" x="-2459.2044693456737" y="-670.045011411416"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="35.3359375" x="-2.66796875" xml:space="preserve" y="5.6494140625">EJCN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4416,13 +4416,13 @@ eine Rolle im Erhalt der Rechtsstaatlichkeit im Cyberraum spielen, stärken.
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[http://www.ejtn.eu/en/]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Das European Judicial Training Network wurde 2000 gegründet und ist die
 zentrale Plattform für Fortbildung und Wissensaustausch der europäischen
 Justiz. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2100.1788031153137" y="-846.9613976645912"/>
+          <y:Geometry height="30.0" width="30.0" x="-2520.1328099118264" y="-829.8036836116735"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.0" x="-2.0" xml:space="preserve" y="5.6494140625">EJTN<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4442,14 +4442,14 @@ Justiz. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R0881]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Mit dem Cybersecurity Act wurde eine ENISA-Beratungsgruppe eingesetzt,
 die sich aus anerkannten Experten als Vertreter der einschlägigen Interessenträger zusammensetzt. Dazu gehören etwa die IT-Branche, Kleine und
 mittelständische Unternehmen, Betreiber “wesentlicher Dienste”, Verbrauchergruppen und ausgewählte zuständige Behörden. Die Amtszeit der Mitglieder beträgt zweieinhalb Jahre. Sachverständige der Kommission und der
 Mitgliedsstaaten können an den Sitzungen teilnehmen und an der Arbeit der Beratungsgruppe mitwirken, Vertreter anderer Stellen, können vom Exekutivdirektor der ENISA zur Teilnahme an Sitzungen hinzugerufen werden.  ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2400.649578844913" y="-973.2574534628209"/>
+          <y:Geometry height="30.0" width="30.0" x="-2141.2046377184924" y="-895.6584595076404"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="136.076171875" x="-53.0380859375" xml:space="preserve" y="5.6494140625">ENISA-Beratungsgruppe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4469,13 +4469,13 @@ Mitgliedsstaaten können an den Sitzungen teilnehmen und an der Arbeit der Berat
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R0881]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Mit Inkrafttreten des Cybersecurity Acts wird eine Gruppe der Interessenträger eingesetzt, deren Mitglieder aus anerkannten Sachverständigen als
 Vertreter:innen der einschlägigen Interessenträger von der Europäischen
 Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Informationssicherheit ausgewählt werden. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2122.6935432076652" y="-619.8956755152274"/>
+          <y:Geometry height="30.0" width="30.0" x="-2637.674033584568" y="-856.2156306523661"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="350.166015625" x="-160.0830078125" xml:space="preserve" y="5.6494140625">Gruppe der Interessenträger für die Cybersicherheitszertifzierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4495,7 +4495,7 @@ Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Inform
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.enisa.europa.eu/news/enisa-news/enisa-and-european-csirts-establish-a-dedicated-task-force]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Reference Incident Classifcation Taxonomy Task Force wurde im Nachgang des „51st TF-CSIRT meeting“ 2017 gegründet. Dort wurde der Bedarf
 für eine universelle Systematisierung innerhalb der Computer Security Incident Response Teams Community im Bereich Informationsaustausch, Vorfalls-Berichterstattung und Nutzung von automatisierten Mechanismen
 in der Reaktion auf Vorfälle festgestellt. Das Ziel der Task Force ist die Erstellung eines Referenzdokuments, die Entwicklung eines Mechanismus für
@@ -4503,7 +4503,7 @@ Updates und Versionierung, die Verwaltung des Referenzdokuments und die
 Organisation persönlicher Meetings der Stakeholder. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2313.3401274933717" y="-768.2153515643785"/>
+          <y:Geometry height="30.0" width="30.0" x="-2338.3019159944706" y="-906.6703234972485"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.65625" x="-14.328125" xml:space="preserve" y="5.6494140625">TF-CSIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4571,7 +4571,7 @@ Organisation persönlicher Meetings der Stakeholder. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://ec.europa.eu/home-affairs/what-we-do/policies_en]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Generaldirektion Migration und Inneres arbeitet zu Migration und Asyl
 sowie innerer Sicherheit. Zu letzterem Bereich gehören der Kampf gegen organisierte Kriminalität und Terrorismus, polizeiliche Kooperation, die Organisation der EU-Außengrenzen sowie Cyberkriminalität. Zur Generaldirektion
 gehört das Strategic Analysis and Response Center (STAR), das Informationen und Einschätzungen, insbesondere Risikoanalysen, zur Verfügung stellt,
@@ -4581,7 +4581,7 @@ sich in einer resilienten und hoch gesicherten Anlage, die es erlaubt, klassifiz
 EAD und relevanten Agenturen (v.a. Europol und Frontex) auszutauschen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-2431.560446781684" y="-829.4629368254674"/>
+          <y:Geometry height="30.0" width="30.0" x="-2398.321652301188" y="-896.0169954682499"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.333984375" x="-15.6669921875" xml:space="preserve" y="5.6494140625">GD HOME<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
