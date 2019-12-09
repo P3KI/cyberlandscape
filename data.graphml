@@ -2429,7 +2429,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Niedersachsen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.mi.niedersachsen.de/startseite/themen/it_bevollmachtigter_der_landesregierung/niedersachsen_cert/niedersachsen-cert-150589.html]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-659.2350348307882" y="-666.3134615832"/>
@@ -2498,7 +2498,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Nordrhein-Westfalen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.it.nrw/sicherheit]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-270.10736103399677" y="-676.1897984815957"/>
@@ -2521,7 +2521,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Bayern]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.lsi.bayern.de/staatsverwaltung/index.html]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="221.73421650611" y="-676.1897984815957"/>
@@ -2544,7 +2544,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Berlin]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://www.itdz-berlin.de/dienstleistungen/it-infrastruktur/sicherheit/]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-82.45695996447785" y="-688.0414027596705"/>
@@ -2567,7 +2567,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Brandenburg]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://zit-bb.brandenburg.de/zit-bb/de/leistungen/cert-brandenburg]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="314.3802614258966" y="-685.9264444709006"/>
@@ -2613,7 +2613,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Rheinlandpfalz]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://cert.rlp.de/de/startseite/]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="519.3997442601203" y="-677.0216230805263"/>
@@ -2636,7 +2636,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"><![CDATA[Hessen]]></data>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[https://innen.hessen.de/sicherheit/hessen3c/cert]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="611.3100415863232" y="-678.3161343104728"/>
