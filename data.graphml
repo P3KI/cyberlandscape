@@ -1123,19 +1123,19 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       </data>
     </node>
     <node id="n35">
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4" xml:space="preserve"><![CDATA[Kompetenz- & Forschungszentren für IT-Sicherheit (CISPA, CRISP, KASTEL)]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[Kompetenz- & Forschungszentren für IT-Sicherheit]]></data>
-      <data key="d6" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"><![CDATA[CISPA, CRISP, KASTEL]]></data>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
       <data key="d16" xml:space="preserve"/>
-      <data key="d17" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"><![CDATA[Saarbrücken]]></data>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"><![CDATA[https://kompetenz-it-sicherheit.de/?doing_wp_cron=1543788919.5848970413208007812500]]></data>
-      <data key="d20" xml:space="preserve"><![CDATA[
+      <data key="d20" xml:space="preserve"><![CDATA[Die drei Kompetenz- und Forschungszentren für IT-Sicherheit in Saarbrücken (CISPA), Darmstadt (CRISP) und Karlsruhe (KASTEL) sind Bestandteil der Di- gitalen Agenda des Bundesministeriums für Bildung und Forschung. Mit der Gründung der drei Forschungszentren hat die Bundesregierung die Forschung und Entwicklung im Bereich Cybersicherheit und Schutz der Privatsphäre maßgeblich ausgeweitet.
         
           Die drei Kompetenz- und Forschungszentren für IT-Sicherheit in Saarbrücken, Darmstadt und Karlsruhe sind Bestandteil der Digitalen Agenda des BMBF. Mit der Gründung der drei Forschungszentren hat die Bundesregierung die Forschung und Entwicklung im Bereich Cyber-Sicherheit und Schutz der Privatsphäre maßgeblich ausgeweitet.
 
@@ -1145,7 +1145,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="635.6272321428573" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="304.076171875" x="-137.0380859375" xml:space="preserve" y="4.0">Kompetenz- &amp; Forschungszentren für IT-Sicherheit
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.30581113801452786" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1801,32 +1801,6 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n59">
-      <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Baden-Württemberg]]></data>
-      <data key="d5" xml:space="preserve"/>
-      <data key="d6" xml:space="preserve"/>
-      <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
-      <data key="d9" xml:space="preserve"/>
-      <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
-      <data key="d16" xml:space="preserve"/>
-      <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
-      <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
-      <data key="d20" xml:space="preserve"><![CDATA[ZAC des LKA]]></data>
-      <data key="d21">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="675.1189810423439" y="607.5330651608773"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.91015625" x="-59.955078125" xml:space="preserve" y="-1.1328125">ZAC Baden-Württemberg
-
-<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n60">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Bayern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1842,7 +1816,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="872.4129464285716" y="605.8735221919331"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.474609375" x="-20.2373046875" xml:space="preserve" y="5.93359375">ZAC Bayern
 <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1850,7 +1824,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n61">
+    <node id="n60">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Berlin]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1867,7 +1841,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="567.5127411534154" y="602.84773404328"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.515625" x="-17.2578125" xml:space="preserve" y="5.93359375">ZAC Berlin
 <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1875,7 +1849,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n62">
+    <node id="n61">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team des Landes Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1891,14 +1865,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="675.1189810423439" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="61.345703125" x="-15.6728515625" xml:space="preserve" y="5.93359375">CERT BWL<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n63">
+    <node id="n62">
       <data key="d4" xml:space="preserve"><![CDATA[Cyberwehr - Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1915,14 +1889,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="672.4129464285716" y="741.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.009765625" x="-18.0048828125" xml:space="preserve" y="5.93359375">Cyberwehr<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n64">
+    <node id="n63">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1946,7 +1920,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n65">
+    <node id="n64">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber-Allianz-Zentrum Bayern ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CAZ]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -1963,14 +1937,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="872.4129464285716" y="749.0177199725852"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.8359375" x="1.08203125" xml:space="preserve" y="5.93359375">CAZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n66">
+    <node id="n65">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Süd]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -1986,19 +1960,19 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="351.79118562443637" y="844.5454856685235"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="198.103515625" x="-84.0517578125" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Region Süd<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n67">
+    <node id="n66">
       <data key="d4" xml:space="preserve"><![CDATA[Kompetenzzentrum Cybercrime - Bayern	]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -2009,15 +1983,15 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d20" xml:space="preserve"><![CDATA[Das Kompetenzzentrum Cybercrime (Dezernat 54) wurde 2014 beim Landeskriminalamt Bayern eingerichtet. Eine seiner Hauptaufgaben ist es, in Krisenstabsübungen mit Unternehmen und Behörden, die für den Erhalt der öffentlichen Ordnung unverzichtbar sind, den Ernstfall, beispielsweise eines Hackerangriffs, zu testen. Darüber hinaus nimmt es sich solcher Fälle von Cyberkriminalität an, die überregionale Bedeutung haben und von den örtlichen Polizeidienststellen nicht bearbeitet werden können.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-864.563737242958" y="-282.788602268094"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="897.4129464285716" y="938.3822693648434"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.138671875" x="-79.5693359375" xml:space="preserve" y="5.93359375">Kompetenzzentrum Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n68">
+    <node id="n67">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle Cybercrime Bayern]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ZCB]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2033,15 +2007,15 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2015 besteht die Zentralstelle Cybercrime Bayern bei der Generalstaatsanwaltschaft Bamberg, deren Aufgabe herausgehobene Ermittlungsverfahren im Bereich der Cyberkriminalität in ganz Bayern sind. In Abstimmung mit dem Bayerischen Justizministerium arbeitet die Zentralstelle auch zu verfahrensunabhängigen Fragestellungen im Bereich Cyberkriminalität.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-659.8642015440516" y="-138.62602645360505"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1012.4129464285716" y="938.3822693648434"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.458984375" x="1.7705078125" xml:space="preserve" y="5.93359375">ZCB<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n69">
+    <node id="n68">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Berlin]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[BSI-Verbindungsbüro Region Berlin]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2057,14 +2031,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="550.6987057400524" y="834.8986022574263"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="209.5234375" x="-89.76171875" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Region Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n70">
+    <node id="n69">
       <data key="d4" xml:space="preserve"><![CDATA[Spezialabteilung zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2088,7 +2062,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n71">
+    <node id="n70">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Brandenburg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2104,14 +2078,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="965.0008919988368" y="606.4700640307591"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="106.59765625" x="-38.298828125" xml:space="preserve" y="5.93359375">ZAC Brandenburg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n72">
+    <node id="n71">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Bremen							]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2127,14 +2101,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="788.5289230475473" y="610.7789895408401"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.466796875" x="-22.7333984375" xml:space="preserve" y="5.93359375">ZAC Bremen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n73">
+    <node id="n72">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Hamburg
 
 
@@ -2160,14 +2134,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="491.9714411036657" y="601.410851611275"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="85.673828125" x="-27.8369140625" xml:space="preserve" y="5.93359375">ZAC Hamburg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n74">
+    <node id="n73">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Hessen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2183,14 +2157,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1260.4130309652528" y="615.3698308103432"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="73.50390625" x="-21.751953125" xml:space="preserve" y="5.93359375">ZAC Hessen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n75">
+    <node id="n74">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2206,14 +2180,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="226.20538411948064" y="602.5501855766612"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="190.251953125" x="-80.1259765625" xml:space="preserve" y="5.93359375">ZAC Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n76">
+    <node id="n75">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Niedersachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2229,14 +2203,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-24.225651382007072" y="601.4671083667841"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.388671875" x="-43.1943359375" xml:space="preserve" y="5.93359375">ZAC Niedersachsen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n77">
+    <node id="n76">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Nordrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2252,16 +2226,16 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="380.42288545105293" y="601.2727428342617"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="153.431640625" x="-61.7158203125" xml:space="preserve" y="5.93359375">ZAC Nordrhein-Westfalen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n78">
+    <node id="n77">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Rheinland-Pfalz]]></data>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"><![CDATA[ZAC Rheinland-Pfalz]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -2272,17 +2246,18 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d17" xml:space="preserve"><![CDATA[Rheinland-Pfalz]]></data>
       <data key="d18" xml:space="preserve"/>
       <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
+      <data key="d20" xml:space="preserve"><![CDATA[ZAC für Wirtschaftsunternehmen.]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1165.509175797688" y="612.4100883541431"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.328125" x="-47.1640625" xml:space="preserve" y="5.93359375">ZAC Rheinland-Pfalz<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n79">
+    <node id="n78">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Saarland]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2298,14 +2273,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="86.50467153310592" y="602.5501855766612"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.35546875" x="-25.677734375" xml:space="preserve" y="5.93359375">ZAC Saarland<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n80">
+    <node id="n79">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Sachsen-Anhalt]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2321,14 +2296,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1369.2044384192159" y="616.6302126342065"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="123.267578125" x="-46.6337890625" xml:space="preserve" y="5.93359375">ZAC Sachsen-Anhalt<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n81">
+    <node id="n80">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Sachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2344,14 +2319,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1063.958631699571" y="609.7575409324216"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="78.56640625" x="-24.283203125" xml:space="preserve" y="5.93359375">ZAC Sachsen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n82">
+    <node id="n81">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Schleswig-Holstein]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2367,14 +2342,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-155.20010472727108" y="601.550229536295"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.966796875" x="-56.4833984375" xml:space="preserve" y="5.93359375">ZAC Schleswig-Holstein<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n83">
+    <node id="n82">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Thüringen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2390,14 +2365,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1480.4875279860817" y="614.7235256566265"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="91.556640625" x="-30.7783203125" xml:space="preserve" y="5.93359375">ZAC Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n84">
+    <node id="n83">
       <data key="d4" xml:space="preserve"><![CDATA[das Computer Emergency Response Team für die Verwaltungen der Länder Schleswig-Holstein, Hamburg, Bremen und Sachsen-Anhalt.]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CERT Nord]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2413,14 +2388,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="788.5289230475473" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.478515625" x="-18.2392578125" xml:space="preserve" y="5.93359375">CERT Nord<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n85">
+    <node id="n84">
       <data key="d4" xml:space="preserve"><![CDATA[Niedersachsen-Computer emergency response team 
 ]]></data>
       <data key="d5" xml:space="preserve"/>
@@ -2438,14 +2413,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-24.225651382007072" y="672.2273782226956"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.44140625" x="-10.220703125" xml:space="preserve" y="5.93359375">N CERT <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n86">
+    <node id="n85">
       <data key="d4" xml:space="preserve"><![CDATA[Computer emergency response team Saarland]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2461,14 +2436,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="86.50467153310592" y="672.2273782226956"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="87.501953125" x="-28.7509765625" xml:space="preserve" y="5.93359375">CERT Saarland<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n87">
+    <node id="n86">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2484,14 +2459,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="226.20538411948064" y="662.5501855766612"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="62.904296875" x="-16.4521484375" xml:space="preserve" y="5.93359375">CERT M-V<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n88">
+    <node id="n87">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team NOrdrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2508,14 +2483,14 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="380.42288545105293" y="661.2727428342617"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="64.498046875" x="-17.2490234375" xml:space="preserve" y="5.93359375">CERT NRW<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n89">
+    <node id="n88">
       <data key="d4" xml:space="preserve"><![CDATA[Bayern Computer Emergency Response Team]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[Bayern CERT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2533,14 +2508,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="872.4129464285716" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="76.62109375" x="-23.310546875" xml:space="preserve" y="5.93359375">Bayern CERT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n90">
+    <node id="n89">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Berlin]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2556,14 +2531,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="567.5127411534154" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.662109375" x="-20.3310546875" xml:space="preserve" y="5.93359375">CERT Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n91">
+    <node id="n90">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Brandenburg]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2579,14 +2554,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="965.0008919988368" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="112.744140625" x="-41.3720703125" xml:space="preserve" y="5.93359375">CERT Brandenburg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n92">
+    <node id="n91">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Sachsen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2603,14 +2578,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1063.958631699571" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="60.033203125" x="-15.0166015625" xml:space="preserve" y="5.93359375">SAX.CERT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n93">
+    <node id="n92">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Rheinland-pfalz]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2626,14 +2601,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1162.185831332412" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="56.857421875" x="-13.4287109375" xml:space="preserve" y="5.93359375">CERT-rlp<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n94">
+    <node id="n93">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Hessen]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2649,14 +2624,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1260.4130309652528" y="691.7429357236542"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="79.650390625" x="-24.8251953125" xml:space="preserve" y="5.93359375">CERT Hessen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n95">
+    <node id="n94">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team Thüringen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[Thüringen CERT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2672,14 +2647,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1480.4875279860817" y="681.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.703125" x="-33.8515625" xml:space="preserve" y="5.93359375">Thüringen CERT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n96">
+    <node id="n95">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Nord]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2695,14 +2670,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="889.1023422440167" y="809.0177199725852"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="205.33984375" x="-87.669921875" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Region Nord<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n97">
+    <node id="n96">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Rhein-Main]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2718,14 +2693,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="711.4774995225366" y="823.5809713094835"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="244.099609375" x="-107.0498046875" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Region Rhein-Main<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n98">
+    <node id="n97">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Standort Region West (Bonn)]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2741,14 +2716,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="844.9739701107719" y="893.3632172987884"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="193.076171875" x="-81.5380859375" xml:space="preserve" y="5.93359375">BSI-Standort Region West (Bonn)<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n99">
+    <node id="n98">
       <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Zweitstandort Region Ost]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2764,14 +2739,14 @@ Kesslerstrasse 1,
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="635.6272321428573" y="884.2611852132268"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="175.474609375" x="-72.7373046875" xml:space="preserve" y="5.93359375">BSI-Zweitstandort Region Ost<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n100">
+    <node id="n99">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber-Competence-Center]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -2790,14 +2765,14 @@ Kompetenzen zur Bekämpfung und Aufklärung jeglicher Kriminalitätsbereich im Z
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="965.0008919988368" y="741.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.908203125" x="0.5458984375" xml:space="preserve" y="5.93359375">CCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n101">
+    <node id="n100">
       <data key="d4" xml:space="preserve"><![CDATA[Schwerpunktstaatsanwaltschaft zur Bekämpfung der Computer- und
 Datennetzkriminalität Cottbus]]></data>
       <data key="d5" xml:space="preserve"/>
@@ -2813,7 +2788,7 @@ Datennetzkriminalität Cottbus]]></data>
       <data key="d19" xml:space="preserve"><![CDATA[https://sta-cottbus.brandenburg.de/sixcms/list.php?template=content_list_stcb_aufg&query=allgemein_stcb&sv%5brelation_stcb.gsid%5d=lbm1.c.216482.de&sort=lfdnr&order=asc]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1095.5274409074716" y="-14.346171280087333"/>
+          <y:Geometry height="30.0" width="30.0" x="965.0008919988368" y="861.3159956918116"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="403.94921875" x="-186.974609375" xml:space="preserve" y="-1.1328125">Schwerpunktstaatsanwaltschaft zur Bekämpfung der Computer- und
@@ -2822,12 +2797,12 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n102">
+    <node id="n101">
       <data key="d4" xml:space="preserve"><![CDATA[Fachkommissariat Cybercrime ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[LKA 54]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -2839,15 +2814,15 @@ Datennetzkriminalität Cottbus<y:LabelModel><y:SmartNodeLabelModel distance="4.0
 Wissen zusammenführt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-821.2748418686695" y="1.5500679349000848"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="491.9714411036655" y="661.2727428342617"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.484375" x="-7.7421875" xml:space="preserve" y="5.93359375">LKA 54<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n103">
+    <node id="n102">
       <data key="d4" xml:space="preserve"><![CDATA[Hessen Cyber Competence Center ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[H3C]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2864,14 +2839,14 @@ Wissen zusammenführt. ]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1260.4130309652528" y="766.2472471673087"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.708984375" x="0.6455078125" xml:space="preserve" y="5.93359375">H3C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n104">
+    <node id="n103">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle zur Bekämpfung der Internet- und Computerkriminalität ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ZIT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2895,7 +2870,7 @@ Wissen zusammenführt. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n105">
+    <node id="n104">
       <data key="d4" xml:space="preserve"><![CDATA[Föderale IT-Kooperation ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[FITKO]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2919,7 +2894,7 @@ Wissen zusammenführt. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n106">
+    <node id="n105">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -2937,14 +2912,14 @@ die mecklenburg-vorpommerische ZAC. ]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="226.20538411948064" y="722.5501855766612"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="440.564453125" x="-205.2822265625" xml:space="preserve" y="7.8671875">Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="7.549516567451064E-15" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="440.564453125" x="-205.28222656249977" xml:space="preserve" y="7.8671875">Dezernat Cybercrime des Landeskriminalamtes Mecklenburg-Vorpommern<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.5" nodeRatioX="7.549516567451064E-15" nodeRatioY="0.5" offsetX="0.0" offsetY="-4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n107">
+    <node id="n106">
       <data key="d4" xml:space="preserve"><![CDATA[Schwerpunktstaatsanwaltschaft für die
 Bekämpfung der Informations-und Kommunikationskriminalität Rostock]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
@@ -2962,7 +2937,7 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="233.46377849207943" y="823.5809713094835"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="426.103515625" x="-198.0517578125" xml:space="preserve" y="-1.1328125">Schwerpunktstaatsanwaltschaft für die
 Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -2970,12 +2945,12 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n108">
+    <node id="n107">
       <data key="d4" xml:space="preserve"><![CDATA[EMERGE IoT – Mecklenburg-Vorpommern ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -2986,20 +2961,20 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d20" xml:space="preserve"><![CDATA[EMERGE IoT ist ein Kooperationsprojekt (gefördert durch den Fonds für die Innere Sicherheit der Europäischen Union), das sich der Aufklärung, Verfolgung und Prävention von strafbaren Sachverhalten rund um das Internet der Dinge widmet. Ziel ist es, die technischen Grundlagen des Internets der Dinge zu analysieren und Werkzeuge zu entwickeln, die die Ermittlungen rund um mögliche Angriffsszenarien im Internet der Dinge erleichtern und verbessern können. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1058.261328765352" y="32.8732484733506"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="233.46377849207943" y="990.3469395819687"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="72.3203125" x="-21.16015625" xml:space="preserve" y="5.93359375">EMERGE IoT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n109">
+    <node id="n108">
       <data key="d4" xml:space="preserve"><![CDATA[Netzverweis.de – Mecklenburg-Vorpommern ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3010,15 +2985,15 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d20" xml:space="preserve"><![CDATA[Der Internetauftritt netzverweis.de ist eine gemeinsame Initiative des Landeskriminalamtes Mecklenburg-Vormpommern und der DVZ Datenverarbeitungszentrum Mecklenburg-Vorpommern GmbH unter der Schirmherrschaft des Ministeriums für Inneres und Sport. Sie fungiert als Online-Meldestelle, über die Bürger:innen, wenn gewünscht anonym, Hinweise zum Thema Internetkriminalität angeben können, die dann an das LKA Mecklenburg-Vorpommerns weitergeleitet werden, dort von Spezialisten bearbeitet und gegebenenfalls auch verfolgt.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1025.3946529383372" y="-176.71574335343587"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="233.46377849207943" y="906.9639554457261"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.07421875" x="-33.037109375" xml:space="preserve" y="5.93359375">Netzverweis.de <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n110">
+    <node id="n109">
       <data key="d4" xml:space="preserve"><![CDATA[Zentral- und Ansprechstelle Cybercrime  Nordrhein-Westfalen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ZAC NRW]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3035,14 +3010,14 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="380.42288545105293" y="741.2425511080698"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.3515625" x="-14.17578125" xml:space="preserve" y="5.93359375">ZAC NRW<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n111">
+    <node id="n110">
       <data key="d4" xml:space="preserve"><![CDATA[Cybercrime - Kompetenzzentrum Nordrhien-Westfalen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3067,12 +3042,12 @@ Internetrecherche und die Auswertestelle für Kinderpornografie beherbergt.]]></
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n112">
+    <node id="n111">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime des Landeskriminalamtes Rheinland-Pfalz]]></data>
-      <data key="d5" xml:space="preserve"/>
+      <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3088,20 +3063,20 @@ oder organisierten Kriminalität“. Das Dezernat bildet außerdem die ZAC für
 Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Sicherheit.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-865.3627473022977" y="-32.99243063975371"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1162.185831332412" y="775.8818010912729"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="374.640625" x="-172.3203125" xml:space="preserve" y="5.93359375">Dezernat Cybercrime des Landeskriminalamtes Rheinland-Pfalz<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n113">
+    <node id="n112">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat LPP 222 Cybercrime (Saarland)]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3112,15 +3087,15 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d20" xml:space="preserve"><![CDATA[Die saarländische Kriminalpolizei hat 2013 mit dem Dezernat eine spezialisierte Cybercrime-Dienststelle eingerichtet, die sich mit besonders schwerwiegenden Fällen auseinandersetzt, insbesondere wenn der öffentliche Bereich betroffen, ein sehr hoher Schaden entstanden oder die technischen Anforderungen hoch sind. ]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-1057.6835171543369" y="-48.3483384793152"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="86.50467153310592" y="809.0177199725852"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.6640625" x="-73.33203125" xml:space="preserve" y="5.93359375">Dezernat LPP 222 Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n114">
+    <node id="n113">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3137,14 +3112,14 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="86.50467153310592" y="749.0177199725852"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="336.96484375" x="-153.482421875" xml:space="preserve" y="5.93359375">Dezernat Cybercrime der Staatsanwaltschaft Saarbrücken<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n115">
+    <node id="n114">
       <data key="d4" xml:space="preserve"><![CDATA[Cyber Crime Competence Center Sachsen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[SN4C]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3168,7 +3143,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n116">
+    <node id="n115">
       <data key="d4" xml:space="preserve"><![CDATA[Zentralstelle Cybercrime Sachsen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ZCS]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3192,7 +3167,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n117">
+    <node id="n116">
       <data key="d4" xml:space="preserve"><![CDATA[Cybercrime Competence Center - Sachsen-Anhalt]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[4C]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3216,7 +3191,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n118">
+    <node id="n117">
       <data key="d4" xml:space="preserve"><![CDATA[Dezernat Cybercrime des Landeskriminalamtes Thüringen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3232,15 +3207,15 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d20" xml:space="preserve"><![CDATA[Das Dezernat Cybercrime des Landeskriminalamts Thüringen beschäftigt sich unter anderem mit Betrug im Internet und Ermittlungen zu Kinder- und Jugendpornografie im Netz.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-876.0153311539841" y="-228.04187479730138"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1480.487527986082" y="741.2425511080698"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="341.869140625" x="-140.9345703125" xml:space="preserve" y="5.93359375">Dezernat Cybercrime des Landeskriminalamtes Thüringen<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.5" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n119">
+    <node id="n118">
       <data key="d4" xml:space="preserve"><![CDATA[IT-Planungsrat]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3274,12 +3249,12 @@ sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n120">
+    <node id="n119">
       <data key="d4" xml:space="preserve"><![CDATA[Sicherheitskooperation Cybercrime]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
-      <data key="d6" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"><![CDATA[IT-Krisenmanagement der Landesverwaltung]]></data>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3290,15 +3265,15 @@ sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Sicherheitskooperation ist eine Initiative der Landeskriminalämter aus sechs Bundesländern (Baden-Württemberg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz und Sachsen) und des Bitkom, die eine Plattform für Polizei und Digitalwirtschaft bietet, um gemeinsam den Gefahren durch Cybercrime zu begegnen und dazu Wissen und technische Kompetenzen auszutauschen.]]></data>
       <data key="d21">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="30.0" x="-995.6516652314338" y="-275.96722738611413"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1207.7843732044194" y="533.8235792136848"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="207.56640625" x="-88.783203125" xml:space="preserve" y="5.93359375">Sicherheitskooperation Cybercrime<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n121">
+    <node id="n120">
       <data key="d4" xml:space="preserve"><![CDATA[Nationaler Pakt Cybersicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3330,7 +3305,7 @@ bestehenden „Quadriga“ und 3. eine Evaluierung des Vorgehens mit Handlungsem
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n122">
+    <node id="n121">
       <data key="d4" xml:space="preserve"><![CDATA[Cyberbündnis mit der Wirtschaft]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3364,7 +3339,7 @@ hinaus hat das Bündnis das Ziel, die digitale Souveränität des Wirtschafts]]>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n123">
+    <node id="n122">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur zur Förderung von Sprunginnovationen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[SprinD]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3396,7 +3371,7 @@ mit neuen Produkten, Dienstleistungen und Wertschöpfungsketten enthalten“.]]>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n124">
+    <node id="n123">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur für Innovation in der Cybersicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[Cyberagentur]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3438,7 +3413,7 @@ Kontrolle der neuen Agentur.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n125">
+    <node id="n124">
       <data key="d4" xml:space="preserve"><![CDATA[IT-Rat]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3463,7 +3438,7 @@ zuständig. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n126">
+    <node id="n125">
       <data key="d4" xml:space="preserve"><![CDATA[Europäischer Auswärtiger Dienst]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EAD]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3495,7 +3470,7 @@ zu garantieren. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n127">
+    <node id="n126">
       <data key="d4" xml:space="preserve"><![CDATA[Direktion Krisenbewältigung und Planung ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CMPD]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3523,7 +3498,7 @@ tun ist, warum, wo und mit wem. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n128">
+    <node id="n127">
       <data key="d4" xml:space="preserve"><![CDATA[Intelligence Directorate des EU-Militärstabs ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EUMS INT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3548,7 +3523,7 @@ von zivilen Einsätzen und militärischen Operationen im Rahmen der Common Secur
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n129">
+    <node id="n128">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrum für Informationsgewinnung und -analyse]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[INTCEN]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3580,7 +3555,7 @@ In Brüssel wird derzeit diskutiert, ob und inwiefern das Zentrum die Zurechnung
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n130">
+    <node id="n129">
       <data key="d4" xml:space="preserve"><![CDATA[EU Hybrid Fusion Cell]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3607,7 +3582,7 @@ Europäischen Auswärtigen Diensts, der Kommission, und der Mitgliedsstaaten, sa
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n131">
+    <node id="n130">
       <data key="d4" xml:space="preserve"><![CDATA[Ständige Strukturierte Zusammenarbeit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[PESCO]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3637,7 +3612,7 @@ beinhalten.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n132">
+    <node id="n131">
       <data key="d4" xml:space="preserve"><![CDATA[Kooperationsgruppe unter der NIS-Richtlinie]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3669,7 +3644,7 @@ Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n133">
+    <node id="n132">
       <data key="d4" xml:space="preserve"><![CDATA[Horizon 2020]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3695,7 +3670,7 @@ gefördert werden.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n134">
+    <node id="n133">
       <data key="d4" xml:space="preserve"><![CDATA[Senior Offcials Group Information Systems Security]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[SOG-IS]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3724,7 +3699,7 @@ IT-Sicherheit umgesetzt werden muss. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n135">
+    <node id="n134">
       <data key="d4" xml:space="preserve"><![CDATA[Kontaktgruppe zum Schutz kritischer Infrastrukturen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[SKI-Kontaktgruppe]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3751,7 +3726,7 @@ Schutz derselben identifiziert. Das Programm sieht außerdem Unterstützung für
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n136">
+    <node id="n135">
       <data key="d4" xml:space="preserve"><![CDATA[European Cybercrime Training and Education Group]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ECTEG]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3778,7 +3753,7 @@ Ziel ist es, die globale Strafverfolgung auf Cyberkriminalitätsvorfälle vorzub
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n137">
+    <node id="n136">
       <data key="d4" xml:space="preserve"><![CDATA[Contractual Public Private Partnership on Cybersecurity]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[cPPP]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3807,7 +3782,7 @@ Programms Horizon 2020 investieren.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n138">
+    <node id="n137">
       <data key="d4" xml:space="preserve"><![CDATA[European Government CERTs group]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EGC Group]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3836,7 +3811,7 @@ und befasst sich nicht mit der Formulierung von Policies. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n139">
+    <node id="n138">
       <data key="d4" xml:space="preserve"><![CDATA[NIS Public-Private Platform]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[NIS Platform]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3861,7 +3836,7 @@ Aufgaben bei der Implementierung der Maßnahmen der Richtlinie zur Gewährleistu
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n140">
+    <node id="n139">
       <data key="d4" xml:space="preserve"><![CDATA[Europäischer Rat]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ER]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3908,7 +3883,7 @@ Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere einschlägi
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n141">
+    <node id="n140">
       <data key="d4" xml:space="preserve"><![CDATA[Politisches und Sicherheitspolitisches Komitee]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[PSK]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3937,7 +3912,7 @@ auch häufiger zusammen. Das Komitee spielt eine zentrale Rolle bei der Entschei
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n142">
+    <node id="n141">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Kommission]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EK]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3965,7 +3940,7 @@ das ein internes Kommunikationsnetz und ein spezifische Koordinierungsverfahren 
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n143">
+    <node id="n142">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Kommunikationsnetze, Inhalte und Technologien ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[GD CONNECT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -3991,7 +3966,7 @@ Bereich Netzwerk- und IT-Sicherheit.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n144">
+    <node id="n143">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Informatik]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[GD DIGIT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4017,7 +3992,7 @@ für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaa
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n145">
+    <node id="n144">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Emergency Response Team der Europäischen Kommission ]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CERT-EU]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4042,7 +4017,7 @@ alle Organe, Einrichtungen und Agenturen der EU unterstützt. Nach einer erfolgr
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n146">
+    <node id="n145">
       <data key="d4" xml:space="preserve"><![CDATA[Zentrum für die Koordination von Notfallmaßnahmen]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ERCC]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4068,7 +4043,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n147">
+    <node id="n146">
       <data key="d4" xml:space="preserve"><![CDATA[(Common) Taxonomy Governance Group]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[TGG]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4092,7 +4067,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n148">
+    <node id="n147">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Gruppe für die Cybersicherheitszertifizierung]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4122,7 +4097,7 @@ für Cybersicherheitszertifizierungsschemata aufzubauen. Das Arbeitsprogramm sol
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n149">
+    <node id="n148">
       <data key="d4" xml:space="preserve"><![CDATA[European Union Cybercrime Task Force]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EUCTF]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4147,7 +4122,7 @@ Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></da
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n150">
+    <node id="n149">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Verteidigungsagentur]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EVA]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4173,7 +4148,7 @@ EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten 
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n151">
+    <node id="n150">
       <data key="d4" xml:space="preserve"><![CDATA[European Cybercrime Center]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EC3]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4201,7 +4176,7 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n152">
+    <node id="n151">
       <data key="d4" xml:space="preserve"><![CDATA[Eurojust]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
@@ -4224,7 +4199,7 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n153">
+    <node id="n152">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Polizeiakademie]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CEPOL]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4252,7 +4227,7 @@ fortzubilden.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n154">
+    <node id="n153">
       <data key="d4" xml:space="preserve"><![CDATA[Europäische Agentur für das Betriebsmanagement von IT-Großsystemen im Bereich Freiheit, Sicherheit und Recht]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[eu-LISA]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4279,7 +4254,7 @@ testet außerdem neue Technologien, die helfen sollen, ein moderneres, wirkungsv
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n155">
+    <node id="n154">
       <data key="d4" xml:space="preserve"><![CDATA[Inter-Service Group “Community Capacity in Crisis-Management”]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ISG C3M]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4305,7 +4280,7 @@ der Kontaktpunkte aller operativen Krisen- und Lagezentren. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n156">
+    <node id="n155">
       <data key="d4" xml:space="preserve"><![CDATA[Inter-Service Group “Countering Hybrid Threats”]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ISG CHT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4331,7 +4306,7 @@ Die Gruppe tagt vierteljährlich]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n157">
+    <node id="n156">
       <data key="d4" xml:space="preserve"><![CDATA[MeliCERTes]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4360,7 +4335,7 @@ in Stand gehalten werden und es erlaubt, jegliche Funktionen die von den CERTs d
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n158">
+    <node id="n157">
       <data key="d4" xml:space="preserve"><![CDATA[Computer Security Incident Response Teams Netzwerk]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[CSIRTs Netzwerk]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4385,7 +4360,7 @@ so ihre Fähigkeiten zur Handhabung grenzüberschreitender Cybersicherheitsvorf�
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n159">
+    <node id="n158">
       <data key="d4" xml:space="preserve"><![CDATA[European Judicial Cybercrime Network]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EJCN]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4413,7 +4388,7 @@ eine Rolle im Erhalt der Rechtsstaatlichkeit im Cyberraum spielen, stärken.
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n160">
+    <node id="n159">
       <data key="d4" xml:space="preserve"><![CDATA[European Judicial Training Network]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[EJTN]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4439,7 +4414,7 @@ Justiz. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n161">
+    <node id="n160">
       <data key="d4" xml:space="preserve"><![CDATA[ENISA-Beratungsgruppe]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4466,7 +4441,7 @@ Mitgliedsstaaten können an den Sitzungen teilnehmen und an der Arbeit der Berat
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n162">
+    <node id="n161">
       <data key="d4" xml:space="preserve"><![CDATA[Gruppe der Interessenträger für die Cybersicherheitszertifzierung]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4492,7 +4467,7 @@ Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Inform
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n163">
+    <node id="n162">
       <data key="d4" xml:space="preserve"><![CDATA[Reference Incident Classifcation Taxonomy Task Force]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[TF-CSIRT]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4520,7 +4495,7 @@ Organisation persönlicher Meetings der Stakeholder. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n164">
+    <node id="n163">
       <data key="d4" xml:space="preserve"><![CDATA[Allianz für Cyber-Sicherheit]]></data>
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"><![CDATA[ACS]]></data>
@@ -4545,7 +4520,7 @@ Organisation persönlicher Meetings der Stakeholder. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n165">
+    <node id="n164">
       <data key="d4" xml:space="preserve"><![CDATA[The North Atlantic Treaty Organization]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[NATO]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4568,7 +4543,7 @@ Organisation persönlicher Meetings der Stakeholder. ]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n166">
+    <node id="n165">
       <data key="d4" xml:space="preserve"><![CDATA[Generaldirektion Migration und Inneres]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[GD HOME]]></data>
       <data key="d6" xml:space="preserve"/>
@@ -4598,7 +4573,7 @@ EAD und relevanten Agenturen (v.a. Europol und Frontex) auszutauschen.]]></data>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n167">
+    <node id="n166">
       <data key="d4" xml:space="preserve"><![CDATA[Agentur für Disruptive Innovationen in der Cybersicherheit und Schlüsseltechnologien]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ADIC]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[Cyber Agentur (umbenannt)]]></data>
@@ -4625,6 +4600,32 @@ EAD und relevanten Agenturen (v.a. Europol und Frontex) auszutauschen.]]></data>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">ADIC
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n167">
+      <data key="d4" xml:space="preserve"><![CDATA[Zentrale Ansprechstelle Cybercrime Baden-Württemberg]]></data>
+      <data key="d5" xml:space="preserve"/>
+      <data key="d6" xml:space="preserve"/>
+      <data key="d7" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
+      <data key="d9" xml:space="preserve"/>
+      <data key="d10" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"/>
+      <data key="d16" xml:space="preserve"/>
+      <data key="d17" xml:space="preserve"><![CDATA[Baden-Württemberg]]></data>
+      <data key="d18" xml:space="preserve"/>
+      <data key="d19" xml:space="preserve"><![CDATA[none]]></data>
+      <data key="d20" xml:space="preserve"><![CDATA[ZAC des LKA]]></data>
+      <data key="d21">
+        <y:ShapeNode>
+          <y:Geometry height="30.0" width="30.0" x="675.1189810423439" y="607.5330651608773"/>
+          <y:Fill color="#C84793" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="149.91015625" x="-59.955078125" xml:space="preserve" y="-1.1328125">ZAC Baden-Württemberg
+
+<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -5284,7 +5285,7 @@ die Leitung der BAKS.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e14" source="n4" target="n164">
+    <edge id="e14" source="n4" target="n163">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9299,7 +9300,7 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e109" source="n167" target="n4">
+    <edge id="e109" source="n166" target="n4">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9333,20 +9334,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e110" source="n42" target="n89">
-      <data key="d23"/>
-      <data key="d24"/>
+    <edge id="e110" source="n42" target="n88">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"><![CDATA[Das Bayern-CERT ist am LSI angesiedelt.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9357,20 +9357,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e111" source="n94" target="n103">
+    <edge id="e111" source="n93" target="n102">
       <data key="d23" xml:space="preserve"><![CDATA[Das hessische CERT ist mit der Gründung von H3C in dessen Bereich Cy- bersecurity aufgegangen, der alle Aufgaben des CERT wahrnimmt.]]></data>
       <data key="d24" xml:space="preserve"><![CDATA[Das hessische CERT ist mit der Gründung von H3C in dessen Bereich Cy- bersecurity aufgegangen, der alle Aufgaben des CERT wahrnimmt.]]></data>
       <data key="d25" xml:space="preserve"><![CDATA[Das hessische CERT ist mit der Gründung von H3C in dessen Bereich Cy- bersecurity aufgegangen, der alle Aufgaben des CERT wahrnimmt.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9381,20 +9380,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e112" source="n93" target="n86">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+    <edge id="e112" source="n92" target="n85">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Das CERT Saarland wird durch eine Vereinbarung beider Bundesländer vom CERT-rlp bereitgestellt.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9406,18 +9404,17 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       </data>
     </edge>
     <edge id="e113" source="n41" target="n42">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9428,19 +9425,18 @@ ZITiS versorgt BPol mit Expertise.]]></data>
       </data>
     </edge>
     <edge id="e114" source="n41" target="n54">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Die Länder-CERTs koope- rieren mit dem CERT-Bund im BSI.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -9461,20 +9457,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e115" source="n100" target="n71">
-      <data key="d23"/>
-      <data key="d24"/>
+    <edge id="e115" source="n99" target="n70">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"><![CDATA[Im CCC wurde auch die ZAC für Wirtschaftsunternehmen und Behörden einge- richtet.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9493,20 +9488,19 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e116" source="n63" target="n59">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e116" source="n62" target="n167">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Die Cyberwehr arbeitet eng mit der ZAC des LKA zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -9527,14 +9521,109 @@ ZITiS versorgt BPol mit Expertise.]]></data>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e117" source="n63" target="n62">
+    <edge id="e117" source="n62" target="n61">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"><![CDATA[
+Die Cyberwehr arbeitet eng mit dem CERT BWL zusammen.]]></data>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.646021732936333" y="-15.648359260858342">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e118" source="n105" target="n106">
       <data key="d23"/>
       <data key="d24"/>
       <data key="d25"/>
       <data key="d26"/>
       <data key="d28"/>
-      <data key="d29" xml:space="preserve"><![CDATA[
-Die Cyberwehr arbeitet eng mit dem CERT BWL zusammen.]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Es kooperiert außerdem mit der Schwerpunktstaatsan- waltschaft für die Bekämpfung der Informations- und Kommunikationskrimi- nalität Rostock.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-29.371330303027776" y="35.66516848724052">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e119" source="n105" target="n14">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Es kooperiert außerdem mit dem BKA.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="606.4997998231884" y="-258.4804294824429">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e120" source="n108" target="n105">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[Es nimmt Hinweise, die auf der Plattform Netzverweis eingehen, entgegen und geht ihnen nach.]]></data>
       <data key="d30"/>
       <data key="d31"/>
       <data key="d32"/>
@@ -9547,7 +9636,327 @@ Die Cyberwehr arbeitet eng mit dem CERT BWL zusammen.]]></data>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.646021732936333" y="-15.648359260858342">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="24.93798839990899" y="-80.3867227592259">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e121" source="n105" target="n107">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Das LKA Mecklenburg-Vorpommern ist an EMERGE IoT beteiligt.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-28.766343741705327" y="117.71121666142972">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e122" source="n111" target="n77">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25" xml:space="preserve"><![CDATA[Das Dezernat bildet außerdem die ZAC für Wirtschaftsunternehmen.]]></data>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="29.350583328606945" y="-68.12606268166655">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e123" source="n111" target="n52">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26" xml:space="preserve"><![CDATA[Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Sicherheit.]]></data>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.0958731092378" y="-271.4820212951364">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e124" source="n117" target="n82">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25" xml:space="preserve"><![CDATA[Das Dezernat beheimatet auch die ZAC Thüringens.]]></data>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.99997915795666" y="-50.25951532858949">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e125" source="n112" target="n78">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25" xml:space="preserve"><![CDATA[Die ZAC des Saarlandes ist ebenfalls dort angesiedelt.]]></data>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.000002343652795" y="-90.23374742068927">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e126" source="n107" target="n105">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Beteiligt sind das LKA Mecklenburg-Vorpommerns und die Universität Rostock.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="178.75772539656597" y="838.5809713094835"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-6.038809800092281" y="-89.45256889080088">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e127" source="n72" target="n101">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28" xml:space="preserve"><![CDATA[Die ZAC in Hamburg ist dem Fachkommissariat angegliedert.]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-31.999994443209403" y="12.930969586049514">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e128" source="n102" target="n119">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24"/>
+      <data key="d25" xml:space="preserve"><![CDATA[Das H3C leitet das IT-Krisenmanagement der Landesverwaltung.]]></data>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="4.341501418045027" y="-109.83714041823339">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e129" source="n102" target="n93">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34" xml:space="preserve"><![CDATA[Das H3C betreibt seit einer Einführung das CERT-Hessen.]]></data>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.9999450277528" y="-24.25216197248733">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e130" source="n67" target="n66">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Sie kooperiert außerdem mit den zuständigen Spezialisten der bayerischen Polizei oder des BKAs und mit internationalen Partnern, beispielsweise bei Verfahren zu organisierter Cyberkriminalität.]]></data>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-44.50001743861594" y="-31.99999381875034">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
