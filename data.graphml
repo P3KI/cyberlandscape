@@ -3368,7 +3368,7 @@ tun ist, warum, wo und mit wem. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-1057.3097427586588" y="-217.81339889432377"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="38.259765625" x="-4.1298828125" xml:space="preserve" y="5.93359375">CMPD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3449,7 +3449,7 @@ Europäischen Auswärtigen Diensts, der Kommission, und der Mitgliedsstaaten, sa
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-786.4687453943513" y="-78.25891485913587"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.9921875" x="-49.49609375" xml:space="preserve" y="5.93359375">EU Hybrid Fusion Cell<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3642,7 +3642,7 @@ Programms Horizon 2020 investieren.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-951.5818579037011" y="-5.415417583096428"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.044921875" x="-0.0224609375" xml:space="preserve" y="5.93359375">cPPP<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3917,7 +3917,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-925.1179909451328" y="-140.02573245770975"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.931640625" x="0.5341796875" xml:space="preserve" y="5.93359375">TGG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -4044,7 +4044,7 @@ deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen ze
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-1034.2265078049325" y="103.70434750595086"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.935546875" x="-10.9677734375" xml:space="preserve" y="5.93359375">Eurojust<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -4199,7 +4199,7 @@ so ihre Fähigkeiten zur Handhabung grenzüberschreitender Cybersicherheitsvorf�
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-793.5846570396859" y="-136.995099276288"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.0859375" x="-36.04296875" xml:space="preserve" y="5.93359375">CSIRTs Netzwerk<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -4269,19 +4269,14 @@ Justiz. ]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d19" xml:space="preserve"><![CDATA[https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019R0881]]></data>
-      <data key="d20" xml:space="preserve"><![CDATA[Mit dem Cybersecurity Act wurde eine ENISA-Beratungsgruppe eingesetzt,
-die sich aus anerkannten Experten als Vertreter der einschlägigen Interessenträger zusammensetzt. Dazu gehören etwa die IT-Branche, Kleine und
-mittelständische Unternehmen, Betreiber “wesentlicher Dienste”, Verbrauchergruppen und ausgewählte zuständige Behörden. Die Amtszeit der Mitglieder beträgt zweieinhalb Jahre. Sachverständige der Kommission und der
-Mitgliedsstaaten können an den Sitzungen teilnehmen und an der Arbeit der Beratungsgruppe mitwirken, Vertreter anderer Stellen, können vom Exekutivdirektor der ENISA zur Teilnahme an Sitzungen hinzugerufen werden.  ]]></data>
+      <data key="d20"/>
       <data key="d21">
-        <y:ShapeNode>
+        <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="367.1728515625" y="467.9460360191929"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:Fill color="#FF9900" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="144.25" x="-57.125" xml:space="preserve" y="5.93359375">ENISA-Beratungsgruppe<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
-          <y:Shape type="rectangle"/>
-        </y:ShapeNode>
+        </y:GenericNode>
       </data>
     </node>
     <node id="n161">
