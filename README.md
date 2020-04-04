@@ -16,7 +16,7 @@ Graph data showing relationships between entities in the cyber-political landsca
 * "employees.cyber" (long) how many are working on cyber/IT topics?
 * "employees.overhead" (long) how many are there just to keep the show running?
 * "founded" (string) ISO-date the entity was founded
-* "budget" (long" latest known funding in EUR equivalents
+* "budget" (long) latest known funding in EUR equivalents
 * "publication" (string) list of publication type and recurrence. TODO: define separate type for this?
 * "state" (string) none or state the entity is assigned to.
 
