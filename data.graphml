@@ -30,7 +30,7 @@
   <key attr.name="member" attr.type="string" for="edge" id="d26"/>
   <key attr.name="shareholder" attr.type="double" for="edge" id="d27"/>
   <key attr.name="complements" attr.type="string" for="edge" id="d28"/>
-  <key attr.name="communicate" attr.type="string" for="edge" id="d29"/>
+  <key attr.name="communicates" attr.type="string" for="edge" id="d29"/>
   <key attr.name="provides" attr.type="string" for="edge" id="d30"/>
   <key attr.name="finances" attr.type="string" for="edge" id="d31"/>
   <key attr.name="educates" attr.type="string" for="edge" id="d32"/>
@@ -1505,7 +1505,7 @@ Informationssicherheit]]></data>
       <data key="d5" xml:space="preserve"><![CDATA[ENISA]]></data>
       <data key="d6" xml:space="preserve"><![CDATA[European Network and Information Security Agency]]></data>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[transnational]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -1526,7 +1526,7 @@ die Unterstützung der Mitgliedsstaaten in der Prävention und Abwehr von
 Cyberangriffen.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="367.1728515625" y="358.0"/>
+          <y:Geometry height="30.0" width="30.0" x="369.8994139982192" y="357.7396005556543"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="37.568359375" x="-3.7841796875" xml:space="preserve" y="5.93359375">ENISA<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3508,7 +3508,7 @@ die Arbeit der Mitgliedsstaaten zur Umsetzung der NIS-Richtlinie zu unterstütze
 Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-781.8974687810289" y="28.700332541386274"/>
+          <y:Geometry height="30.0" width="30.0" x="444.9999999999998" y="327.7396005556543"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="263.798828125" x="-116.8994140625" xml:space="preserve" y="5.93359375">Kooperationsgruppe unter der NIS-Richtlinie<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3739,7 +3739,7 @@ Im Ausschuss beteiligt sind hohe Beamten der Innen- und/oder Justizministerien a
 Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere einschlägige Gremien eingeladen werden.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1117.2137224462265" y="52.79085174312297"/>
+          <y:Geometry height="30.0" width="30.0" x="285.6272321428571" y="527.423534078802"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="18.091796875" x="5.9541015625" xml:space="preserve" y="5.93359375">ER<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3916,7 +3916,7 @@ Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Aufgabe der Common Taxonomy Governance Group ist die Instandhaltung und Aktualisierung des Dokuments “Common Taxonomy for Law Enforcement and The National Network of CSIRTs”. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-925.1179909451328" y="-140.02573245770975"/>
+          <y:Geometry height="30.0" width="30.0" x="429.89941399821896" y="297.7396005556543"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="28.931640625" x="0.5341796875" xml:space="preserve" y="5.93359375">TGG<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3945,7 +3945,7 @@ für Cybersicherheitszertifizierungsschemata aufzubauen. Das Arbeitsprogramm sol
 ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1137.7531071987476" y="-91.93570113603585"/>
+          <y:Geometry height="30.0" width="30.0" x="294.7988279964384" y="249.43620652782715"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="342.09765625" x="-156.048828125" xml:space="preserve" y="5.93359375">Europäische Gruppe für die Cybersicherheitszertifizierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3981,7 +3981,7 @@ Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></da
       <data key="d5" xml:space="preserve"><![CDATA[EVA]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"><![CDATA[Europäische Union]]></data>
+      <data key="d8" xml:space="preserve"><![CDATA[ftransnational]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3994,7 +3994,7 @@ Entwicklung kooperativer europäischer Verteidigungsprojekte. Ein Ziel der
 EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten bei der Entwicklung ihrer eigenen Abwehrfähigkeiten – Cyber Defense zählt hierbei dabei zu ihren vier Kernprogrammen.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-700.9883432424947" y="-66.97387346028574"/>
+          <y:Geometry height="30.0" width="30.0" x="264.7988279964384" y="327.7396005556543"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.42578125" x="-0.212890625" xml:space="preserve" y="5.93359375">EVA	<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4006,7 +4006,7 @@ EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten 
       <data key="d5" xml:space="preserve"><![CDATA[EC3]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[transnational]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -4021,8 +4021,8 @@ und aufkommenden Bedrohungen und Entwicklungen im Bereich Cyberkriminalität. Da
 deren Aufgabe es ist, informationsgeleitetes und koordiniertes Vorgehen gegen zentrale cyberkriminelle Bedrohungen mittels grenzübergreifender Ermittlungen und Einsätze durch ihre Partner zu ermöglichen.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-751.8952523235109" y="-53.20965806861909"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="285.6272321428571" y="429.1328125"/>
+          <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.39453125" x="1.802734375" xml:space="preserve" y="5.93359375">EC3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -4296,7 +4296,7 @@ Vertreter:innen der einschlägigen Interessenträger von der Europäischen
 Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Informationssicherheit ausgewählt werden. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1136.58819930604" y="-153.80151740197596"/>
+          <y:Geometry height="30.0" width="30.0" x="351.79118562443637" y="281.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="386.44140625" x="-178.220703125" xml:space="preserve" y="5.93359375">Gruppe der Interessenträger für die Cybersicherheitszertifzierung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4323,7 +4323,7 @@ Updates und Versionierung, die Verwaltung des Referenzdokuments und die
 Organisation persönlicher Meetings der Stakeholder. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-837.2160817159427" y="-204.25621024685836"/>
+          <y:Geometry height="30.0" width="30.0" x="444.9999999999998" y="418.0"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="58.36328125" x="-14.181640625" xml:space="preserve" y="5.93359375">TF-CSIRT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -9717,6 +9717,292 @@ Die Cyberwehr arbeitet eng mit dem CERT BWL zusammen.]]></data>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
         </y:QuadCurveEdge>
+      </data>
+    </edge>
+    <edge id="e132" source="n49" target="n160">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.983315534759186" y="37.37466453137171">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e133" source="n49" target="n161">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="21.6869176267312" y="-32.20490836724076">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e134" source="n49" target="n150">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-49.06425010955553" y="-1.4467513284436109">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e135" source="n49" target="n149">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-31.305240671884462" y="-41.5631261602544">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e136" source="n49" target="n139">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="293.9764512767995" y="571.1330807659338"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e137" source="n49" target="n162">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e138" source="n49" target="n131">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.681037383965702" y="16.850662439844427">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e139" source="n49" target="n146">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="35.64875024631556" y="2.7776636103913006">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e140" source="n49" target="n147">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-4.501461744733319" y="-58.254464157137306">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
       </data>
     </edge>
   </graph>
