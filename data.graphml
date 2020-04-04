@@ -36,7 +36,6 @@
   <key attr.name="educates" attr.type="string" for="edge" id="d32"/>
   <key attr.name="cooperates" attr.type="string" for="edge" id="d33"/>
   <key attr.name="operates" attr.type="string" for="edge" id="d34"/>
-  <key attr.name="url" attr.type="string" for="edge" id="d35"/>
   <key attr.name="description" attr.type="string" for="edge" id="d36"/>
   <key for="edge" id="d37" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
@@ -3794,7 +3793,7 @@ EU voranzutreiben. Sie verfügt über ein eigenes Frühwarnsystem (ARGUS),
 das ein internes Kommunikationsnetz und ein spezifische Koordinierungsverfahren umfasst – im Falle einer schweren, EU-weiten Krise, die den Cyberbereich betrifft, erfolgt die Koordinierung bei der Kommission via ARGUS.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1180.0010617473506" y="22.069259901137798"/>
+          <y:Geometry height="30.0" width="30.0" x="-87.9453125" y="429.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="18.337890625" x="5.8310546875" xml:space="preserve" y="5.93359375">EK<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3819,7 +3818,7 @@ und damit auch für die Entwicklung von europäischem Führungspotential im
 Bereich Netzwerk- und IT-Sicherheit.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-900.6572470508511" y="101.47966663164198"/>
+          <y:Geometry height="30.0" width="30.0" x="-176.04582804664358" y="359.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="83.20703125" x="-26.603515625" xml:space="preserve" y="5.93359375">GD CONNECT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3859,7 +3858,7 @@ für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaa
       <data key="d8" xml:space="preserve"/>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"><![CDATA[2012]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
@@ -3868,7 +3867,7 @@ für eine verbesserte Zusammenarbeit zwischen den Verwaltungen der Mitgliedsstaa
 alle Organe, Einrichtungen und Agenturen der EU unterstützt. Nach einer erfolgreichen Pilotphase wurde es 2012 aufgebaut. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-824.2973950997064" y="-311.26547884950253"/>
+          <y:Geometry height="30.0" width="30.0" x="-87.9453125" y="359.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.744140625" x="-12.8720703125" xml:space="preserve" y="5.93359375">CERT-EU<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4198,7 +4197,7 @@ in Stand gehalten werden und es erlaubt, jegliche Funktionen die von den CERTs d
 so ihre Fähigkeiten zur Handhabung grenzüberschreitender Cybersicherheitsvorfälle verbessern und eine koordinierte Reaktion erarbeiten können. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-793.5846570396859" y="-136.995099276288"/>
+          <y:Geometry height="30.0" width="30.0" x="-87.9453125" y="281.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="102.0859375" x="-36.04296875" xml:space="preserve" y="5.93359375">CSIRTs Netzwerk<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -9720,21 +9719,20 @@ Die Cyberwehr arbeitet eng mit dem CERT BWL zusammen.]]></data>
       </data>
     </edge>
     <edge id="e132" source="n49" target="n160">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9754,21 +9752,20 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e133" source="n49" target="n161">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9788,21 +9785,20 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e134" source="n49" target="n150">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9822,21 +9818,20 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e135" source="n49" target="n149">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9856,18 +9851,17 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e136" source="n49" target="n139">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -9880,20 +9874,19 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e137" source="n49" target="n162">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9904,21 +9897,20 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e138" source="n49" target="n131">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9938,21 +9930,20 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e139" source="n49" target="n146">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
 Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
 Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9972,14 +9963,141 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       </data>
     </edge>
     <edge id="e140" source="n49" target="n147">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
+Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
+Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-4.501461744733319" y="-58.254464157137306">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e141" source="n144" target="n157">
       <data key="d23"/>
       <data key="d24"/>
       <data key="d25"/>
       <data key="d26"/>
       <data key="d28"/>
-      <data key="d29" xml:space="preserve"><![CDATA[ENISA erstattet dem Europäischen Parlament regelmäßig Bericht über ihre
-Tätigkeiten und arbeitet mit relevanten Behörden der Mitgliedsstaaten und auf EU-Ebene, insbesondere den Computer Security Incident Response Teams, dem CERT-EU, EC3 und INTCEN, zusammen, um situationsbezogenes
-Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- überwachung, effektive Kooperation und Reaktionen auf groß angelegte gren- zübergreifende Vorfälle zu unterstützen. Auf deutscher Ebene arbeitet ENISA mit dem BSI/CERT-Bund zusammen.]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="28.0" y="-26.0322265625">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e142" source="n142" target="n144">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.037037758904773" y="28.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e143" source="n150" target="n144">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-168.2579497016573" y="-63.675527368362395">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e144" source="n49" target="n144">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
       <data key="d30"/>
       <data key="d31"/>
       <data key="d32"/>
@@ -9992,7 +10110,71 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-4.501461744733319" y="-58.254464157137306">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-216.00739616091295" y="-31.348932897620784">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e145" source="n149" target="n144">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-166.0036712982258" y="-17.522713666360346">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e146" source="n144" target="n141">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[CERT-EU besteht aus Experten zentraler EU Institutionen (Europäische Kom- mission, Generalsekretariat des Rates, Europäisches Parlament, Europäi- scher Ausschuss der Regionen, Europäischer Wirtschafts- und Sozialaus- schuss). Es arbeitet eng mit anderen Computer Emergency Response Teams (CERTs) in den Mitgliedsstaaten zusammen und ist Mitglied des CSIRTs Netz- werks.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="17.9951171875">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
