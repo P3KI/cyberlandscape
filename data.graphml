@@ -3477,7 +3477,7 @@ Projektpakete (insgesamt 34 Projekte), mit entsprechenden Listen zur Projektteil
 beinhalten.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1002.0297735297697" y="-216.4863895303639"/>
+          <y:Geometry height="30.0" width="30.0" x="604.1754414058157" y="429.1328125"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.224609375" x="-5.6123046875" xml:space="preserve" y="5.93359375">PESCO<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3707,7 +3707,7 @@ Aufgaben bei der Implementierung der Maßnahmen der Richtlinie zur Gewährleistu
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"><![CDATA[Europäische Union]]></data>
-      <data key="d9" xml:space="preserve"><![CDATA[	Oberste Institution in allen Bereichen (Intergouvernementales Organ und Teil des politischen System der EU)]]></data>
+      <data key="d9" xml:space="preserve"><![CDATA[Oberste Institution in allen Bereichen (Intergouvernementales Organ und Teil des politischen System der EU)]]></data>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
       <data key="d16" xml:space="preserve"/>
@@ -3982,7 +3982,7 @@ Sie ist ein vertrauensbasiertes Netzwerk, das halbjährig zusammentritt. ]]></da
       <data key="d5" xml:space="preserve"><![CDATA[EVA]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"><![CDATA[ftransnational]]></data>
+      <data key="d8" xml:space="preserve"><![CDATA[transnational]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -4010,7 +4010,7 @@ EVA ist der Ausbau der Cyberabwehrfähigkeit. Sie unterstützt Mitgliedsstaaten 
       <data key="d8" xml:space="preserve"><![CDATA[transnational]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"><![CDATA[2013]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
@@ -9830,8 +9830,9 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
       <data key="d30" xml:space="preserve"/>
       <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Mit ENISA, dem EC3 und CERT-EU hat die EVA 2018 ein Memorandum of Un- derstanding unterzeichnet, mit dem Ziel einen Kooperationsrahmen für die Organisationen zu entwickeln.]]></data>
       <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -9850,30 +9851,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e136" source="n49" target="n139">
-      <data key="d23" xml:space="preserve"/>
-      <data key="d24" xml:space="preserve"/>
-      <data key="d25" xml:space="preserve"/>
-      <data key="d26" xml:space="preserve"/>
-      <data key="d28" xml:space="preserve"/>
-      <data key="d29" xml:space="preserve"/>
-      <data key="d30" xml:space="preserve"/>
-      <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"/>
-      <data key="d34" xml:space="preserve"/>
-      <data key="d37">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="293.9764512767995" y="571.1330807659338"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e137" source="n49" target="n162">
+    <edge id="e136" source="n49" target="n162">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9896,7 +9874,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e138" source="n49" target="n131">
+    <edge id="e137" source="n49" target="n131">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9928,7 +9906,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e139" source="n49" target="n146">
+    <edge id="e138" source="n49" target="n146">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9960,7 +9938,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e140" source="n49" target="n147">
+    <edge id="e139" source="n49" target="n147">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -9992,7 +9970,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e141" source="n144" target="n157">
+    <edge id="e140" source="n144" target="n157">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10023,7 +10001,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e142" source="n142" target="n144">
+    <edge id="e141" source="n142" target="n144">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10054,7 +10032,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e143" source="n150" target="n144">
+    <edge id="e142" source="n150" target="n144">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10085,7 +10063,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e144" source="n49" target="n144">
+    <edge id="e143" source="n49" target="n144">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10115,7 +10093,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e145" source="n149" target="n144">
+    <edge id="e144" source="n149" target="n144">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10146,7 +10124,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e146" source="n144" target="n141">
+    <edge id="e145" source="n144" target="n141">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10178,7 +10156,7 @@ Bewusstsein zu schärfen und Policy- Entscheidungen in Bezug auf Gefahren- über
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e147" source="n146" target="n148">
+    <edge id="e146" source="n146" target="n148">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10210,7 +10188,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e148" source="n146" target="n162">
+    <edge id="e147" source="n146" target="n162">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10242,7 +10220,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e149" source="n141" target="n136">
+    <edge id="e148" source="n141" target="n136">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -10263,18 +10241,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e150" source="n150" target="n157">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e149" source="n150" target="n157">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das CSIRTs Netzwerk setzt sich aus Repräsentanten der ernannten CSIRTs der Mitgliedsstaaten sowie des CERT-EU zusammen. Die Europäische Kom- mission beteiligt sich am Netzwerk als Beobachter. ENISA stellt das Sekre- tariat, setzt sich aktiv für die Kooperation zwischen den CSIRTs ein und bietet bei Bedarf aktive Unterstützung für die Koordinierung von Vorfällen.]]></data>
       <data key="d37">
@@ -10295,20 +10273,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e151" source="n49" target="n157">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+    <edge id="e150" source="n49" target="n157">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[ENISA stellt das Sekretariat, setzt sich aktiv für die Kooperation zwischen den CSIRTs ein und bietet bei Bedarf aktive Unterstützung für die Koordinierung von Vorfällen.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -10327,18 +10304,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e152" source="n157" target="n146">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e151" source="n157" target="n146">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[ENISA stellt das Sekretariat, setzt sich aktiv für die Kooperation zwischen den CSIRTs ein und bietet bei Bedarf aktive Unterstützung für die Koordinierung von Vorfällen.]]></data>
       <data key="d37">
@@ -10359,18 +10336,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e153" source="n131" target="n157">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e152" source="n131" target="n157">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[ENISA stellt das Sekretariat, setzt sich aktiv für die Kooperation zwischen den CSIRTs ein und bietet bei Bedarf aktive Unterstützung für die Koordinierung von Vorfällen.]]></data>
       <data key="d37">
@@ -10391,18 +10368,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e154" source="n139" target="n126">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e153" source="n139" target="n126">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Diese Optionen werden in sogenannten Crisis Management Concepts zusam- mengefasst und den EU Ministern vorgelegt. Sie bilden die Grundlage für ope- rationale Planungen und Missionsdurchführungen.]]></data>
       <data key="d37">
@@ -10423,18 +10400,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e155" source="n125" target="n126">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e154" source="n125" target="n126">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem ist dort das CMPD angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Diese Optionen werden in sogenannten Crisis Management Concepts zusam- mengefasst und den EU Ministern vorgelegt. Sie bilden die Grundlage für ope- rationale Planungen und Missionsdurchführungen.]]></data>
       <data key="d37">
@@ -10455,18 +10432,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e156" source="n141" target="n160">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e155" source="n141" target="n160">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Die Beratungsgruppe berät die ENISA bei der Durchführung ihrer Aufgaben und insbesondere den Exekutivdirektor bei der Ausarbeitung eines Vorschlags für das Jahresarbeitsprogramm der ENISA. Darüber hinaus beschäftigt sie sich mit der Frage, wie die Kommunikation mit den einschlägigen Interessen- trägern bezüglich des Jahresarbeitsprogramms sichergestellt werden kann.]]></data>
       <data key="d37">
@@ -10487,18 +10464,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e157" source="n141" target="n129">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e156" source="n141" target="n129">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
@@ -10518,18 +10495,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e158" source="n128" target="n129">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e157" source="n128" target="n129">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[In Zusammenarbeit mit anderen existierenden ähnlichen Körperschaften der EU und der nationalen Ebene, soll die Zelle externe Aspekte hybrider Bedro- hungen, die die EU und ihre Nachbarländer betreffen, analysieren um schnell relevante Vorfälle auszuwerten und so die strategische Entscheidungsfin- dung der EU zu unterstützen.]]></data>
       <data key="d37">
@@ -10550,18 +10527,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e159" source="n151" target="n52">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e158" source="n151" target="n52">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10582,18 +10559,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e160" source="n151" target="n153">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e159" source="n151" target="n153">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10614,20 +10591,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e161" source="n151" target="n150">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e160" source="n151" target="n150">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -10646,18 +10622,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e162" source="n151" target="n148">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e161" source="n151" target="n148">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10678,18 +10654,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e163" source="n158" target="n151">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e162" source="n158" target="n151">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10710,18 +10686,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e164" source="n149" target="n151">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e163" source="n149" target="n151">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10742,18 +10718,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e165" source="n151" target="n128">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e164" source="n151" target="n128">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10774,18 +10750,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e166" source="n151" target="n152">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e165" source="n151" target="n152">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um die Ermittlungsfähigkeiten der Strafverfolgungsbe- hörden der Mitgliedsstaaten im Bereich Cyberkriminalität, das Verständnis für Cyberkriminalität und Ermittlungsoptionen der Strafverfolger und der Justiz zu stärken, arbeitet Eurojust mit spezialisierten Beratergruppen des EC3, Netzwerken der Chefs der Cyberkriminalitätseinheiten sowie auf Cyber- kriminalität spezialisierten Strafverfolger zusammen.Zur Zerschlagung des Andromeda-Botnetzes koordinierte Eurojust die beteiligten Staatsanwalt- schaften (in Deutschland: Staatsanwaltschaft Verden) und arbeitete dabei auch mit dem BSI zusammen.]]></data>
       <data key="d37">
@@ -10806,20 +10782,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e167" source="n153" target="n151">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e166" source="n153" target="n151">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Die Agentur arbeitet eng mit den Mitgliedsstaaten sowie auf EU-Ebene mit dem Europäischen Parlament, dem Datenschutzbeauftragten, dem Europä- ischen Rechnungshof, der EPA, der EASO, der FRAU, Frontex, dem EIGE, der EMCDDA, dem ER, der EK, der ENISA, Eurojust und Europol zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -10840,20 +10815,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e168" source="n153" target="n49">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e167" source="n153" target="n49">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Die Agentur arbeitet eng mit den Mitgliedsstaaten sowie auf EU-Ebene mit dem Europäischen Parlament, dem Datenschutzbeauftragten, dem Europä- ischen Rechnungshof, der EPA, der EASO, der FRAU, Frontex, dem EIGE, der EMCDDA, dem ER, der EK, der ENISA, Eurojust und Europol zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -10872,20 +10846,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e169" source="n153" target="n139">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e168" source="n153" target="n139">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Die Agentur arbeitet eng mit den Mitgliedsstaaten sowie auf EU-Ebene mit dem Europäischen Parlament, dem Datenschutzbeauftragten, dem Europäischen Rechnungshof, der EPA, der EASO, der FRAU, Frontex, dem EIGE, der EMCDDA, dem ER, der EK, der ENISA, Eurojust und Europol zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -10904,20 +10877,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e170" source="n153" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e169" source="n153" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Die Agentur arbeitet eng mit den Mitgliedsstaaten sowie auf EU-Ebene mit dem Europäischen Parlament, dem Datenschutzbeauftragten, dem Europä- ischen Rechnungshof, der EPA, der EASO, der FRAU, Frontex, dem EIGE, der EMCDDA, dem ER, der EK, der ENISA, Eurojust und Europol zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -10938,20 +10910,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e171" source="n147" target="n161">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e170" source="n147" target="n161">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Dazu arbeitet die Gruppe mit der Gruppe der Interessenträger für die Cybersicherheitszertifizierung zusammen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -10970,18 +10941,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e172" source="n147" target="n49">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e171" source="n147" target="n49">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um der schnellen Entwicklungen im Tech- nologiebereich gerecht zu werden, kann die Gruppe, neben der EK, bei ENISA die Entwicklung neuer möglicher Zertifizierungsschemata, die noch nicht im Arbeitsprogramm enthalten sind, beantragen.]]></data>
       <data key="d37">
@@ -11002,18 +10973,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e173" source="n147" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e172" source="n147" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Um der schnellen Entwicklungen im Tech- nologiebereich gerecht zu werden, kann die Gruppe, neben der EK, bei ENISA die Entwicklung neuer möglicher Zertifizierungsschemata, die noch nicht im Arbeitsprogramm enthalten sind, beantragen.]]></data>
       <data key="d37">
@@ -11034,20 +11005,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e174" source="n141" target="n142">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e173" source="n141" target="n142">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Eine Reihe von Generaldirektionen arbeiten im Bereich Cybersicherheit, da- runter CONNECT, HOME und DIGIT.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11066,20 +11036,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e175" source="n141" target="n143">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e174" source="n141" target="n143">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Eine Reihe von Generaldirektionen arbeiten im Bereich Cybersicherheit, da- runter CONNECT, HOME und DIGIT.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11098,20 +11067,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e176" source="n141" target="n165">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+    <edge id="e175" source="n141" target="n165">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Eine Reihe von Generaldirektionen arbeiten im Bereich Cybersicherheit, da- runter CONNECT, HOME und DIGIT.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11130,20 +11098,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e177" source="n141" target="n138">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e176" source="n141" target="n138">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11162,20 +11129,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e178" source="n139" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e177" source="n139" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11194,20 +11160,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e179" source="n150" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e178" source="n150" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11226,20 +11191,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e180" source="n131" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e179" source="n131" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11258,20 +11222,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e181" source="n134" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+    <edge id="e180" source="n134" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Zudem sind das CERT-EU und das ERCC (ERCC über DG ECHO) bei der Kommission angegliedert.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11290,20 +11253,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e182" source="n148" target="n152">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e181" source="n148" target="n152">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11322,20 +11284,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e183" source="n152" target="n158">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e182" source="n152" target="n158">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11354,20 +11315,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e184" source="n152" target="n150">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e183" source="n152" target="n150">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -11388,20 +11348,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e185" source="n152" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e184" source="n152" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-11.962738041687459" ty="8.194056818404079"/>
@@ -11420,20 +11379,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e186" source="n152" target="n135">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+    <edge id="e185" source="n152" target="n135">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[CEPOL Trainings werden in Kooperation mit der EK, dem EC3, dem EJTN, Eu- rojust, der EUCTF, der ECTEG und Interpol erarbeitet und durchgeführt.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11452,18 +11410,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e187" source="n140" target="n125">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e186" source="n140" target="n125">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[EAD Vertreter haben den Vorsitz im PSK.]]></data>
       <data key="d37">
@@ -11484,19 +11442,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e188" source="n125" target="n165">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+    <edge id="e187" source="n125" target="n165">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11506,19 +11463,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e189" source="n125" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+    <edge id="e188" source="n125" target="n141">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11528,64 +11484,71 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e190" source="n125" target="n149">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
-      <data key="d37">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e191" source="n125" target="n154">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
-      <data key="d37">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e192" source="n127" target="n125">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25" xml:space="preserve"><![CDATA[Der EAD beherbergt EUMS INT, INTCEN und die dort untergebrachte EU Hyb- rid Fusion Cell, eine Analyseeinheit für hybride Bedrohungen.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+    <edge id="e189" source="n125" target="n149">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[Für die Ständige Strukturierte Zusammenarbeit (PESCO), führt sie gemein- sam mit dem EAD alle Sekretariatsfunktionen.]]></data>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="188.47687462182202" y="64.81173028670094">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e190" source="n125" target="n154">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e191" source="n127" target="n125">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"><![CDATA[Der EAD beherbergt EUMS INT, INTCEN und die dort untergebrachte EU Hyb- rid Fusion Cell, eine Analyseeinheit für hybride Bedrohungen.]]></data>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11604,20 +11567,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e193" source="n128" target="n125">
-      <data key="d23"/>
-      <data key="d24"/>
+    <edge id="e192" source="n128" target="n125">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"><![CDATA[Der EAD beherbergt EUMS INT, INTCEN und die dort untergebrachte EU Hyb- rid Fusion Cell, eine Analyseeinheit für hybride Bedrohungen.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11636,20 +11598,19 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e194" source="n129" target="n125">
-      <data key="d23"/>
-      <data key="d24"/>
+    <edge id="e193" source="n129" target="n125">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"><![CDATA[Der EAD beherbergt EUMS INT, INTCEN und die dort untergebrachte EU Hyb- rid Fusion Cell, eine Analyseeinheit für hybride Bedrohungen.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11664,6 +11625,418 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e194" source="n139" target="n49">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="59.536427909752774" y="-58.459872098913706">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e195" source="n139" target="n151">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="211.409500606866" y="-90.51796367016681">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e196" source="n139" target="n149">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="30.62411306123107" y="-90.10001306526487">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e197" source="n139" target="n125">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-177.93286588798486" y="-160.44930210847184">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e198" source="n139" target="n140">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e199" source="n139" target="n152">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere ein- schlägige Gremien eingeladen werden.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="210.26494113646925" y="-18.520674224212712">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e200" source="n139" target="n128">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-266.9533768680735" y="-202.1061330563913">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e201" source="n130" target="n149">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"><![CDATA[Für die Ständige Strukturierte Zusammenarbeit (PESCO), führt sie gemein- sam mit dem EAD alle Sekretariatsfunktionen.]]></data>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-133.26615700841535" y="-79.8912650146205">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e202" source="n150" target="n152">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33" xml:space="preserve"><![CDATA[Partner auf Europäischer Ebene sind CERT-EU, CEPOL, Eurojust, ENISA, die Europäische Kommission, die EZB sowie die ECTEG.]]></data>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="264.5651719812571" y="33.26497599680954">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e203" source="n150" target="n149">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e204" source="n139" target="n150">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="12.74781075949852" ty="11.1328125"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e205" source="n150" target="n148">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e206" source="n150" target="n162">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e207" source="n150" target="n165">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-347.64133001906407" y="358.4063799751523"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e208" source="n150" target="n153">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
