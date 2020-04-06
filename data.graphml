@@ -124,7 +124,7 @@
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="585.6272321428572" y="71.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">AA
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -782,7 +782,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="535.6272321428572" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">BAKS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1340,7 +1340,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="385.6272321428572" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.931640625" x="-12.9658203125" xml:space="preserve" y="-1.1328125">BAAINBw
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3207,7 +3207,7 @@ mit neuen Produkten, Dienstleistungen und Wertschöpfungsketten enthalten“.]]>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-972.8497228479016" y="118.97391765265695"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.830078125" x="-6.4150390625" xml:space="preserve" y="5.93359375">SprinD<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3523,7 +3523,7 @@ Kommission eine Richtlinie erlässt, die in nationale Gesetzte im Bereich
 IT-Sicherheit umgesetzt werden muss. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1071.6792224520157" y="-130.76714726724742"/>
+          <y:Geometry height="30.0" width="30.0" x="1022.4129464285718" y="-274.5490736271555"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="45.3203125" x="-7.66015625" xml:space="preserve" y="5.93359375">SOG-IS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -3856,7 +3856,7 @@ angesiedelt bei der Generaldirektion Humanitäre Hilfe und Katastrophenschutz (E
 Bereichen „prevention, preparedness and response“. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1087.1770426756118" y="-296.2271962979013"/>
+          <y:Geometry height="30.0" width="30.0" x="-375.887575992331" y="613.7491280789093"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="34.697265625" x="-2.3486328125" xml:space="preserve" y="5.93359375">ERCC<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4075,7 +4075,7 @@ testet außerdem neue Technologien, die helfen sollen, ein moderneres, wirkungsv
       <data key="d8" xml:space="preserve"/>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"><![CDATA[2008]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
@@ -4110,7 +4110,7 @@ hybriden Gefährdungen für eine umfassende Herangehensweise sorgen und überwac
 Die Gruppe tagt vierteljährlich]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-999.8331104584893" y="25.320319895627904"/>
+          <y:Geometry height="30.0" width="30.0" x="-227.12603831592196" y="56.3916215076585"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.09765625" x="-10.548828125" xml:space="preserve" y="5.93359375">ISG CHT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4138,7 +4138,7 @@ vertrauensbasierten Kooperation zustimmten). Die aktuelle Version von MeliCERTes
 in Stand gehalten werden und es erlaubt, jegliche Funktionen die von den CERTs durchgeführt werden, vom Vorfallsmanagement bis zur Gefahrenanalyse, umzusetzen.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-915.1564354111649" y="-305.51694519043315"/>
+          <y:Geometry height="30.0" width="30.0" x="175.39113549716853" y="550.2782266288372"/>
           <y:Fill color="#4288C8" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="70.744140625" x="-20.3720703125" xml:space="preserve" y="5.93359375">MeliCERTes<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -4276,7 +4276,7 @@ Kommission auf Vorschlag der Agentur der Europäischen Union für Netzund Inform
       <data key="d8" xml:space="preserve"/>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
-      <data key="d14" xml:space="preserve"/>
+      <data key="d14" xml:space="preserve"><![CDATA[2017]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
@@ -4312,7 +4312,7 @@ Organisation persönlicher Meetings der Stakeholder. ]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1552.055803571429" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45703125" x="-0.728515625" xml:space="preserve" y="5.93359375">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="31.45703125" x="-0.728515625" xml:space="preserve" y="5.93359375">AfCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -10598,15 +10598,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="312.31572028651084" y="445.643080869074"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-269.03264552799556" y="33.58873978573456">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-319.1738838416586" y="83.04997661850001">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="24.903640347444025" distanceToCenter="false" position="right" ratio="0.7695415435789643" segment="0"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -11512,6 +11514,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"/>
+      <data key="d27" xml:space="preserve">0.5</data>
       <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
@@ -11519,11 +11522,22 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
       <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Der EAD ist bei der ISG C3M beteiligt.]]></data>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-1.5678294950034228" y="-36.701091578763226">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -11535,7 +11549,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
-      <data key="d30" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
       <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"/>
@@ -11745,28 +11759,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e198" source="n138" target="n139">
-      <data key="d23" xml:space="preserve"/>
-      <data key="d24" xml:space="preserve"/>
-      <data key="d25" xml:space="preserve"/>
-      <data key="d26" xml:space="preserve"/>
-      <data key="d28" xml:space="preserve"/>
-      <data key="d29" xml:space="preserve"/>
-      <data key="d30" xml:space="preserve"/>
-      <data key="d31" xml:space="preserve"/>
-      <data key="d32" xml:space="preserve"/>
-      <data key="d33" xml:space="preserve"/>
-      <data key="d34" xml:space="preserve"/>
-      <data key="d37">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e199" source="n138" target="n151">
+    <edge id="e198" source="n138" target="n151">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11798,7 +11791,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e200" source="n138" target="n127">
+    <edge id="e199" source="n138" target="n127">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11830,7 +11823,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e201" source="n129" target="n148">
+    <edge id="e200" source="n129" target="n148">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11845,15 +11838,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="553.8709267193155" y="549.0595005842233"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-133.26615700841535" y="-79.8912650146205">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-128.92833167583223" y="-14.558327698301923">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
-              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="28.032267607480705" distanceToCenter="false" position="right" ratio="0.3928995779502826" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
@@ -11861,7 +11856,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e202" source="n149" target="n151">
+    <edge id="e201" source="n149" target="n151">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11892,7 +11887,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e203" source="n149" target="n148">
+    <edge id="e202" source="n149" target="n148">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11913,7 +11908,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e204" source="n138" target="n149">
+    <edge id="e203" source="n138" target="n149">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11934,7 +11929,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e205" source="n149" target="n147">
+    <edge id="e204" source="n149" target="n147">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11955,7 +11950,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e206" source="n149" target="n161">
+    <edge id="e205" source="n149" target="n161">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11976,7 +11971,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e207" source="n149" target="n164">
+    <edge id="e206" source="n149" target="n164">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -11999,7 +11994,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e208" source="n149" target="n152">
+    <edge id="e207" source="n149" target="n152">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12013,14 +12008,16 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="296.97709110335495" y="457.37262083266387"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e209" source="n134" target="n149">
+    <edge id="e208" source="n134" target="n149">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12051,7 +12048,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e210" source="n53" target="n136">
+    <edge id="e209" source="n53" target="n136">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12082,7 +12079,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e211" source="n158" target="n151">
+    <edge id="e210" source="n158" target="n151">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12113,7 +12110,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e212" source="n14" target="n147">
+    <edge id="e211" source="n14" target="n147">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12134,7 +12131,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e213" source="n147" target="n164">
+    <edge id="e212" source="n147" target="n164">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12165,7 +12162,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e214" source="n141" target="n48">
+    <edge id="e213" source="n141" target="n48">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12197,7 +12194,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e215" source="n160" target="n140">
+    <edge id="e214" source="n160" target="n140">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12227,7 +12224,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e216" source="n8" target="n131">
+    <edge id="e215" source="n8" target="n131">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12258,7 +12255,7 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e217" source="n140" target="n131">
+    <edge id="e216" source="n140" target="n131">
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
@@ -12278,6 +12275,424 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="63.31243465481694" y="-221.61824673946717">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e217" source="n126" target="n18">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="153.9856195351833" y="11.33745709263303">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e218" source="n126" target="n2">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="352.2359357283821" y="10.59222360330645">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e219" source="n126" target="n6">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="277.67726361993437" y="10.757022778614896">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e220" source="n154" target="n124">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Den Vorsitz der ISG CHT haben sowohl Repräsentant:innen des EAD als auch der Kommission auf Director General- bzw. Deputy Secretary-General-Ebene inne.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="11.888217648196644" y="88.35196118906572">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e221" source="n154" target="n140">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Den Vorsitz der ISG CHT haben sowohl Repräsentant:innen des EAD als auch der Kommission auf Director General- bzw. Deputy Secretary-General-Ebene inne.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-2.2986850607865392" y="211.30977165728547">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e222" source="n130" target="n138">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[hre Hauptaufgabe liegt darin, die Arbeit der Mitgliedsstaaten zur Umsetzung der NIS-Richtlinie zu unter- stützen, indem sie für das CSIRTs Netzwerk beratend tätig wird, Mitglieds- staaten beim Kapazitätsaufbau unterstützt, Informationsaustausch und Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-130.12646214081553" y="30.829916467352348">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e223" source="n48" target="n155">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[Die ENISA ist verantwortlich für die Durchführung und Bereitstellung zentra- ler Aspekte der MeliCERTes Anlage.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-106.75398402804456" y="59.481063626957564">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e224" source="n137" target="n140">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[Die Ergebnisse der NIS Platform wurden von der EK für ihre Empfehlungen zur Cybersicherheit 2014 berücksichtigt.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-236.03514612026095" y="482.7068690861863"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="31.460488720362832" y="6.662993558878611">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e225" source="n139" target="n138">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[Die Aufgaben des PSK sind unter anderem die internationale Lage zu beob- achten, dem Rat Empfehlungen zu strategischen Konzepten und politischen Optionen auszusprechen und für die politische Kontrolle und die strategische Leitung von Krisenbewältigungseinsätzen zu sorgen.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="199.69694415364853" y="139.6021312765722">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e226" source="n53" target="n161">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26" xml:space="preserve"><![CDATA[Mitglieder der Taskforce sind Mitglieder der europäischen CSIRTs, darunter auch CERT-Bund, der Common Taxonomy Governance Group (d.h. Vertreter der ENISA und des EC3), tool-Entwickler und „taxonomy owners“.]]></data>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-289.793815187748" y="69.23939790970235">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e227" source="n39" target="n132">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26" xml:space="preserve"><![CDATA[Deutsches Mitglied der SOG-IG ist das BSI.]]></data>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="84.72017308965917" y="-186.2073910479948">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e228" source="n133" target="n138">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Die Kontaktgruppe bringt die SKI-Kontaktpunkte der Mitgliedsstaaten un- ter dem Vorsitz der EK zusammen. Jedes EU-Mitglied entsendet dabei einen SKI-Kontaktpunkt, der alle SKI-Themen mit den anderen Mitgliedsstaaten, der EK und dem ER koordiniert.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="242.13155668462142" y="5.688641583307003">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e229" source="n144" target="n140">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[Seit seiner Einführung im Jahr 2013 fungiert das ERCC als zentrale Stelle des Krisenmanagements der Kommission und als zentrale Integrierte Regelung für die politische Reaktion auf Krisen (IPCR) 24/7 Kontaktpunkt.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="102.61294724214184" y="-22.11806454302905">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
