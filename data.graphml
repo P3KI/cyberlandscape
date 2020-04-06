@@ -12705,6 +12705,347 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
         </y:PolyLineEdge>
       </data>
     </edge>
+    <edge id="e230" source="n127" target="n48">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-452.23563279710913" y="264.43620652782715"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-89.75333286644525" y="12.569197777339355">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e231" source="n127" target="n140">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-541.9259485305754" y="565.2782266288372"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-147.91887292206252" y="169.6622430466697">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e232" source="n127" target="n130">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="450.6272321428572" y="565.2782266288372"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="347.2913871084256" y="215.96357236279505">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e233" source="n127" target="n39">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="882.075563769353" y="-72.2516847986044"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="583.1819542059209" y="-94.45296323758993">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e234" source="n127" target="n2">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="572.4423507527146" y="-115.85883746268985"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="431.7598052283276" y="-116.23690897108997">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e235" source="n127" target="n14">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1457.7608084291528" y="-103.59808038482817"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="869.5371564305943" y="-110.23713666655965">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e236" source="n127" target="n15">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="-316.53874801261384" y="-182.32852017032224"/>
+            <y:Point x="1348.7812065805542" y="-182.32852017032224"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="15.661007554182675" y="-175.04480823224407">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e237" source="n127" target="n4">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1437.4129464285716" y="-38.96292786117715"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="858.3453333376505" y="-78.0427392176622">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e238" source="n127" target="n6">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="409.1505230536793" y="-126.2510241450945"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="352.3864075159571" y="-121.60242796140456">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e239" source="n127" target="n18">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="250.62723214285722" y="-134.8086806435178"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="276.1865705976572" y="-126.34765963451326">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
   </graph>
   <data key="d22">
     <y:Resources/>
