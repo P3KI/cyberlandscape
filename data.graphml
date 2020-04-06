@@ -812,7 +812,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="185.62723214285722" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">UniBw
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -842,7 +842,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="285.6272321428572" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">SWP
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -960,7 +960,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="1472.4129464285716" y="211.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.96875" x="-5.984375" xml:space="preserve" y="-1.1328125">G4C
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -990,7 +990,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="1109.1986607142858" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.130859375" x="-14.5654296875" xml:space="preserve" y="-1.1328125">UP KRITIS
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1020,7 +1020,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="235.62723214285722" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.62109375" x="-65.310546875" xml:space="preserve" y="-1.1328125">Initiative Wirtschaftsschutz
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1170,7 +1170,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="1372.4129464285716" y="211.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="217.38671875" x="-73.90189206028936" xml:space="preserve" y="24.5687111553259">Initiative IT-Sicherheit i.d. Wirtschaft
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.3316694982764444" nodeRatioX="0.6597155771570216" nodeRatioY="0.5" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1200,7 +1200,7 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="1602.055803571429" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="32.265625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="86.728515625" x="-28.3642578125" xml:space="preserve" y="-1.1328125">Trusted Cloud
           <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
@@ -1219,7 +1219,6 @@ Die BaFin gehört zum Geschäftsbereich des BMF und ist im Cyber-AZ vertreten.
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d20"/>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="822.4129464285716" y="249.79914383496197"/>
@@ -1567,7 +1566,7 @@ Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, B
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="110.62723214285722" y="141.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="36.701171875" x="-3.3505859375" xml:space="preserve" y="5.93359375">NCAZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
@@ -1617,7 +1616,7 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="972.4129464285716" y="211.1328125"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="17.65234375" x="6.173828125" xml:space="preserve" y="5.93359375">LZ<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="diamond"/>
@@ -1636,7 +1635,6 @@ Das LZ arbeitet eng mit dem GMLZ, CERT-Bund und Cyber-AZ zusammen.]]></data>
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d20"/>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1022.4129464285716" y="211.1328125"/>
@@ -3121,7 +3119,7 @@ sich Bund und Länder (in alphabetischer Reihenfolge) jährlich ab. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-770.2449058788486" y="107.35708679371248"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="90.68359375" x="-30.341796875" xml:space="preserve" y="5.93359375">IT-Planungsrat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3175,7 +3173,7 @@ bestehenden „Quadriga“ und 3. eine Evaluierung des Vorgehens mit Handlungsem
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-735.3787352582974" y="-162.70031931977576"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="186.900390625" x="-78.4501953125" xml:space="preserve" y="5.93359375">Nationaler Pakt Cybersicherheit<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -3304,7 +3302,7 @@ zuständig. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
           <y:Geometry height="30.0" width="30.0" x="-966.0893344238036" y="-128.70122231368453"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#99FF99" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.69140625" x="-5.345703125" xml:space="preserve" y="5.93359375">IT-Rat<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -11624,19 +11622,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e194" source="n139" target="n49">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11656,19 +11653,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e195" source="n139" target="n151">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11688,19 +11684,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e196" source="n139" target="n149">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11720,19 +11715,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e197" source="n139" target="n125">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Der ER Gruppe kooperiert eng mit anderen Gruppen, der Europäischen Kommission, dem EAD, Europol, Eurojust, FRA, EVA und ENISA.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11752,18 +11746,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e198" source="n139" target="n140">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11774,17 +11767,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e199" source="n139" target="n152">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Als Beobachter können Europol, Eurojust, Frontex, CEPOL oder andere ein- schlägige Gremien eingeladen werden.]]></data>
       <data key="d37">
@@ -11806,17 +11799,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e200" source="n139" target="n128">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
       <data key="d37">
@@ -11838,19 +11831,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e201" source="n130" target="n149">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Für die Ständige Strukturierte Zusammenarbeit (PESCO), führt sie gemein- sam mit dem EAD alle Sekretariatsfunktionen.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11870,19 +11862,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e202" source="n150" target="n152">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Partner auf Europäischer Ebene sind CERT-EU, CEPOL, Eurojust, ENISA, die Europäische Kommission, die EZB sowie die ECTEG.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11902,18 +11893,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e203" source="n150" target="n149">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11924,18 +11914,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e204" source="n139" target="n150">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="12.74781075949852" ty="11.1328125"/>
@@ -11946,18 +11935,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e205" source="n150" target="n148">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11968,18 +11956,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e206" source="n150" target="n162">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -11990,18 +11977,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e207" source="n150" target="n165">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -12014,18 +12000,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e208" source="n150" target="n153">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12036,19 +12021,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e209" source="n135" target="n150">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Sie arbeitet in enger Abstimmung mit dem EC3 und CEPOL zusammen, um Cy- berkriminalitätstrainings grenzübergreifend zu harmonisieren, Wissensaus- tausch zu ermöglichen, eine Standardisierung von Methoden für Trainingspro- gramme voranzubringen, mit Partnern aus der Wissenschaft eine anerkannte akademische Qualifizierung im Bereich Cyberkriminalität zu entwickeln und Trainings- und Lehrmaterial sowie Trainer für internationale Partner zu stel- len. Aus Deutschland sind die Polizeiakademie Hessen und die Albstadt-Sig- maringen Universität beteiligt.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="11.1328125"/>
@@ -12068,19 +12052,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e210" source="n54" target="n137">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"><![CDATA[Deutsches Mitglied ist der CERT-Bund.]]></data>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12100,19 +12083,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e211" source="n159" target="n152">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
       <data key="d32" xml:space="preserve"><![CDATA[Das EJTN arbeitete im Bereich Cybersicherheit mit CEPOL an den dort angebotenen Trainings.]]></data>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12132,18 +12114,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e212" source="n14" target="n148">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12154,19 +12135,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e213" source="n148" target="n165">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"><![CDATA[Gemeinsam mit CEPOL, Eurojust und GD Home werden bei den Treffen Herausforderungen und Aktionen im Kampf gegen Cyberkriminalität identifiziert, diskutiert und priorisiert.]]></data>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12186,17 +12166,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e214" source="n142" target="n49">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[GD CONNECT trägt die “parent-DG responsibility” für ENISA.]]></data>
       <data key="d37">
@@ -12218,18 +12198,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e215" source="n161" target="n141">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
-      <data key="d36"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12249,19 +12228,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e216" source="n8" target="n132">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Eine koordinierende Geschäftsstelle, sowie eine Erstinformationsstelle ste- hen Interessierten beim BMBF zur Verfügung.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12281,17 +12259,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e217" source="n141" target="n132">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Horizon 2020 ein Forschungs- und Innovationsprogramm der Europäischen Kommission.]]></data>
       <data key="d37">
