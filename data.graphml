@@ -1555,7 +1555,6 @@ Das Cyber-AZ ist eine Kooperationsplattform zwischen BSI, BPol, BKA, BfV, BBK, B
       <data key="d16" xml:space="preserve"/>
       <data key="d17" xml:space="preserve"/>
       <data key="d18" xml:space="preserve"/>
-      <data key="d20"/>
       <data key="d21">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="1122.4129464285716" y="341.1328125"/>
@@ -1802,7 +1801,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d5" xml:space="preserve"/>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -1813,8 +1812,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d20" xml:space="preserve"><![CDATA[Im Juli 2011 wurde bei der Generalstaatsanwaltschaft Stuttgart eine Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität angesiedelt. Ihre Aufgabe ist es, Entwicklungen im Bereich der Informations- und Kommunikationstechnologien zu verfolgen, auszuwerten und die Staatsanwaltschaft darüber zu informieren. Außerdem plant sie Fortbildungsveranstaltungen und führt diese durch. Die Zentralstelle prüft neue Ermittlungsinstrumente aus dem Bereich der Informations- und Kommunikationstechnologien nach ihrer Nutzbarkeit in der Strafverfolgung. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-976.0367558692521" y="80.47509014100876"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="684.0565084829259" y="944.2611852132268"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="632.365234375" x="-301.1826171875" xml:space="preserve" y="5.93359375">Zentralstelle für die Bekämpfung von Informations- und Kommunikationskriminalität - Baden-Württemberg<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -1912,8 +1911,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       </data>
     </node>
     <node id="n67">
-      <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Region Berlin]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[BSI-Verbindungsbüro Region Berlin]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Bundesamt für Sicherheit in der Informationstechnik-Verbindungsbüro Berlin]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[BSI-Verbindungsbüro Berlin]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
       <data key="d8" xml:space="preserve"/>
@@ -1929,7 +1928,7 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
           <y:Geometry height="30.0" width="30.0" x="550.6987057400524" y="834.8986022574263"/>
           <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="209.5234375" x="-89.76171875" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Region Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.68359375" x="-67.841796875" xml:space="preserve" y="5.93359375">BSI-Verbindungsbüro Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
       </data>
     </node>
@@ -1949,8 +1948,8 @@ Der CIH ist dem BMVg zugeordnet und dem Steuerungsboard gehören Vertre- ter:inn
       <data key="d20" xml:space="preserve"><![CDATA[Seit 2015 besteht in der Staatsanwaltschaft Berlin eine Spezialabteilung zur Cyberkriminalität. Schwerpunkt der Abteilung ist der Waren- und Warenkreditbetrug im Zusammenhang mit Online-Handel.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-877.973043222634" y="-103.64825127738334"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="567.5127411534154" y="758.0705766827481"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="511.703125" x="-240.8515625" xml:space="preserve" y="5.93359375">Spezialabteilung zur Bekämpfung von Internetkriminalität der Staatsanwaltschaft Berlin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -2723,8 +2722,8 @@ Wissen zusammenführt. ]]></data>
       <data key="d20" xml:space="preserve"><![CDATA[Die Zentralstelle wurde 2010 als Außenstelle der Generalstaatsanwaltschaft Frankfurt (a.M.) in Gießen errichtet. Sie ist operative Zentralstelle bei besonders aufwändigen und umfangreichen Ermittlungsverfahren in den Bereichen, Kinderpornographie und sexueller Missbrauch von Kindern mit Bezug zum Internet, Darknet-Kriminalität und anderer Cyberkriminalität. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-976.2307256321144" y="-313.1440364230067"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1502.0558035714287" y="-29.68351410202024"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="22.298828125" x="3.8505859375" xml:space="preserve" y="5.93359375">ZIT<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -2873,11 +2872,11 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
       </data>
     </node>
     <node id="n109">
-      <data key="d4" xml:space="preserve"><![CDATA[Cybercrime - Kompetenzzentrum Nordrhien-Westfalen]]></data>
-      <data key="d5" xml:space="preserve"><![CDATA[none]]></data>
+      <data key="d4" xml:space="preserve"><![CDATA[Cybercrime-Kompetenzzentrum Nordrhien-Westfalen]]></data>
+      <data key="d5" xml:space="preserve"><![CDATA[Cybercrime-Kompetenzzentrum]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -2889,8 +2888,8 @@ Bekämpfung der Informations-und Kommunikationskriminalität Rostock<y:LabelMode
 Internetrecherche und die Auswertestelle für Kinderpornografie beherbergt.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-709.1164080426367" y="-9.615682439803663"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="380.4228854510527" y="801.2425511080698"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.28515625" x="-81.142578125" xml:space="preserve" y="5.93359375">Cybercrime-Kompetenzzentrum<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -2986,8 +2985,8 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d20" xml:space="preserve"><![CDATA[2014 wurde das Cyber Crime Competence Center im Verantwortungsbereich des Landeskriminalamtes Sachsen gegründet. Es fokussiert sich auf die verschiedenen Kriminalitätsfelder, die mit dem Internet in Zusammenhang stehen, zum Beispiel rechtwidrige Online-Transaktionen. Dabei verfolgt es einen integrativen Ansatz, indem es entsprechende Spezialisten zusammenzieht und so Synergieeffekte nutzbar macht. Zu seinen Aufgaben gehören außerdem die Beschaffung notwendiger Hard- und Software, sowie die Beobachtung aktueller technischer Entwicklungen. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-922.3437595867533" y="-254.02490009829842"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1072.4129464285716" y="752.727561283718"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="35.21875" x="-2.609375" xml:space="preserve" y="5.93359375">SN4C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -2998,7 +2997,7 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d5" xml:space="preserve"><![CDATA[ZCS]]></data>
       <data key="d6" xml:space="preserve"/>
       <data key="d7" xml:space="preserve"/>
-      <data key="d8" xml:space="preserve"/>
+      <data key="d8" xml:space="preserve"><![CDATA[state]]></data>
       <data key="d9" xml:space="preserve"/>
       <data key="d10" xml:space="preserve"/>
       <data key="d14" xml:space="preserve"/>
@@ -3009,8 +3008,8 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d20" xml:space="preserve"><![CDATA[Die seit 2016 bei der Generalstaatsanwaltschaft Dresden angesiedelte Zentralstelle ist das justizielle Gegenstück zum SN4C des Landeskriminalamtes Sachsen und fokussiert sich auf die Verfolgung von Straftaten mit Internetbezug.]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-740.7842490268238" y="-201.53736915057618"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="897.4129464285716" y="1037.4088805110746"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="26.01953125" x="1.990234375" xml:space="preserve" y="5.93359375">ZCS<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -13077,19 +13076,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e241" source="n121" target="n122">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"><![CDATA[Die Cyberagentur bildet gemeinsam mit der SprinD ein Ökosystem, das viel- versprechende Ideen und Innovationen identifizieren, fördern und entwickeln soll – insbesondere um Redundanzen zu vermeiden, gibt es eine enge Abstimmung der Arbeitsprogramme zwischen beiden Agenturen, zum Beispiel durch gegenseitige Beauftragungen bei agenturübergreifenden Themen.]]></data>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -13109,17 +13107,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e242" source="n119" target="n122">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
       <data key="d37">
@@ -13141,17 +13139,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e243" source="n4" target="n122">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
       <data key="d37">
@@ -13175,17 +13173,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e244" source="n6" target="n122">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?
 ?]]></data>
@@ -13211,17 +13209,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e245" source="n5" target="n122">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
       <data key="d37">
@@ -13245,19 +13243,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e246" source="n51" target="n66">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -13277,19 +13274,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e247" source="n51" target="n110">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Die AfCS ist eine Public-Private-Partnership von BSI und BITKOM mit Wirt- schaft, Behörden, Forschung und Wissenschaft.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -13309,19 +13305,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e248" source="n15" target="n36">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"><![CDATA[Das BfV ist in der Initiative Wirtschaftsschutz vertreten und greift auf die Expertise von ZITiS zurück.]]></data>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -13343,17 +13338,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e249" source="n7" target="n117">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das BKA gehört zum Geschäftsbereich des BMI. Es ist im Cyber-AZ, sowie im G4C und der Initiative Wirtschaftsschutz vertreten. Es ist im DsiN Beirat und greift auf die Expertise von ZITiS zurück.]]></data>
       <data key="d37">
@@ -13375,19 +13370,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e250" source="n7" target="n123">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -13407,19 +13401,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e251" source="n4" target="n120">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
       <data key="d33" xml:space="preserve"><![CDATA[Das BMI verständigte sich September 2019 auf eine intensivierte Zusammenarbeit mit dem Cyberbündnis in der Wirtschaft.]]></data>
-      <data key="d34"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -13441,17 +13434,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e252" source="n119" target="n120">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
       <data key="d37">
@@ -13465,18 +13458,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e253" source="n117" target="n103">
-      <data key="d23"/>
-      <data key="d24"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"><![CDATA[
 Die Föderale IT-Kooperation soll als operativer Unterbau des IT-Planungsra- tes die Ebenen bei der Digitalisierung der Verwaltung koordinieren und die Handlungs- sowie politisch-strategische Steuerungsfähigkeit des IT-Pla- nungsrates verbessern.]]></data>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d37">
         <y:PolyLineEdge>
@@ -13500,14 +13493,14 @@ Die Föderale IT-Kooperation soll als operativer Unterbau des IT-Planungsra- tes
       <data key="d23" xml:space="preserve"/>
       <data key="d24" xml:space="preserve"/>
       <data key="d25" xml:space="preserve"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Der Vorsitz des IT-Rats wird durch den Chef des Bundeskanzleramts wahrge- nommen. Stellvertretende Vorsitzende sind die Bundesbeauftragte für Digi- talisierung und der Beauftragte der Bundesregierung für Informationstechnik (BfIT).]]></data>
       <data key="d37">
@@ -13531,11 +13524,108 @@ Die Föderale IT-Kooperation soll als operativer Unterbau des IT-Planungsra- tes
       </data>
     </edge>
     <edge id="e255" source="n119" target="n39">
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"><![CDATA[Teil des Paktes sind unter anderem das Cyberbündnis mit der Wirtschaft, die Agentur für Innovation in der Cybersicherheit, das IT-Sicherheitskennzeichen und die Aufnahme des Verbraucherschutzes als neue Aufgabe des BSI – wei- tere Beiträge von anderen Stakeholdern werden im Laufe der Umsetzung identifiziert.]]></data>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="967.8097316685294" y="-404.80521901438533"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="688.618257647818" y="-426.4978505547951">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e256" source="n102" target="n14">
       <data key="d23"/>
       <data key="d24"/>
       <data key="d25"/>
       <data key="d26"/>
-      <data key="d28" xml:space="preserve"><![CDATA[Teil des Paktes sind unter anderem das Cyberbündnis mit der Wirtschaft, die Agentur für Innovation in der Cybersicherheit, das IT-Sicherheitskennzeichen und die Aufnahme des Verbraucherschutzes als neue Aufgabe des BSI – wei- tere Beiträge von anderen Stakeholdern werden im Laufe der Umsetzung identifiziert.]]></data>
+      <data key="d28" xml:space="preserve"><![CDATA[Die ZIT ist erster Ansprechpartner des BKAs für Internetstraftaten bei noch ungeklärter örtlicher Zuständigkeit in Deutschland und bei Massenverfah- ren gegen mehrere Tatverdächtige deutschlandweit. Sie ist außerdem Grün- dungsmitglied im Judicial Cybercrime Network.]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-58.49739995274558" y="57.11069027985096">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e257" source="n102" target="n157">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26" xml:space="preserve"><![CDATA[Die ZIT ist Grün- dungsmitglied im Judicial Cybercrime Network.]]></data>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-379.982516440572" y="149.12700954202998">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e258" source="n113" target="n79">
+      <data key="d23" xml:space="preserve"><![CDATA[Das Center übernimmt die Aufgabenbereiche der Zentralen Ansprechstelle für die Wirtschaft.]]></data>
+      <data key="d24" xml:space="preserve"><![CDATA[Das Center übernimmt die Aufgabenbereiche der Zentralen Ansprechstelle für die Wirtschaft.]]></data>
+      <data key="d25" xml:space="preserve"><![CDATA[Das Center übernimmt die Aufgabenbereiche der Zentralen Ansprechstelle für die Wirtschaft.]]></data>
+      <data key="d26"/>
+      <data key="d28"/>
       <data key="d29"/>
       <data key="d30"/>
       <data key="d31"/>
@@ -13547,11 +13637,78 @@ Die Föderale IT-Kooperation soll als operativer Unterbau des IT-Planungsra- tes
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="967.8097316685294" y="-404.80521901438533"/>
+            <y:Point x="1137.4129464285716" y="767.727561283718"/>
+            <y:Point x="1137.4129464285716" y="617.84773404328"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="688.618257647818" y="-426.4978505547951">
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="15.509748186384058" y="28.000022221218046">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e259" source="n118" target="n113">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30" xml:space="preserve"><![CDATA[Die Sicherheitskooperation Cybercrime bietet eine Plattform für Polizei und Digitalwirtschaft bietet, um gemeinsam den Gefah- ren durch Cybercrime zu begegnen und dazu Wissen und technische Kompe- tenzen auszutauschen.]]></data>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-85.93054027878816" y="76.68232508076176">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e260" source="n67" target="n39">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28"/>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d36" xml:space="preserve"><![CDATA[?]]></data>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="893.684161403012" y="185.97153571612733"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="185.16785501528113" y="-313.14222973776805">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
