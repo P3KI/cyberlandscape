@@ -3032,8 +3032,8 @@ Wirtschaftsunternehmen. Das LKA ist seit 2014 Mitglied der Allianz für Cyber-Si
       <data key="d20" xml:space="preserve"><![CDATA[Das Competence Center wurde 2012 im Landeskriminalamt Sachsen-Anhalt eingerichtet und bündelt Spezialisten verschiedener Dezernate im Bereich der Cyberkriminalität. Die Mitarbeiter des Landeskriminalamtes werden dabei von Wissenschaftlern unterstützt, für die neue Stellen geschaffen wurden. Das Kompetenzzentrum soll sich landesweit um die komplizierteren Fälle kümmern und die Polizei bei einfacheren Betrugsfällen unterstützen. ]]></data>
       <data key="d21">
         <y:GenericNode configuration="ShinyPlateNode3">
-          <y:Geometry height="30.0" width="30.0" x="-1157.637666954153" y="-55.45944828402287"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="30.0" width="30.0" x="1370.4502794756672" y="691.7429357236542"/>
+          <y:Fill color="#C84793" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.1328125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="19.890625" x="5.0546875" xml:space="preserve" y="5.93359375">4C<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
         </y:GenericNode>
@@ -12288,19 +12288,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e217" source="n126" target="n18">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12320,19 +12319,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e218" source="n126" target="n2">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12352,19 +12350,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e219" source="n126" target="n6">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[EUMS INT arbeitet eng mit dem zivilen Lagezentrum INTCEN formalisiert als Single Intelligence Analysis Capacity (SIAC) zusammen. SIAC fungiert als Zen- trum zur Generierung strategischer Informationen, Frühwarnungen und um- fassender Analysen, die sowohl EU-Gremien als auch Entscheidungsträgern in den Mitgliedsstaaten zur Verfügung gestellt werden. Seine Produkte stellt das EUMS INT (teils gemeinsam mit dem INTCEN) dem BMVg, dem AA, dem BND, dem Eurokorps, dem Deutschen Militärischen Vertreter bei der Europä- ischen Union und dem Kommando Operative Führung Eingreifkräfte zur Verfügung.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12384,17 +12381,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e220" source="n154" target="n124">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Den Vorsitz der ISG CHT haben sowohl Repräsentant:innen des EAD als auch der Kommission auf Director General- bzw. Deputy Secretary-General-Ebene inne.]]></data>
       <data key="d37">
@@ -12416,17 +12413,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e221" source="n154" target="n140">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Den Vorsitz der ISG CHT haben sowohl Repräsentant:innen des EAD als auch der Kommission auf Director General- bzw. Deputy Secretary-General-Ebene inne.]]></data>
       <data key="d37">
@@ -12448,17 +12445,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e222" source="n130" target="n138">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[hre Hauptaufgabe liegt darin, die Arbeit der Mitgliedsstaaten zur Umsetzung der NIS-Richtlinie zu unter- stützen, indem sie für das CSIRTs Netzwerk beratend tätig wird, Mitglieds- staaten beim Kapazitätsaufbau unterstützt, Informationsaustausch und Best Practices bei Kernthemen wie Cyberawareness fördert.]]></data>
       <data key="d37">
@@ -12480,19 +12477,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e223" source="n48" target="n155">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Die ENISA ist verantwortlich für die Durchführung und Bereitstellung zentra- ler Aspekte der MeliCERTes Anlage.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12512,19 +12508,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e224" source="n137" target="n140">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Die Ergebnisse der NIS Platform wurden von der EK für ihre Empfehlungen zur Cybersicherheit 2014 berücksichtigt.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -12546,19 +12541,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e225" source="n139" target="n138">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Die Aufgaben des PSK sind unter anderem die internationale Lage zu beob- achten, dem Rat Empfehlungen zu strategischen Konzepten und politischen Optionen auszusprechen und für die politische Kontrolle und die strategische Leitung von Krisenbewältigungseinsätzen zu sorgen.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12578,19 +12572,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e226" source="n53" target="n161">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"><![CDATA[Mitglieder der Taskforce sind Mitglieder der europäischen CSIRTs, darunter auch CERT-Bund, der Common Taxonomy Governance Group (d.h. Vertreter der ENISA und des EC3), tool-Entwickler und „taxonomy owners“.]]></data>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12610,19 +12603,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e227" source="n39" target="n132">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
       <data key="d26" xml:space="preserve"><![CDATA[Deutsches Mitglied der SOG-IG ist das BSI.]]></data>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12642,17 +12634,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e228" source="n133" target="n138">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Die Kontaktgruppe bringt die SKI-Kontaktpunkte der Mitgliedsstaaten un- ter dem Vorsitz der EK zusammen. Jedes EU-Mitglied entsendet dabei einen SKI-Kontaktpunkt, der alle SKI-Themen mit den anderen Mitgliedsstaaten, der EK und dem ER koordiniert.]]></data>
       <data key="d37">
@@ -12674,19 +12666,18 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e229" source="n144" target="n140">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
       <data key="d30" xml:space="preserve"><![CDATA[Seit seiner Einführung im Jahr 2013 fungiert das ERCC als zentrale Stelle des Krisenmanagements der Kommission und als zentrale Integrierte Regelung für die politische Reaktion auf Krisen (IPCR) 24/7 Kontaktpunkt.]]></data>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
-      <data key="d36"/>
       <data key="d37">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -12706,17 +12697,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e230" source="n127" target="n48">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
       <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12740,17 +12731,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e231" source="n127" target="n140">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12774,17 +12765,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e232" source="n127" target="n130">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12808,17 +12799,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e233" source="n127" target="n39">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[Das INTCEN erarbeitet mit Europol halbjährlich die vorausschauende Be- drohungslage, welche an den Ständigen Ausschuss für die operative Zusam- menarbeit im Bereich der inneren Sicherheit (COSI) übermittelt wird. Aus Deutschland tragen BND und BfV Berichte bei und entsenden Mitarbeiter an das INTCEN. INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12842,17 +12833,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e234" source="n127" target="n2">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
       <data key="d29" xml:space="preserve"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12876,17 +12867,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e235" source="n127" target="n14">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12910,17 +12901,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e236" source="n127" target="n15">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12945,17 +12936,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e237" source="n127" target="n4">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -12979,17 +12970,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e238" source="n127" target="n6">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -13013,17 +13004,17 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
       </data>
     </edge>
     <edge id="e239" source="n127" target="n18">
-      <data key="d23"/>
-      <data key="d24"/>
-      <data key="d25"/>
-      <data key="d26"/>
-      <data key="d28"/>
-      <data key="d29"/>
-      <data key="d30"/>
-      <data key="d31"/>
-      <data key="d32"/>
-      <data key="d33"/>
-      <data key="d34"/>
+      <data key="d23" xml:space="preserve"/>
+      <data key="d24" xml:space="preserve"/>
+      <data key="d25" xml:space="preserve"/>
+      <data key="d26" xml:space="preserve"/>
+      <data key="d28" xml:space="preserve"/>
+      <data key="d29" xml:space="preserve"/>
+      <data key="d30" xml:space="preserve"/>
+      <data key="d31" xml:space="preserve"/>
+      <data key="d32" xml:space="preserve"/>
+      <data key="d33" xml:space="preserve"/>
+      <data key="d34" xml:space="preserve"/>
       <data key="d35" xml:space="preserve"/>
       <data key="d36" xml:space="preserve"><![CDATA[INTCEN-Berichte wiederum gehen an das BKAmt, den BND, das AA, das BMVg, den MAD, das BMI und den BfV sowie themenbezogen unter Umständen weitere an Stellen.]]></data>
       <data key="d37">
@@ -13034,6 +13025,37 @@ Letzteres soll durch die Entwicklung einer gemeinsamen Taxonomie die Ko- operati
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="276.1865705976572" y="-126.34765963451326">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e240" source="n115" target="n78">
+      <data key="d23"/>
+      <data key="d24"/>
+      <data key="d25"/>
+      <data key="d26"/>
+      <data key="d28" xml:space="preserve"><![CDATA[Das Center ist auch Zentrale Ansprechstelle für die Wirtschaft.]]></data>
+      <data key="d29"/>
+      <data key="d30"/>
+      <data key="d31"/>
+      <data key="d32"/>
+      <data key="d33"/>
+      <data key="d34"/>
+      <data key="d35" xml:space="preserve"/>
+      <data key="d37">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.62181721014008" y="-25.053316555792435">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
