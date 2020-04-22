@@ -21,6 +21,7 @@ Graph data showing relationships between entities in the cyber-political landsca
 * "state" (string) none or state the entity is assigned to.
 
 ## Edge Attribute Fields
+* "description" (string) descriptive text
 * "oversight.tech" (string) fachaufsicht
 * "oversight.legal" (string) rechtsaufsicht
 * "directs" (string) weisungsbefugnis ggü...
