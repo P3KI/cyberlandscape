@@ -20,6 +20,8 @@ Graph data showing relationships between entities in the cyber-political landsca
 * "publication" (string) list of publication type and recurrence. TODO: define separate type for this?
 
 ## Edge Attribute Fields
+* "URL" (string) online source of information
+* "description" (string) descriptive text
 * "oversight.tech" (string) fachaufsicht
 * "oversight.legal" (string) rechtsaufsicht
 * "directs" (string) weisungsbefugnis ggü...
